@@ -27,8 +27,6 @@ Mobile.tap(findTestObject('Object Repository/Negative -Appium country code/andro
 
 Mobile.tap(findTestObject('Object Repository/Negative -Appium country code/android.widget.CheckBox'), 0)
 
-Mobile.tap(findTestObject(''), 0)
-
 Mobile.switchToNative()
 
 Mobile.tap(findTestObject('Object Repository/Negative -Appium country code/android.widget.ImageButton'), 0)
