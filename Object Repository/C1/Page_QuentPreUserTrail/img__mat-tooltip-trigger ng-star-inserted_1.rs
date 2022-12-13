@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__mat-tooltip-trigger ng-star-inserted_1</name>
+   <tag></tag>
+   <elementGuidId>9a3866ad-bac6-4704-813e-4fa6922a2a18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.mat-tooltip-trigger.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-icon/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b2d60806-9777-4d42-92d6-f8224d5c6ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/icons/outline_visibility_off.png</value>
+      <webElementGuid>bb2281b4-4c7a-48cb-bda5-026b08da25c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger ng-star-inserted</value>
+      <webElementGuid>52e2fc8c-af6e-4842-9f2c-013e216cf023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-1</value>
+      <webElementGuid>6f360e67-6898-40f3-a30a-a6ab25aaa669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;regflow-panel&quot;]/app-root[1]/app-auth-flow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;auth-contents&quot;]/div[1]/main[1]/section[1]/app-common[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;signin-user&quot;]/div[1]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;right-panel-body&quot;]/div[@class=&quot;panel-right fixed p-r3 p-t7&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[1]/div[1]/div[@class=&quot;common-margin&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;common-signup&quot;]/div[5]/mat-form-field[@class=&quot;mat-form-field ng-tns-c106-2 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c106-2&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c106-2&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c106-2 ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons-outlined cursor-pointer material-icons mat-icon-no-color ng-tns-c106-2&quot;]/img[@class=&quot;mat-tooltip-trigger ng-star-inserted&quot;]</value>
+      <webElementGuid>c1d91fa2-86c6-4527-894f-f9fc167e899e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-icon/img</value>
+      <webElementGuid>ba97a536-3049-4033-99cf-9e104188ba8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/outline_visibility_off.png']</value>
+      <webElementGuid>6e4a415f-d4fe-405e-a674-2356758c0fe9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
