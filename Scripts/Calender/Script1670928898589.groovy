@@ -27,23 +27,11 @@ WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/sp
 
 WebUI.setText(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/input__login-phonenumber'), '8050694262')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/input__login-password'), 'w/TPepMBWueTXZWP1NSeHg==')
-
-WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/img__mat-tooltip-trigger ng-star-inserted'))
-
-WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/img__mat-tooltip-trigger ng-star-inserted_1'))
-
-WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/button_Login'))
-
-WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/button_Close'))
-
-WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/img__mat-tooltip-trigger ng-star-inserted'))
-
 WebUI.setText(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/input__login-password_1'), 'Test@123')
 
 WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/img_PUT Data_date-picker ng-tns-c106-10'))
+WebUI.click(findTestObject('Calender/Page_QuentPreUserTrail/img_PUT Data_date-picker ng-tns-c106-10 - Copy'))
 
 WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
 
@@ -62,10 +50,6 @@ WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/bu
 WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/div_18'))
 
 WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/img_PUT Data_date-picker ng-tns-c106-10'))
-
-WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
-
-WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
 
 WebUI.click(findTestObject('Object Repository/Calender/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
 
