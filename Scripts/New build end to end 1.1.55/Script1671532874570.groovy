@@ -33,7 +33,7 @@ Mobile.switchToNative()
 
 Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.ImageButton'), 0)
 
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.TextView - 91'), 0)
+Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.ImageView (1)'), 0)
 
 Mobile.sendKeys(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.EditText - Phone number'), 
     '8050694262')
@@ -62,53 +62,65 @@ Mobile.sendKeys(findTestObject('Object Repository/New build end to end 1.1.55/an
 
 Mobile.delay(20)
 
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.LinearLayout'), 0)
 
-Mobile.scrollToText('height')
 
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.ImageButton (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.Button - OK'), 0)
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.ImageButton (3)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.EditText - Hip Size'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.EditText - Weight'), '74')
-
-Mobile.sendKeys(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.EditText - Height'), '164')
-
-Mobile.scrollToText('measure')
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.Button - Measure'), 0)
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.ImageView (2)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.TextView - Measure'), 0)
-
-Mobile.switchToNative()
-
-Mobile.scrollToText('Blood')
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.ImageView (3)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.TextView - Measure (1)'), 0)
-
-Mobile.switchToNative()
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.Button - OK (1)'), 0)
-
-Mobile.tap(findTestObject(''), 0)
-
-Mobile.switchToNative()
-
-Mobile.scrollToText('body')
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.ImageView (4)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.TextView - Measure (2)'), 0)
-
-Mobile.switchToNative()
+Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.ImageButton (1)'), 0)
+/*
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.LinearLayout'), 0)
+ * 
+ * Mobile.scrollToText('height')
+ * 
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.ImageButton (2)'), 0)
+ * 
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.view.View - 8'), 0)
+ * 
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.Button - OK'), 0)
+ * 
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.ImageButton (3)'), 0)
+ * 
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.EditText - Hip Size'), 0)
+ * 
+ * Mobile.sendKeys(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.EditText - Weight'), '75')
+ * 
+ * Mobile.sendKeys(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.EditText - Height'), '164')
+ * 
+ * Mobile.scrollToText('measure')
+ * 
+ * Mobile.tap(findTestObject(''), 0)
+ * 
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.ImageView (3)'), 0)
+ * 
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.TextView - Measure'), 0)
+ * 
+ * Mobile.switchToNative()
+ * 
+ * Mobile.switchToNative()
+ * 
+ * Mobile.scrollToText('blood oxygen')
+ * 
+ * Mobile.switchToNative()
+ * 
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.ImageView (5)'), 0)
+ * 
+ * Mobile.switchToNative()
+ * 
+ * Mobile.tap(findTestObject('Object Repository/New build end to end
+ * 1.1.55/android.widget.TextView - Measure (1)'), 0)
+ * 
+ * Mobile.switchToNative()
+ */
 
 Mobile.closeApplication()
 

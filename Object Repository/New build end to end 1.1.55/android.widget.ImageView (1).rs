@@ -12,159 +12,159 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.ImageView</value>
-      <webElementGuid>141354b1-4954-4aeb-99de-98f084c40f9f</webElementGuid>
+      <webElementGuid>6956bd30-fd6b-4f97-a04f-3035c442317f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d38d848d-d92d-40f9-a04a-ec39c1145d08</webElementGuid>
+      <webElementGuid>a66b200b-4f5d-4643-9575-b64c2b1d68c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.iris.iris:id/imgBackBtn</value>
-      <webElementGuid>fdd896b5-b767-4f46-97bf-392becc14fa5</webElementGuid>
+      <value>com.iris.iris:id/imgFlag</value>
+      <webElementGuid>43fa54b6-2d9d-41f5-bb0a-48a4135bbe77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>package</name>
       <type>Main</type>
       <value>com.iris.iris</value>
-      <webElementGuid>2fff6072-c36b-4ea9-9363-da41c6e4d6bf</webElementGuid>
+      <webElementGuid>46402c3b-3e23-4c0f-aef8-ac73afd9ca60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bc4a83c6-6d44-4882-b63a-4d02d23afaea</webElementGuid>
+      <webElementGuid>228dbeb4-ef98-4c52-969f-7b3cef18f9d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>14923c2e-e8d5-4baf-9b9d-2bf3da33aaf8</webElementGuid>
+      <webElementGuid>5be2877c-cc31-41f0-9405-54926cda9739</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>clickable</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>4748934b-f432-4072-936a-c355ea4a4794</webElementGuid>
+      <value>false</value>
+      <webElementGuid>97ded511-c40c-4faf-875d-0b36d792dc81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5d7780b5-6927-4bc1-bda6-9ab849cabe98</webElementGuid>
+      <webElementGuid>cae87bf8-b2b3-460c-865d-fbdb0e4caccd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focusable</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>6582591e-ca4b-474f-8760-e08e36076b7a</webElementGuid>
+      <value>false</value>
+      <webElementGuid>1ed31a27-8c17-4ffc-8da9-b56a183a92c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>aca3367a-1c62-4f06-955b-882fb30e455f</webElementGuid>
+      <webElementGuid>66cc042b-5ca0-4730-8042-aed307953c3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>95299e2e-fabd-45ed-92cd-737dc55b557b</webElementGuid>
+      <webElementGuid>6dc67798-4233-4e47-92b6-bbbba82af55d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4af59d8f-2db8-4a5d-b442-1d58f19b6683</webElementGuid>
+      <webElementGuid>bd3bba58-302c-4839-8e19-68e8314ec7f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>add943cf-5e21-424d-ab87-2e1c8ce808a2</webElementGuid>
+      <webElementGuid>a840d5f8-43e5-4b95-adc2-630116ff4670</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>81ac9533-9b22-4a22-adbd-5e93dea4d071</webElementGuid>
+      <webElementGuid>ab43c8aa-4d0f-4261-9997-8e384a55e8af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>34</value>
-      <webElementGuid>39aa84b9-ac0a-40d6-b348-346a0fd21391</webElementGuid>
+      <value>144</value>
+      <webElementGuid>95975f89-f43b-40a4-bd8c-6d02f26cb55c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>103</value>
-      <webElementGuid>05147051-f60d-4889-b750-443520543521</webElementGuid>
+      <value>1213</value>
+      <webElementGuid>56083f42-c661-4d4b-8099-9aeb48ef2349</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>81</value>
-      <webElementGuid>36ce09d7-d02f-40f4-9c07-7057bde4d39d</webElementGuid>
+      <value>108</value>
+      <webElementGuid>f254ac14-89e0-417c-9b83-beb6440792a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>81</value>
-      <webElementGuid>d8c34bfc-0f41-4be3-afb3-59b4c1073bf9</webElementGuid>
+      <value>108</value>
+      <webElementGuid>bc56b706-11b0-47aa-870c-149a3ab412c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[34,103][115,184]</value>
-      <webElementGuid>20489f44-0af4-49e4-9492-15e160b97699</webElementGuid>
+      <value>[144,1213][252,1321]</value>
+      <webElementGuid>fae8b3ec-2c31-4936-9680-14d5ca4538ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>fe89d9b7-f6f3-487e-8428-bb56c904690e</webElementGuid>
+      <webElementGuid>4b628e98-54ee-45d2-9e96-cbdc36a0466f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -172,16 +172,16 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>4bbc1af3-3c3a-4297-8d51-6a7f26750442</webElementGuid>
+      <webElementGuid>d8b41984-1617-46f1-932e-2e97537605b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/androidx.appcompat.widget.LinearLayoutCompat[1]/android.widget.LinearLayout[1]/android.view.ViewGroup[1]/android.widget.RelativeLayout[1]/android.widget.ImageView[1]</value>
-      <webElementGuid>0c028991-5b6c-4812-b0b0-64ede37c96ad</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.RelativeLayout[2]/android.widget.ImageView[1]</value>
+      <webElementGuid>0259413f-14c9-4660-b74c-25e22b4bbb8b</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.ImageView' and @resource-id = 'com.iris.iris:id/imgBackBtn' and (@text = '' or . = '')]</locator>
-   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+   <locator>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.RelativeLayout[2]/android.widget.ImageView[1]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
 </MobileElementEntity>
