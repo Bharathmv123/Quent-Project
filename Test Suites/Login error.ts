@@ -15,7 +15,7 @@
       <guid>f1d31bc2-6031-486d-96d9-965ec89db5d7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/As a user want to login into the app and add user details and ondemand vitals - 1.1.55</testCaseId>
+      <testCaseId>Test Cases/User flow 1 - As a user want to login into the app and add user details and ondemand vitals - 1.1.55</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
