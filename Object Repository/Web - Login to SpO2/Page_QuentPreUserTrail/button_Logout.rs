@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Logout</name>
+   <tag></tag>
+   <elementGuidId>76cd6c29-3718-45b6-97f6-a88ea7ba933b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#logout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='logout']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dfe58fea-e5db-4a10-9f6a-f9691c740317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>logout</value>
+      <webElementGuid>05a05f92-8ff5-45a2-866d-fe3e624438c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator menu-list mat-button mat-button-base cdk-focused cdk-program-focused</value>
+      <webElementGuid>3c577665-1677-4c44-9b97-12b46a746ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Logout</value>
+      <webElementGuid>5589c099-e14c-42ae-952a-2da708af5a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;logout&quot;)</value>
+      <webElementGuid>0fc02245-9c2a-4c89-acf7-b3841887011c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='logout']</value>
+      <webElementGuid>8d4aa83c-7f8f-45d6-bb4d-18ae92ca1486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/following::button[1]</value>
+      <webElementGuid>9e833d4b-6d1d-437c-823e-6520f6150364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kishore'])[1]/following::button[1]</value>
+      <webElementGuid>b9dec20d-9c99-4dd3-9f33-94b4598e90a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'logout', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>6fa0914f-4816-47fd-85f3-59de1e6d6832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-list/mat-list-item/div/button</value>
+      <webElementGuid>49a2d0dd-065a-49cd-aca2-f02c0c2f809e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'logout' and (text() = '
+
+Logout' or . = '
+
+Logout')]</value>
+      <webElementGuid>08a2001d-bc8a-4066-bfc2-0927f318ce9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

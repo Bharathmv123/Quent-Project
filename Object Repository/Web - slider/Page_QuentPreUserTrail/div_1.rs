@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1</name>
+   <tag></tag>
+   <elementGuidId>d6d2629e-2a28-4a39-b77e-d30b838baa93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-select-trigger.ng-tns-c121-1.ng-star-inserted > div.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>21f355c2-c1b2-4d3a-b470-10ecf5566250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>0344ea63-9c64-4519-853b-6c0308442d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> +1 </value>
+      <webElementGuid>b6475d5a-9e5d-447a-8826-48a0683aaf0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-1 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-1 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>92d34848-b354-4fa8-86bc-0d207060387e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div</value>
+      <webElementGuid>918e5ee6-569c-4f1f-8e6c-c193edc5d3e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[16]</value>
+      <webElementGuid>e311ab82-578d-4c1f-9272-3973d18c5222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[8]</value>
+      <webElementGuid>a684daf5-c863-4b8d-8731-47047c17b115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+1']/parent::*</value>
+      <webElementGuid>401d4aed-42cf-4b15-b755-30011cee445d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select-trigger/div</value>
+      <webElementGuid>ecb02bb9-8580-43eb-89eb-d7c02e7bb2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' +1 ' or . = ' +1 ')]</value>
+      <webElementGuid>7905e28c-0014-4100-a5a9-231c44d3dfd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

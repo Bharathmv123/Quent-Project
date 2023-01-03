@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Web PUT- Login to HR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>feec08c9-39ad-4194-975e-05ee69319fcc</testCaseGuid>
+</TestCaseEntity>

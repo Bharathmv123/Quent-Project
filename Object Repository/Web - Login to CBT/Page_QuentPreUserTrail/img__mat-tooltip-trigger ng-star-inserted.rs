@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__mat-tooltip-trigger ng-star-inserted</name>
+   <tag></tag>
+   <elementGuidId>f8cd2eda-1b0e-4548-bd39-cb7171ccfd5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.mat-tooltip-trigger.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-icon/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b1d48a29-37e3-46af-83ac-607190a48564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/icons/outline_visibility.png</value>
+      <webElementGuid>136e0aed-116a-4412-8a7a-9ac3a0b33b3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger ng-star-inserted</value>
+      <webElementGuid>6f607263-6879-487a-9387-89ac7efc1f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-0</value>
+      <webElementGuid>d864ca74-435f-4fab-8cef-3c3c242efb6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;regflow-panel&quot;]/app-root[1]/app-auth-flow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;auth-contents&quot;]/div[1]/main[1]/section[1]/app-common[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;signin-user&quot;]/div[1]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;right-panel-body&quot;]/div[@class=&quot;panel-right fixed p-r3 p-t7&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[1]/div[1]/div[@class=&quot;common-margin&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;common-signup&quot;]/div[5]/mat-form-field[@class=&quot;mat-form-field ng-tns-c106-2 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c106-2&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c106-2&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c106-2 ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons-outlined cursor-pointer material-icons mat-icon-no-color ng-tns-c106-2&quot;]/img[@class=&quot;mat-tooltip-trigger ng-star-inserted&quot;]</value>
+      <webElementGuid>02bcf11a-e2af-4241-a1bd-9491cbf128de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-icon/img</value>
+      <webElementGuid>c9c1f9e7-e748-4347-aa1f-c601eb5dee53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/outline_visibility.png']</value>
+      <webElementGuid>9368b4d1-960f-40ae-b1c4-1a2e9825a047</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

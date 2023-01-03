@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_First Name_mat-checkbox-inner-container</name>
+   <tag></tag>
+   <elementGuidId>17cb8fc3-4398-41dd-a15c-bcd6897ff3d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-checkbox-188 > label.mat-checkbox-layout > span.mat-checkbox-inner-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-checkbox[@id='mat-checkbox-188']/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb2b63ca-2705-4167-a0a6-8c6ec39944d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-checkbox-inner-container</value>
+      <webElementGuid>9b2cbffe-c3ad-4704-ba6c-6a7ebc7bcf19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-checkbox-188&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]/span[@class=&quot;mat-checkbox-inner-container&quot;]</value>
+      <webElementGuid>359c9d91-807b-4aef-b483-9f896d523e6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-checkbox[@id='mat-checkbox-188']/label/span</value>
+      <webElementGuid>d287fc8f-f6e8-4d8c-af1b-732c8e117ca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/following::span[1]</value>
+      <webElementGuid>7e79a9e7-7e5b-473d-869a-c8c40fc169ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital set ID'])[1]/following::span[9]</value>
+      <webElementGuid>a319dbd7-a602-4faa-b2a7-b08556aa103f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/preceding::span[7]</value>
+      <webElementGuid>19c9206a-3399-4810-8111-4d7a5ab50bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/preceding::span[15]</value>
+      <webElementGuid>f9c63b74-88e7-4e30-b931-5325434c41a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/mat-checkbox/label/span</value>
+      <webElementGuid>97ae3620-89e3-4607-9444-3efc6cb1a5e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
