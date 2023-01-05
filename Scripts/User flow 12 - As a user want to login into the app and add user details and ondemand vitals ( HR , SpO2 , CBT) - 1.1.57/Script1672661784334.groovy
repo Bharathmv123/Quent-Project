@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\Linus\\Downloads\\Quent_V2022.24 V1.1.55_131220220959_staging.apk', true)
+Mobile.startApplication('C:\\Users\\Linus\\Downloads\\Quent_V2022.25 V1.1.57_271220221740_staging.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.ImageView'), 0)
 
@@ -95,13 +95,13 @@ Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.Button - Mea
 
 Mobile.delay(10)
 
-Mobile.tap(findTestObject('Object Repository/New 1.1.57/android.widget.ImageView (2)'), 0)
+Mobile.tap(findTestObject('Object Repository/New3 1.1.57/android.widget.ImageView (2)'), 0)
 
 Mobile.delay(5)
 
-Mobile.tap(findTestObject('Object Repository/New 1.1.57/android.widget.TextView - Measure'), 0)
+Mobile.tap(findTestObject('Object Repository/New3 1.1.57/android.widget.TextView - Measure'), 0)
 
-Mobile.delay(90)
+Mobile.delay(40)
 
 Mobile.switchToNative()
 
@@ -119,13 +119,11 @@ Mobile.switchToNative()
 
 Mobile.scrollToText('Body Temperature')
 
-Mobile.tap(findTestObject('Object Repository/New3 1.1.57/android.widget.ImageView (2)'), 0)
+Mobile.tap(findTestObject('Object Repository/New 1/android.widget.ImageView (10)'), 0)
 
-Mobile.delay(5)
+Mobile.tap(findTestObject('Object Repository/New 1/android.widget.TextView - Measure (4)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/New3 1.1.57/android.widget.TextView - Measure'), 0)
-
-Mobile.delay(40)
+Mobile.delay(60)
 
 Mobile.switchToNative()
 
@@ -138,3 +136,4 @@ Mobile.tap(findTestObject('Object Repository/New 1/android.widget.Button - YES')
 Mobile.switchToNative()
 
 Mobile.closeApplication()
+

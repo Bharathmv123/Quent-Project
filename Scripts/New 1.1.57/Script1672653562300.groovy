@@ -62,4 +62,3 @@ Mobile.tap(findTestObject('Object Repository/New 1.1.57/android.widget.Button - 
 Mobile.switchToNative()
 
 Mobile.closeApplication()
-
