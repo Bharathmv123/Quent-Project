@@ -95,11 +95,11 @@ Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.Button - Mea
 
 Mobile.delay(10)
 
-Mobile.tap(findTestObject('Object Repository/New3 1.1.57/android.widget.ImageView (2)'), 0)
+Mobile.tap(findTestObject('New build end to end 1.1.55/android.widget.ImageView (3)'), 0)
 
-Mobile.delay(5)
+Mobile.delay(10)
 
-Mobile.tap(findTestObject('Object Repository/New3 1.1.57/android.widget.TextView - Measure'), 0)
+Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.TextView - Measure'), 0)
 
 Mobile.delay(40)
 
