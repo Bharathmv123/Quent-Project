@@ -17,25 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\Linus\\Downloads\\Quent_V2022.24 V1.1.55_131220220959_staging.apk', true)
+Mobile.startApplication('C:\\Users\\Linus\\Downloads\\Quent_V2022.25 V1.1.57_271220221740_staging.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/N/android.widget.ImageView'), 0)
+Mobile.tap(findTestObject('Object Repository/New scr/android.widget.ImageView'), 0)
 
-Mobile.switchToNative()
-
-Mobile.tap(findTestObject('Object Repository/N/android.widget.ImageView (1)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/N/androidx.appcompat.widget.LinearLayoutCompat'), 0)
+Mobile.tap(findTestObject('Object Repository/New scr/android.widget.CheckBox - User Trial'), 0)
 
 Mobile.switchToNative()
 
-Mobile.scrollToText('Blood pressure')
+Mobile.tap(findTestObject('Object Repository/New scr/android.widget.ImageView (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/N/android.widget.ImageView (3)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/N/android.widget.TextView - Measure'), 0)
+Mobile.tap(findTestObject('Object Repository/New scr/android.widget.TextView - Measure'), 0)
 
 Mobile.switchToNative()
+
+Mobile.tap(findTestObject('Object Repository/New scr/android.widget.TextView - Heart Rate'), 0)
 
 Mobile.closeApplication()
 
