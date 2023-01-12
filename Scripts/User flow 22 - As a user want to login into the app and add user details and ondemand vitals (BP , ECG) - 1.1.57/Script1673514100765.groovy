@@ -95,6 +95,16 @@ Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.Button - Mea
 
 Mobile.delay(5)
 
+Mobile.scrollToText('Blood pressure')
+
+Mobile.tap(findTestObject('Object Repository/BP 1.1.57/android.widget.ImageView (2)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP 1.1.57/android.widget.TextView - Measure'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP Dr/android.widget.TextView - Blood Pressure'), 0)
+
+Mobile.delay(150)
+
 Mobile.switchToNative()
 
 Mobile.scrollToText('Electrocardiography')

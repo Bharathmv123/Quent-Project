@@ -95,8 +95,6 @@ Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.Button - Mea
 
 Mobile.delay(5)
 
-Mobile.switchToNative()
-
 Mobile.scrollToText('Electrocardiography')
 
 Mobile.tap(findTestObject('Object Repository/ECG 1.1.57/android.widget.ImageView (3)'), 0)
