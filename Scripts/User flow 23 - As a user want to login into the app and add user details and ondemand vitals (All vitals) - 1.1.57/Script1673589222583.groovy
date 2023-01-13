@@ -93,7 +93,7 @@ Mobile.scrollToText('measure')
 
 Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.Button - Measure'), 0)
 
-Mobile.delay(10)
+Mobile.delay(5)
 
 Mobile.tap(findTestObject('New build end to end 1.1.55/android.widget.ImageView (3)'), 0)
 
@@ -102,6 +102,8 @@ Mobile.delay(10)
 Mobile.tap(findTestObject('Object Repository/New build end to end 1.1.55/android.widget.TextView - Measure'), 0)
 
 Mobile.delay(40)
+
+Mobile.tap(findTestObject('Object Repository/New scr/android.widget.TextView - Heart Rate'), 0)
 
 Mobile.switchToNative()
 
@@ -115,17 +117,45 @@ Mobile.tap(findTestObject('Object Repository/New2 1.1.57/android.widget.TextView
 
 Mobile.delay(130)
 
+Mobile.tap(findTestObject('Object Repository/New scr/android.widget.TextView - Blood Oxygen (1)'), 0)
+
+Mobile.switchToNative()
+
+Mobile.scrollToText('Blood pressure')
+
+Mobile.tap(findTestObject('Object Repository/BP 1.1.57/android.widget.ImageView (2)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP 1.1.57/android.widget.TextView - Measure'), 0)
+
+Mobile.delay(150)
+
+Mobile.tap(findTestObject('Object Repository/BP Dr/android.widget.TextView - Blood Pressure'), 0)
+
+Mobile.switchToNative()
+
+Mobile.scrollToText('Electrocardiography')
+
+Mobile.tap(findTestObject('Object Repository/ECG 1.1.57/android.widget.ImageView (3)'), 0)
+
+Mobile.scrollToText('Golden')
+
+Mobile.tap(findTestObject('Object Repository/ECG 1.1.57/android.widget.TextView - Measure'), 0)
+
+Mobile.delay(130)
+
+Mobile.tap(findTestObject('Object Repository/ECG 1.1.57/android.widget.TextView - Electrocardiography'), 0)
+
 Mobile.switchToNative()
 
 Mobile.scrollToText('Body Temperature')
 
-Mobile.tap(findTestObject('Object Repository/New 1/android.widget.ImageView (10)'), 0)
+Mobile.tap(findTestObject('Object Repository/New3 1.1.57/android.widget.ImageView (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/New 1/android.widget.TextView - Measure (4)'), 0)
+Mobile.delay(5)
 
-Mobile.delay(60)
+Mobile.tap(findTestObject('Object Repository/New3 1.1.57/android.widget.TextView - Measure'), 0)
 
-Mobile.switchToNative()
+Mobile.delay(40)
 
 Mobile.scrollToText('save')
 
@@ -136,4 +166,3 @@ Mobile.tap(findTestObject('Object Repository/New 1/android.widget.Button - YES')
 Mobile.switchToNative()
 
 Mobile.closeApplication()
-

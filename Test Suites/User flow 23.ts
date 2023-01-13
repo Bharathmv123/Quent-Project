@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>User flow 17</name>
+   <name>User flow 23</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>ab2407ab-b418-4180-b13e-5e85ea4a96d5</testSuiteGuid>
+   <testSuiteGuid>71b3053f-79a0-45de-9b97-1abb99ca0ee1</testSuiteGuid>
    <testCaseLink>
-      <guid>b9a69681-214b-4230-ba12-688e0540d680</guid>
+      <guid>d0bf39a4-58de-4b9c-b641-b96499a3549f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/User flow 17 - As a user want to login into the app and add user details and ondemand vitals ( ECG) - 1.1.57</testCaseId>
+      <testCaseId>Test Cases/User flow 23 - As a user want to login into the app and add user details and ondemand vitals (All vitals) - 1.1.57</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
