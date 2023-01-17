@@ -123,9 +123,7 @@ Mobile.delay(5)
 
 Mobile.tap(findTestObject('Object Repository/New2 1.1.57/android.widget.TextView - Measure'), 0)
 
-Mobile.delay(120)
-
-Mobile.scrollToText('Blood oxygen')
+Mobile.delay(130)
 
 Mobile.tap(findTestObject('Object Repository/New2 1.1.57/android.widget.ImageView (1)'), 0)
 
@@ -133,7 +131,7 @@ Mobile.delay(5)
 
 Mobile.tap(findTestObject('Object Repository/New2 1.1.57/android.widget.TextView - Measure'), 0)
 
-Mobile.delay(120)
+Mobile.delay(130)
 
 Mobile.tap(findTestObject('Object Repository/New scr/android.widget.TextView - Blood Oxygen (1)'), 0)
 
@@ -166,8 +164,6 @@ Mobile.scrollToText('Golden')
 Mobile.tap(findTestObject('Object Repository/ECG 1.1.57/android.widget.TextView - Measure'), 0)
 
 Mobile.delay(130)
-
-Mobile.scrollToText('Electrocardiography')
 
 Mobile.tap(findTestObject('Object Repository/ECG 1.1.57/android.widget.ImageView (3)'), 0)
 
