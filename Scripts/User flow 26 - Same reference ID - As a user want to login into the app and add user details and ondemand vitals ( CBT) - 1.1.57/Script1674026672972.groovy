@@ -63,31 +63,11 @@ Mobile.sendKeys(findTestObject('Object Repository/Pairing/android.widget.EditTex
 
 Mobile.sendKeys(findTestObject('Object Repository/Pairing/android.widget.EditText - Last name'), 'kum')
 
-Mobile.delay(20)
+Mobile.delay(10)
 
-Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.ImageButton (1)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.LinearLayout'), 0)
-
-Mobile.scrollToText('additional')
-
-Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.ImageButton (2)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Pairing/android.view.View - 5'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Pairing/android.view.View - 5 (1)'), 0)
-
-Mobile.switchToNative()
-
-Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.Button - OK'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.ImageButton (4)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Pairing/android.widget.EditText - Hip Size'), 0)
+Mobile.scrollToText('Weight')
 
 Mobile.sendKeys(findTestObject('Object Repository/Pairing/android.widget.EditText - Weight'), '73')
-
-Mobile.sendKeys(findTestObject('Object Repository/Pairing/android.widget.EditText - Height'), '165')
 
 Mobile.scrollToText('measure')
 

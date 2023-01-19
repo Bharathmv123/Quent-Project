@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User flow 27 - Data saving - As a user want to login into the app and add user details and ondemand vitals ( CBT) - 1.1.57</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4619420-fcda-446e-8c79-b9732d9bc10a</testCaseGuid>
+</TestCaseEntity>
