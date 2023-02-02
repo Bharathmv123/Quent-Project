@@ -30,4 +30,3 @@ Mobile.switchToNative()
 Mobile.tap(findTestObject('Object Repository/Neg-login/android.widget.ImageView (1)'), 0)
 
 Mobile.closeApplication()
-

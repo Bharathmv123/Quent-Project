@@ -19,22 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\Linus\\Downloads\\Quent_V2023.2 V1.1.64_230120231951_staging (1).apk', true)
 
-Mobile.tap(findTestObject('Object Repository/Neg - App characters/android.widget.ImageView'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Neg - App characters/android.widget.CheckBox - User Trial'), 0)
+Mobile.tap(findTestObject('Object Repository/Save/android.widget.ImageView'), 0)
 
 Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/Neg - App characters/android.widget.CheckBox'), 0)
+Mobile.tap(findTestObject('Object Repository/Save/android.widget.Button - Save'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Neg - App characters/android.widget.Button - Next'), 0)
-
-Mobile.switchToNative()
-
-Mobile.sendKeys(findTestObject('Object Repository/Neg - App characters/android.widget.EditText - Phone number'), '@#@#%$%%&^%')
-
-Mobile.sendKeys(findTestObject('Object Repository/Neg - App characters/android.widget.EditText - Password'), 'Test@123')
-
-Mobile.tap(findTestObject('Object Repository/Neg - App characters/android.widget.Button - Sign In'), 0)
+Mobile.tap(findTestObject('Object Repository/Save/android.widget.Button - YES'), 0)
 
 Mobile.closeApplication()
+
