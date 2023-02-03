@@ -117,7 +117,7 @@ Mobile.delay(10)
 
 Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/BP 1/android.widget.ImageView (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (1)'), 0)
 
 Mobile.scrollToText('Save')
 
