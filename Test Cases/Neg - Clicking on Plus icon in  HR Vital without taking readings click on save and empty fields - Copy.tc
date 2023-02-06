@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neg - Clicking on Plus icon in  HR Vital without taking readings click on save and empty fields - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2e3d218-158c-473c-baf8-05901d7a5fa5</testCaseGuid>
+</TestCaseEntity>

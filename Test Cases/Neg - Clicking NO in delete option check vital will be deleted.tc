@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neg - Clicking NO in delete option check vital will be deleted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>738a0678-b2e4-4b72-a0c6-608df1c6ffe1</testCaseGuid>
+</TestCaseEntity>
