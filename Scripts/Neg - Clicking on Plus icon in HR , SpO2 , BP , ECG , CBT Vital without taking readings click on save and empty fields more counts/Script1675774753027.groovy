@@ -118,6 +118,69 @@ Mobile.delay(5)
 Mobile.tap(findTestObject('Object Repository/Neg - Clicking on Plus icon in HR Vital without taking readings click on save and leaving empty/android.widget.ImageView (2)'), 
     0)
 
+Mobile.tap(findTestObject('Object Repository/Neg - Clicking on Plus icon in HR Vital without taking readings click on save and leaving empty/android.widget.ImageView (2)'),
+	0)
+
+Mobile.tap(findTestObject('Object Repository/Neg - Clicking on Plus icon in HR Vital without taking readings click on save and leaving empty/android.widget.ImageView (2)'),
+	0)
+
+Mobile.tap(findTestObject('Object Repository/Neg - Clicking on Plus icon in HR Vital without taking readings click on save and leaving empty/android.widget.ImageView (2)'),
+	0)
+
+Mobile.tap(findTestObject('Object Repository/Neg - Clicking on Plus icon in HR Vital without taking readings click on save and leaving empty/android.widget.ImageView (2)'),
+	0)
+
+Mobile.tap(findTestObject('Object Repository/Neg - Clicking on Plus icon in HR Vital without taking readings click on save and leaving empty/android.widget.ImageView (2)'),
+	0)
+
+Mobile.tap(findTestObject('Object Repository/SpO2/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/SpO2/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/SpO2/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/SpO2/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/SpO2/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/SpO2/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP 1/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP 1/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP 1/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP 1/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP 1/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP 1/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/CBT/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/CBT/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/CBT/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/CBT/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/CBT/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/CBT/android.widget.ImageView (1)'), 0)
+
 Mobile.scrollToText('Save')
 
 Mobile.tap(findTestObject('Object Repository/Save/android.widget.Button - Save'), 0)
