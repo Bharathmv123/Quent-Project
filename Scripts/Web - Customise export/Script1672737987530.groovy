@@ -69,4 +69,3 @@ WebUI.click(findTestObject('Object Repository/Web - CE/Page_QuentPreUserTrail/bu
 WebUI.click(findTestObject('Object Repository/Web - CE/Page_QuentPreUserTrail/button_Logout'))
 
 WebUI.closeBrowser()
-
