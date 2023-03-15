@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>User flow 15 - As a user want to login into the app and add user details and ondemand vitals ( SpO2 , BP) - 1.1.57</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c76257cb-448b-47f1-92b5-96786f5cb501</testCaseGuid>
-</TestCaseEntity>
