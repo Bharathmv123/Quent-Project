@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Neg - Clicking on Plus icon in BP Vital without taking readings click on save and empty fields</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>37e39231-75b4-4678-92b8-4038f9e0be9b</testCaseGuid>
-</TestCaseEntity>

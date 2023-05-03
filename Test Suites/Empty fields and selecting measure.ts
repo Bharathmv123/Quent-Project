@@ -11,11 +11,4 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>d4184d76-83cc-4bff-8271-555947b58219</testSuiteGuid>
-   <testCaseLink>
-      <guid>c6bd889c-4341-4d89-a740-781ea01655c0</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Neg - Empty fields</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

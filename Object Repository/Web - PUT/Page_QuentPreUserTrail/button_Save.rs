@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>a83cfbba-97a3-4342-8d83-75a7be4eb109</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-stroked-button.mat-button-base.btn-primary.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5d3ba173-8f48-4803-b8bb-8984cc15f743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c82267ca-4c25-49df-9e95-bdade96efe25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-stroked-button mat-button-base btn-primary cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>14cf0c70-7fe4-4be9-8881-d508e7bd1261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save </value>
+      <webElementGuid>f829a9a3-ffdb-4fb4-8a1c-569419f42810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;save-btn&quot;]/div[2]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base btn-primary cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>46bc4977-7455-4ca1-ab00-1e7a47d798c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>6cebd383-581f-4b2e-86c0-550ec5e4adc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/form/div[2]/div[2]/button</value>
+      <webElementGuid>e1fffcdd-05e6-4caa-91f4-dc32e49dbcd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>f24b221b-f738-4768-9331-056bfed44fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::button[2]</value>
+      <webElementGuid>f9aacc63-3303-4883-b5e2-8e258c465a36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kishore K'])[2]/preceding::button[1]</value>
+      <webElementGuid>fa5c17a4-b461-4cf9-b6a1-8c4b93231016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div[2]/button</value>
+      <webElementGuid>9a488cb4-c2a5-4dbf-b358-11f2a94dadd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Save ' or . = ' Save ')]</value>
+      <webElementGuid>2734d586-5bd8-4549-b434-ea2abde4fd01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

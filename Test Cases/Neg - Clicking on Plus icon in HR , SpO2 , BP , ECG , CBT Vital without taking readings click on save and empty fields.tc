@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Neg - Clicking on Plus icon in HR , SpO2 , BP , ECG , CBT Vital without taking readings click on save and empty fields</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>a14be66e-5c84-415e-aa45-0618fb1cb415</testCaseGuid>
-</TestCaseEntity>

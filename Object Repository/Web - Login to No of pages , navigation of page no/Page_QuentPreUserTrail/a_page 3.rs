@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_page 3</name>
+   <tag></tag>
+   <elementGuidId>38573ff3-d5b2-4f08-a9ba-b7871e7ee624</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('You', &quot;'&quot;, 're on page')])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>93bc3dce-b58d-4a3c-aafe-d40c3b3c215c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>97e11188-b813-4bcb-a08e-885f6771d84f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>b9f41091-3dc3-4c49-87b6-3e2620ed3b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>page 3</value>
+      <webElementGuid>04c5bc3e-c343-4fed-9a7a-db01ec4b3d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[4]/div[@class=&quot;pagination-container ng-star-inserted&quot;]/div[3]/pagination-controls[1]/pagination-template[1]/ul[@class=&quot;ngx-pagination ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>fc34514f-0620-4597-a24d-15a0b0261a52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('You', &quot;'&quot;, 're on page')])[1]/following::a[1]</value>
+      <webElementGuid>6fc24f7c-5e46-412b-bd46-85b4dd3dbff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='page'])[2]/following::a[1]</value>
+      <webElementGuid>8f20c733-d6f3-4a2f-b0c6-8885530e4736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>9e76cea5-d471-464c-9f2c-c1f11df557c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'page 3' or . = 'page 3')]</value>
+      <webElementGuid>c71aca5e-c643-4698-bfec-1db3eacf7fae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

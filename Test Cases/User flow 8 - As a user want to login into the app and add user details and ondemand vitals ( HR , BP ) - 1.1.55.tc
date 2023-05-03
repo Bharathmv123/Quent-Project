@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User flow 8 - As a user want to login into the app and add user details and ondemand vitals ( HR , BP ) - 1.1.55</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aab9ec05-9b31-4990-a27c-ed903c85d661</testCaseGuid>
+</TestCaseEntity>

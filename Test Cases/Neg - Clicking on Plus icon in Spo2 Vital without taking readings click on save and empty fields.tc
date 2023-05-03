@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Neg - Clicking on Plus icon in Spo2 Vital without taking readings click on save and empty fields</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>33adda53-0d16-4327-aaac-5c0aa6b8fdd8</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>5fd64a11-eadc-41dc-88a0-2c6765b51834</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-1 > span.mat-option-text > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-1']/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>54a15cb1-d898-4bbc-8c15-663a9fc9ccc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/icons/svg/india.svg</value>
+      <webElementGuid>4d8085e3-e718-4b1a-9d51-5282d90165b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]/img[1]</value>
+      <webElementGuid>1efc0b2b-d7e3-4b66-94ec-938c0b5c47ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-1']/span/img</value>
+      <webElementGuid>b700cf25-08ff-4dd4-a08c-4b0ae3b6b4fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span/img</value>
+      <webElementGuid>9e8f4b80-a1e0-4195-a1ad-050e724ccbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/svg/india.svg']</value>
+      <webElementGuid>a9262967-8f13-4fe1-acc1-378ef8d9e332</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
