@@ -95,7 +95,7 @@ Mobile.delay(5)
 
 Mobile.scrollToText('Additional info')
 
-Mobile.delay(5)
+Mobile.delay(10)
 
 Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText - Room Temp'), '28')
 
@@ -133,11 +133,48 @@ Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (5)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Measure (1)'), 0)
 
-Mobile.delay(100)
+Mobile.delay(140)
 
 Mobile.switchToNative()
 
 Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Blood Oxygen'), 0)
 
-Mobile.closeApplication()
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.ImageView'), 0)
 
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Measure'), 0)
+
+Mobile.delay(110)
+
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Blood Pressure'), 0)
+
+Mobile.delay(3)
+
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Measure (1)'), 0)
+
+Mobile.delay(130)
+
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Electrocardiography'), 0)
+
+Mobile.delay(3)
+
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.ImageView (2)'), 0)
+
+Mobile.scrollToText('Save')
+
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Measure (2)'), 0)
+
+Mobile.delay(30)
+
+Mobile.switchToNative()
+
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Body Temperature'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.Button - Save'), 0)
+
+Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.Button - YES'), 0)
+
+Mobile.switchToNative()
+
+Mobile.closeApplication()
