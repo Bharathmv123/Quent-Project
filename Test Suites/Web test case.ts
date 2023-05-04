@@ -12,24 +12,31 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>0bc3cb26-78d3-4c3e-88ad-8071e163e3d7</testSuiteGuid>
    <testCaseLink>
-      <guid>b23145b4-4165-4dea-b8b3-1f335c59e37a</guid>
+      <guid>48603934-790e-424f-b7b1-1858326c5c17</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Web - Login to No of pages , navigation of page no</testCaseId>
+      <testCaseId>Test Cases/Web PUT- Login to BP</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>36b82183-57e8-4cea-9713-7e80110a8e8c</guid>
+      <guid>30bcd84a-76d6-4389-87fc-482c87d536d5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Web - OTA</testCaseId>
+      <testCaseId>Test Cases/Web PUT- Login to CBT</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>17aee034-5dac-4f01-aac0-8f7681e7f3cd</guid>
+      <guid>bc811440-7ce9-4921-8c2c-8ef85c043bd8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Web CE - Slider</testCaseId>
+      <testCaseId>Test Cases/Web PUT- Login to HR</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8a3c571d-1801-4866-95dd-020a50d444f8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web - Login to SpO2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
