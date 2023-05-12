@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\Linus\\Downloads\\Quent_V2023.4 V1.1.70_220220231627_staging.apk', true)
+Mobile.startApplication('C:\\Users\\Linus\\Downloads\\Quent-1.70-Staging.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (2)'), 0)
 
@@ -178,3 +178,4 @@ Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.Button - 
 Mobile.switchToNative()
 
 Mobile.closeApplication()
+
