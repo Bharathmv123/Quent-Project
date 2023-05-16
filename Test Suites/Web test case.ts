@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>0bc3cb26-78d3-4c3e-88ad-8071e163e3d7</testSuiteGuid>
    <testCaseLink>
-      <guid>f5534497-e469-4595-bd98-4b57898522b7</guid>
+      <guid>62ea2b1e-2d10-4490-ac69-a8816f4e1420</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Web - Login to No of pages , navigation of page no</testCaseId>
