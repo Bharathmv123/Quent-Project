@@ -12,10 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>0bc3cb26-78d3-4c3e-88ad-8071e163e3d7</testSuiteGuid>
    <testCaseLink>
-      <guid>62ea2b1e-2d10-4490-ac69-a8816f4e1420</guid>
+      <guid>c0900e86-6d22-4484-8da5-09f02804453b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Web - Login to No of pages , navigation of page no</testCaseId>
+      <testCaseId>Test Cases/Web CE - Slider</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9619258c-6743-46ae-8bb3-0afb24992e47</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web - OTA</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

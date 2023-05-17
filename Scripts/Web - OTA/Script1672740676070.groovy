@@ -39,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/Web - PUT/Page_QuentPreUserTrail/b
 
 WebUI.setText(findTestObject('Object Repository/Web - PUT/Page_QuentPreUserTrail/input__mat-input-5'), 'Quent')
 
-WebUI.setText(findTestObject('Object Repository/Web - PUT/Page_QuentPreUserTrail/input__mat-input-6'), '8077')
+//WebUI.setText(findTestObject('Object Repository/Web - PUT/Page_QuentPreUserTrail/input__mat-input-6'), '8077')
 
 WebUI.setText(findTestObject('Object Repository/Web - PUT/Page_QuentPreUserTrail/textarea__mat-input-7'), 'Quent')
 
@@ -53,11 +53,9 @@ WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Web - PUT/Page_QuentPreUserTrail/button_Save'))
 
-WebUI.click(findTestObject('Object Repository/Web - PUT/Page_QuentPreUserTrail/img_1'))
+WebUI.click(findTestObject('Object Repository/Web - Login to No of pages , navigation of page no/Page_QuentPreUserTrail/button_Staging Environment for PUT_mat-focu_bb4164'))
 
-WebUI.click(findTestObject('Object Repository/Web - PUT/Page_QuentPreUserTrail/button_Staging Environment for PUT_mat-focu_bb4164'))
-
-WebUI.click(findTestObject('Object Repository/Web - PUT/Page_QuentPreUserTrail/button_Logout'))
+WebUI.click(findTestObject('Object Repository/Web - Login to No of pages , navigation of page no/Page_QuentPreUserTrail/button_Logout'))
 
 WebUI.closeBrowser()
 
