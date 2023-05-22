@@ -69,47 +69,55 @@ Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText - Age'
 
 Mobile.switchToNative()
 
-// Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton (5)'), 0)
 
-// Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.FrameLayout'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.FrameLayout (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.ImageButton (5)'), 0)
+Mobile.delay(2)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.EditText - Hip Size'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/Android 13/android.widget.EditText - Weight (1)'), '72')
 
-Mobile.sendKeys(findTestObject('Object Repository/Android 13/android.widget.EditText - Weight'), '72')
-
-Mobile.sendKeys(findTestObject('Object Repository/Android 13/android.widget.EditText - Height'), '164')
+Mobile.sendKeys(findTestObject('Object Repository/Android 13/android.widget.EditText - Height (1)'), '164')
 
 Mobile.scrollToText('Wrist Type')
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton (6)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.AutoCompleteTextView - Skin Color'), 0)
+Mobile.delay(1)
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton (2)'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.AutoCompleteTextView - Skin Color (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.AutoCompleteTextView - Flat'), 0)
+Mobile.delay(1)
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton (3)'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton (7)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.FrameLayout (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.EditText - Hip Size'), 0)
 
-Mobile.scrollToText('Wrist Observation')
+Mobile.delay(1)
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton (4)'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton (8)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Android 13/androidx.appcompat.widget.LinearLayoutCompat'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.FrameLayout (3)'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Android 13/android.widget.EditText - Room Temp'), '25', 0)
+Mobile.scrollToText('Body Temp')
 
-Mobile.setText(findTestObject('Object Repository/Android 13/android.widget.EditText - Body Temp'), '30', 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.ImageButton (9)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.CompoundButton - BLE'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.AutoCompleteTextView - Light Pale White'), 0)
 
-Mobile.scrollToText('Measure')
+Mobile.delay(1)
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.Button - Connect'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/Android 13/android.widget.EditText - Room Temp (1)'), '25')
+
+Mobile.scrollToText('BLE')
+
+Mobile.sendKeys(findTestObject('Object Repository/Android 13/android.widget.EditText - Body Temp (1)'), '30')
+
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.CompoundButton - BLE (1)'), 0)
+
+Mobile.scrollToText('Connect')
+
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.Button - Connect (1)'), 0)
 
 Mobile.switchToNative()
 
@@ -119,7 +127,7 @@ Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.Button - 
 
 Mobile.scrollToText('Measure')
 
-Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.Button - Measure'), 0)
+Mobile.tap(findTestObject('Object Repository/Android 13/android.widget.Button - Measure (1)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (4)'), 0)
 
@@ -182,4 +190,3 @@ Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.Button - 
 Mobile.switchToNative()
 
 Mobile.closeApplication()
-
