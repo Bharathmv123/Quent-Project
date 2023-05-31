@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
+WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail')
 
 WebUI.click(findTestObject('Object Repository/Web - Login to No of pages , navigation of page no/Page_QuentPreUserTrail/div_1'))
 
@@ -56,3 +56,4 @@ WebUI.click(findTestObject('Object Repository/Web - Login to No of pages , navig
 WebUI.click(findTestObject('Object Repository/Web - Login to No of pages , navigation of page no/Page_QuentPreUserTrail/button_Logout'))
 
 WebUI.closeBrowser()
+
