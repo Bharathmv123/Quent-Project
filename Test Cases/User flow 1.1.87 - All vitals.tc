@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case - A 13</name>
+   <name>User flow 1.1.87 - All vitals</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6729048a-90a7-45e7-9b25-89b6f04f18f4</testCaseGuid>
+   <testCaseGuid>c0d1baa0-ffb7-43ad-80d4-e8242e410388</testCaseGuid>
 </TestCaseEntity>
