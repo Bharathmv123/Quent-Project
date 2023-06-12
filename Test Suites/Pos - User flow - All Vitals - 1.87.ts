@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>All Vitals - Android 13</name>
+   <name>Pos - User flow - All Vitals - 1.87</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>c21ae13c-0a7d-4f8f-9573-56762b27ac5d</testSuiteGuid>
+   <testSuiteGuid>100e6396-675b-4ad8-b174-cfc0b40c9507</testSuiteGuid>
    <testCaseLink>
-      <guid>687217be-5f57-4fba-bc6e-e87cd1eeef72</guid>
+      <guid>423a4532-8910-490e-bcfd-672638c955e7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/All vitals Android 13</testCaseId>
+      <testCaseId>Test Cases/Pos User flow 1 - HR , SpO2 , BP , ECG , CBT - 1.87</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

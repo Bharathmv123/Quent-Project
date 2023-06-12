@@ -103,7 +103,7 @@ Mobile.sendKeys(findTestObject('Object Repository/New Android 13/android.widget.
 
 Mobile.tap(findTestObject('Object Repository/New Android 13/android.widget.CompoundButton - BLE'), 0)
 
-Mobile.delay(50)
+Mobile.delay(5)
 
 Mobile.tap(findTestObject('Object Repository/Connect/android.widget.Button - Connect'), 0)
 
@@ -125,7 +125,7 @@ Mobile.tap(findTestObject('Object Repository/Connect/android.widget.ImageView (1
 
 Mobile.tap(findTestObject('Object Repository/Connect/android.widget.TextView - Measure'), 0)
 
-Mobile.delay(40)
+Mobile.delay(130)
 
 Mobile.switchToNative()
 
@@ -137,7 +137,7 @@ Mobile.tap(findTestObject('Object Repository/Connect/android.widget.ImageView (2
 
 Mobile.tap(findTestObject('Object Repository/Connect/android.widget.TextView - Measure (1)'), 0)
 
-Mobile.delay(180)
+Mobile.delay(190)
 
 Mobile.switchToNative()
 
@@ -147,7 +147,7 @@ Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.ImageView
 
 Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Measure'), 0)
 
-Mobile.delay(110)
+Mobile.delay(60)
 
 Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Blood Pressure'), 0)
 
@@ -157,7 +157,7 @@ Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.ImageView
 
 Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Measure (1)'), 0)
 
-Mobile.delay(130)
+Mobile.delay(80)
 
 Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Electrocardiography'), 0)
 
@@ -169,7 +169,7 @@ Mobile.scrollToText('Save')
 
 Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Measure (2)'), 0)
 
-Mobile.delay(30)
+Mobile.delay(40)
 
 Mobile.switchToNative()
 
@@ -182,4 +182,3 @@ Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.Button - 
 Mobile.switchToNative()
 
 Mobile.closeApplication()
-

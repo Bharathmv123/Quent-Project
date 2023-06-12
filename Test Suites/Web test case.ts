@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>0bc3cb26-78d3-4c3e-88ad-8071e163e3d7</testSuiteGuid>
    <testCaseLink>
-      <guid>95c31768-0675-4af6-b62e-e92a9ba7c9d7</guid>
+      <guid>f6edc528-f1b2-412a-8ab3-10747416d3da</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Web PUT - OTA</testCaseId>
+      <testCaseId>Test Cases/Web CE - Slider</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
