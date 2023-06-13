@@ -12,7 +12,7 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>100e6396-675b-4ad8-b174-cfc0b40c9507</testSuiteGuid>
    <testCaseLink>
-      <guid>423a4532-8910-490e-bcfd-672638c955e7</guid>
+      <guid>a29e38a1-e85c-4812-a10c-96a51bb3dbaa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Pos User flow 1 - HR , SpO2 , BP , ECG , CBT - 1.87</testCaseId>

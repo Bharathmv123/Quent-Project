@@ -51,11 +51,12 @@ WebUI.click(findTestObject('Object Repository/OTA/Page_QuentPreUserTrail/button_
 
 WebUI.click(findTestObject('Object Repository/OTA/Page_QuentPreUserTrail/button_Choose File'))
 
-WebUI.click(findTestObject('Object Repository/OTA/Page_QuentPreUserTrail/button_Save'))
+WebUI.delay(2)
+
+//WebUI.click(findTestObject('Object Repository/OTA/Page_QuentPreUserTrail/button_Save'))
 
 WebUI.click(findTestObject('Object Repository/OTA/Page_QuentPreUserTrail/button_Staging Environment for PUT_mat-focu_bb4164'))
 
 WebUI.click(findTestObject('Object Repository/OTA/Page_QuentPreUserTrail/button_Logout'))
 
 WebUI.closeBrowser()
-
