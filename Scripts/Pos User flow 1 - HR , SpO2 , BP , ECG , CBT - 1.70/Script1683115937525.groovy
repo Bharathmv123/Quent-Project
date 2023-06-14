@@ -133,7 +133,7 @@ Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (5)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Measure (1)'), 0)
 
-Mobile.delay(140)
+Mobile.delay(180)
 
 Mobile.switchToNative()
 

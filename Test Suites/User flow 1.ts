@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>f69aed65-1a04-4272-8d7c-5708159e8ae9</testSuiteGuid>
    <testCaseLink>
-      <guid>65e4f540-cf16-4921-9b71-8e324dee56df</guid>
+      <guid>990d25ac-4d43-49e5-b736-a93822819d50</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/User flow 1 - As a user want to login into the app and add user details and ondemand vitals - 1.1.55</testCaseId>
+      <testCaseId>Test Cases/User flow 23 - As a user want to login into the app and add user details and ondemand vitals (All vitals)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
