@@ -143,7 +143,7 @@ Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.ImageView
 
 Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Measure'), 0)
 
-Mobile.delay(100)
+Mobile.delay(120)
 
 Mobile.tap(findTestObject('Object Repository/BP ECG CBT/android.widget.TextView - Blood Pressure'), 0)
 
