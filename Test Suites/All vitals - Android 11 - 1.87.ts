@@ -12,7 +12,7 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>619451f1-8a4e-4969-b55b-e2a187b1de3b</testSuiteGuid>
    <testCaseLink>
-      <guid>ac9daaba-df74-4045-a373-0cf2aa7e99d5</guid>
+      <guid>81a5465e-cb18-48b2-9118-cbbcdf16586d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/New Android 11</testCaseId>

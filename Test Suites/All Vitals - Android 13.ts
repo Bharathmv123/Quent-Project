@@ -12,10 +12,10 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>c21ae13c-0a7d-4f8f-9573-56762b27ac5d</testSuiteGuid>
    <testCaseLink>
-      <guid>33b15ec7-1c21-4d07-95df-4d37476da5a4</guid>
+      <guid>a08193f6-ec97-4044-bf55-c46fc32d7282</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/All vitals Android 13</testCaseId>
+      <testCaseId>Test Cases/New Android 13</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

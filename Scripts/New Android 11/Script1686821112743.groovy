@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\Linus\\Downloads\\Quent_V2023.11 V1.1.87_290520230953_staging(3).apk', true)
+Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.11_V1.1.87_290520230953_staging.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/Android 11/android.widget.ImageView'), 0)
 
