@@ -96,11 +96,13 @@ Mobile.tap(findTestObject('Object Repository/New test script Andriod 12/android.
 Mobile.tap(findTestObject('Object Repository/New test script Andriod 12/android.widget.AutoCompleteTextView - Brown Dark Brown'), 
     0)
 
-Mobile.scrollToText('Room Temp*')
+//Mobile.scrollToText('Wrist Observation')
 
-Mobile.sendKeys(findTestObject('Object Repository/New test script Andriod 12/android.widget.EditText - Room Temp'), '33')
+Mobile.delay(10)
 
-Mobile.sendKeys(findTestObject('Object Repository/New test script Andriod 12/android.widget.EditText - Body Temp'), '33')
+//Mobile.sendKeys(findTestObject('Object Repository/New test script Andriod 12/android.widget.EditText - Room Temp'), '33')
+
+//Mobile.sendKeys(findTestObject('Object Repository/New test script Andriod 12/android.widget.EditText - Body Temp'), '33')
 
 Mobile.scrollToText('Measure')
 
@@ -112,7 +114,7 @@ Mobile.tap(findTestObject('Object Repository/Android 11/android.widget.Button - 
 
 Mobile.switchToNative()
 
-Mobile.delay(40)
+Mobile.delay(60)
 
 Mobile.tap(findTestObject('Object Repository/Android 11/android.widget.Button - Go to Dashboard'), 0)
 
