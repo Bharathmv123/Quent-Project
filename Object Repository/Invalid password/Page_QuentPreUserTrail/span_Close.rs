@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_91</name>
+   <name>span_Close</name>
    <tag></tag>
-   <elementGuidId>f5bd6426-824b-4560-b357-8f9974dca3c8</elementGuidId>
+   <elementGuidId>4747fce5-e16d-495f-9ef3-3b3d9cf4e2e5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-1 > span.mat-option-text</value>
+         <value>#alertdialog-close > span.mat-button-wrapper</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-1']/span</value>
+         <value>//button[@id='alertdialog-close']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2c9b0f8e-3637-4de4-a202-4ceafebf7593</webElementGuid>
+      <webElementGuid>37f0ef68-751b-4b2e-a761-462bbf86da04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>50483c9d-e10e-4103-aebb-c071c0b6b3a0</webElementGuid>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>7b80f45e-71b9-4fe6-addb-6fa8bc57748b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +91 </value>
-      <webElementGuid>0f768812-339c-4f9f-afb0-e99f86385113</webElementGuid>
+      <value>Close</value>
+      <webElementGuid>b674e27d-beef-4d15-925a-b97b2e37cb8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>98a9ddb6-7a88-4f17-aae5-0b6635707cf5</webElementGuid>
+      <value>id(&quot;alertdialog-close&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>0fc4e2d7-3724-4c9b-8a8c-0222369b9908</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>73caa2e7-8080-4ff6-9812-38ecf8734622</webElementGuid>
+      <value>//button[@id='alertdialog-close']/span</value>
+      <webElementGuid>7736e2ae-6cf3-49a4-abe4-7cc5ebc32361</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>decbc039-14d8-4b5f-abb0-62abe1d5873d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please contact customer support.'])[1]/following::span[1]</value>
+      <webElementGuid>36c208eb-3795-4c84-8d62-3982db2de872</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>ee3edf15-ee38-424e-9403-1f1e0ce095a6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::span[1]</value>
+      <webElementGuid>01d73cd9-6e69-4d9b-a0e8-59833253424e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>cf77fb04-0fcc-48f5-b202-52eba5cd6bb1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[3]</value>
+      <webElementGuid>ab3c27de-2f65-4e0a-a43d-afe6e8632d8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>8ed6a949-be11-4a46-b6f4-f42ebfa7b5b0</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>5b66890d-c582-4a62-b216-b1e713e5a086</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[2]/span</value>
-      <webElementGuid>a30e8ebb-a4af-43d6-815b-490d5d549892</webElementGuid>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>1f558cd1-263d-4866-ab99-537e50bde4d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>1b322a89-6a67-4477-886d-b2221d06951c</webElementGuid>
+      <value>//span[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>c3fa5410-9c79-480a-9caf-7c59eae1fd3a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
