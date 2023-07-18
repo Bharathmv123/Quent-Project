@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>bb937db2-8e2b-480a-91bf-9f0df8f0a43c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-star-inserted > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>eafc4fa0-cc5e-4f20-9832-654c8c0f82ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/icons/svg/usa.svg</value>
+      <webElementGuid>1e45b4fc-cc42-467c-adfe-67e565b12276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-1 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-1 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/img[1]</value>
+      <webElementGuid>a5c2f899-081e-47a3-a9fc-9004134ff87b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
+      <webElementGuid>50a0593b-eabf-4406-bf4f-a0aa4def841b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select-trigger/div/img</value>
+      <webElementGuid>abcfaf05-9f33-4a03-8ccd-a1a03e9eca43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/svg/usa.svg']</value>
+      <webElementGuid>b34638f1-ed31-4f5d-b09e-3b32e5e6ee33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
