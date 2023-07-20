@@ -3,7 +3,7 @@
    <description></description>
    <name>div__mat-form-field-infix ng-tns-c113-12</name>
    <tag></tag>
-   <elementGuidId>a4c5d872-3e2e-4041-a20c-4fed04c58e67</elementGuidId>
+   <elementGuidId>d4c39ad0-49df-4ea3-bde5-33e68fec1673</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div[2]/div/mat-form-field/div/div/div[3]</value>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div[3]/div/mat-form-field/div/div/div[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>22bba49f-2586-4f22-a0c7-d4e04bc096a3</webElementGuid>
+      <webElementGuid>da6c8f02-f73e-4e3d-ac64-05b6175557c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,38 +30,54 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-form-field-infix ng-tns-c113-12</value>
-      <webElementGuid>5567eb5c-3b4d-4aa9-976b-d2a250102ddc</webElementGuid>
+      <webElementGuid>e9fb1d6b-f1db-43da-8f6e-e0358bac5c51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/mat-dialog-content[@class=&quot;mat-dialog-content mat-typography&quot;]/div[2]/div[@class=&quot;firmware-form&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-12 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-12&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-12&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c113-12&quot;]</value>
-      <webElementGuid>6ce26e2b-e6d1-4531-bb8e-a57280541aa8</webElementGuid>
+      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/mat-dialog-content[@class=&quot;mat-dialog-content mat-typography&quot;]/div[3]/div[@class=&quot;firmware-form&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-12 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-12&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-12&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c113-12&quot;]</value>
+      <webElementGuid>af5d1fd0-35d2-45ae-a3fb-5bac82380751</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div[2]/div/mat-form-field/div/div/div[3]</value>
-      <webElementGuid>3c8a81c9-b360-4a64-a2f6-4f58e4e738cb</webElementGuid>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div[3]/div/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>5fd1b9a0-dec8-4432-95ae-f7172d497060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[11]</value>
-      <webElementGuid>b631fbdf-b544-4d2e-898f-0b969d678cbb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[11]</value>
+      <webElementGuid>6fa417ad-2a2f-49d8-8cec-5c9aef382afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[4]</value>
+      <webElementGuid>81b920f8-ae95-49ea-ba4b-330fc2eda1f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[5]</value>
+      <webElementGuid>30804d57-d141-4159-bf59-f1044df57327</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/mat-form-field/div/div/div[3]</value>
-      <webElementGuid>7e23b1ea-6a53-41fd-b052-e2bcdf42c584</webElementGuid>
+      <value>//div[3]/div/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>4854ebea-8d0c-45e7-bab9-1ffdde857f78</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

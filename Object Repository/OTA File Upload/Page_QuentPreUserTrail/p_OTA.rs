@@ -3,7 +3,7 @@
    <description></description>
    <name>p_OTA</name>
    <tag></tag>
-   <elementGuidId>4fd9b895-51dc-4e87-a1d1-d29ec48606b6</elementGuidId>
+   <elementGuidId>02d0891d-bbcf-428e-82a1-040c4710a4d0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>1eaa6eab-cf26-4d7e-822b-e17fdef17508</webElementGuid>
+      <webElementGuid>136f6aff-a786-4ed0-9721-52154aee0693</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-l8 p-t6 menu-list-label selected-menucontent displayblock</value>
-      <webElementGuid>614263ff-b0a7-4088-b0a0-b0ab1fda622b</webElementGuid>
+      <webElementGuid>60aa970b-ab4a-4f0b-adf8-f39eca8e989c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> OTA</value>
-      <webElementGuid>c8dd8496-9189-48d4-aa76-1509df075c68</webElementGuid>
+      <webElementGuid>f9dfd67f-13fc-4fe9-a36c-14cd247eebe5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;hide-menu&quot;]/n2-platform-side-menu[1]/div[@class=&quot;menu&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base&quot;]/mat-list-item[@class=&quot;mat-list-item mat-focus-indicator class-notactive ng-star-inserted&quot;]/div[@class=&quot;mat-list-item-content&quot;]/p[@class=&quot;p-l8 p-t6 menu-list-label selected-menucontent displayblock&quot;]</value>
-      <webElementGuid>aa4d581b-97c7-47b9-82b8-1319632803a0</webElementGuid>
+      <webElementGuid>8c35e118-a0b3-4c4c-bbc4-9f9955a60669</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha S'])[1]/following::p[2]</value>
-      <webElementGuid>73d195cc-4d8d-45f9-a24b-e90142f3a0f3</webElementGuid>
+      <webElementGuid>0e70c6d5-8bb5-433b-bf15-7bd30b4ef5da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Staging Environment for PUT'])[1]/following::p[2]</value>
-      <webElementGuid>57a41a2b-7474-48f5-bb0c-3952485b76e8</webElementGuid>
+      <webElementGuid>d6bb4537-d034-4061-a0fe-f1a8fca858eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PUT Data'])[2]/preceding::p[2]</value>
-      <webElementGuid>2444704d-e3a7-4075-a90e-53d3c9db10ea</webElementGuid>
+      <webElementGuid>54d4f16e-893a-47c1-959f-f570550745bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::p[2]</value>
-      <webElementGuid>ba5aa8c9-49ce-4c69-9442-4ed780452d2e</webElementGuid>
+      <webElementGuid>495c141a-0b00-4026-b0bf-6781b11a9544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='OTA']/parent::*</value>
-      <webElementGuid>4ee51594-d932-4d2e-953e-5970d352837c</webElementGuid>
+      <webElementGuid>04c03f41-f61d-4761-8749-5213956e90b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-list-item[2]/div/p</value>
-      <webElementGuid>9e8fd6f3-006e-419c-b8c1-d2c3c0e4d4d9</webElementGuid>
+      <webElementGuid>52426649-2da3-4148-8926-d750db7eceb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = ' OTA' or . = ' OTA')]</value>
-      <webElementGuid>006efef9-37ca-4b82-80bb-09341f50f64b</webElementGuid>
+      <webElementGuid>698f55c3-49e7-491f-85ed-b0ca459f84c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

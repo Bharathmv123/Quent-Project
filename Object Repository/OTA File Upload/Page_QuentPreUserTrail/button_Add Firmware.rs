@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add Firmware</name>
    <tag></tag>
-   <elementGuidId>35780532-3256-41b3-bf38-7073310350ba</elementGuidId>
+   <elementGuidId>cc35bec2-8dbe-41fd-956f-ef8ca6b337dd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>66a1dfe1-de70-4d96-a931-00e356793cc4</webElementGuid>
+      <webElementGuid>2e5e33cd-5304-4279-a6b0-35f83ce01543</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>86900fc2-001f-4b39-a3f9-7b006facf7e0</webElementGuid>
+      <webElementGuid>7d331c4a-67a0-44e8-bf11-dfa612a9675c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-focus-indicator firmware-btn mat-button mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>609bd39c-e716-46cb-9894-7654f676d596</webElementGuid>
+      <webElementGuid>cd4928f4-0dc9-4684-b167-efe0a80ce12d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>  Add Firmware </value>
-      <webElementGuid>9a769121-1c39-4e94-8312-4f4740e234e0</webElementGuid>
+      <webElementGuid>35d174a1-6055-433b-9e9e-38047fbc0449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-ota[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ota-container&quot;]/div[1]/div[@class=&quot;text-right second-part apply-btn&quot;]/button[@class=&quot;mat-focus-indicator firmware-btn mat-button mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>87d65c9b-86a3-4632-84a3-b7c98ef64482</webElementGuid>
+      <webElementGuid>f707f2e6-12ff-4d54-bb2e-44dfd186f6f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>5d3a75f8-3852-48d3-a434-4f9608ef7936</webElementGuid>
+      <webElementGuid>51516ce5-7e7b-4b54-9bec-6114e827a702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OTA'])[2]/following::button[1]</value>
-      <webElementGuid>d78e4319-3c66-4d8b-abcd-c8cd2d7cefe8</webElementGuid>
+      <webElementGuid>82737274-778a-4162-bb50-ee7a814e4f44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha S'])[1]/following::button[4]</value>
-      <webElementGuid>5e38fb90-d939-4e40-91dd-1916fc2a4290</webElementGuid>
+      <webElementGuid>455c2345-169c-4a77-aed8-917a4adf08fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found'])[1]/preceding::button[1]</value>
-      <webElementGuid>b6945394-f4e4-4e4c-9d32-be94b9795545</webElementGuid>
+      <webElementGuid>88aef6f5-d507-4ed1-98fc-67b59a402f4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>6855d989-672d-4758-bc00-21a4cc439085</webElementGuid>
+      <webElementGuid>bccf941d-002c-4042-a0cc-276739b652d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = '  Add Firmware ' or . = '  Add Firmware ')]</value>
-      <webElementGuid>1f97970c-376e-4f1e-b1e2-e6f434dda4bd</webElementGuid>
+      <webElementGuid>530ef09a-2f71-4dee-b82e-4ca91116edae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
