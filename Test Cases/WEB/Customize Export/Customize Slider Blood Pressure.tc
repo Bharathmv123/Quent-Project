@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Customize Age and Weight</name>
+   <name>Customize Slider Blood Pressure</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f821a35c-eabb-4748-912b-a9c9c3eaee0a</testCaseGuid>
+   <testCaseGuid>aee58c9b-a29a-467d-82de-244b12816fbe</testCaseGuid>
 </TestCaseEntity>
