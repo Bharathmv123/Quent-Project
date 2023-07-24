@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JUL 2023_cdk-overlay-backdrop mat-overl_a70191</name>
+   <tag></tag>
+   <elementGuidId>d9b17f82-38f2-4e97-b6cf-6917b31980a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cdk-overlay-backdrop.mat-overlay-transparent-backdrop.mat-datepicker-2-backdrop.cdk-overlay-backdrop-showing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ede8196a-81dd-444e-a0af-f172efb703d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-overlay-backdrop mat-overlay-transparent-backdrop mat-datepicker-2-backdrop cdk-overlay-backdrop-showing</value>
+      <webElementGuid>8a087bea-cb33-4b1b-95d7-e531815abe66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;cdk-overlay-container&quot;]/div[@class=&quot;cdk-overlay-backdrop mat-overlay-transparent-backdrop mat-datepicker-2-backdrop cdk-overlay-backdrop-showing&quot;]</value>
+      <webElementGuid>f9f60f3a-6103-4cad-b7d6-530f74474b81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>c33034ea-2579-45f6-a980-a5bd67b66e3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

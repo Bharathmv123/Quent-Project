@@ -3,15 +3,15 @@
    <description></description>
    <name>img_1</name>
    <tag></tag>
-   <elementGuidId>fc0d1764-333f-4194-9171-b1cb9ac4d562</elementGuidId>
+   <elementGuidId>63ddc24e-7d7a-4645-a2ae-bf632f46b6a2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[2]/div[3]/button/span/img</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/button/span/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>1b1b7b31-b8b3-434a-aa08-c6b7d429b926</webElementGuid>
+      <webElementGuid>7e8f51ab-668c-446a-9fc2-4f757902968f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/svg/profile-menu-bar.svg</value>
-      <webElementGuid>e6e4c554-ebfb-4bbc-b584-452926a38d17</webElementGuid>
+      <webElementGuid>9a1ddde0-de91-42ca-bac4-d66ac7673d6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/n2-platform-tool-bar[@class=&quot;tool-bar ng-star-inserted&quot;]/div[@class=&quot;physician-dashboard-toolbar&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;physician-userdetails&quot;]/div[@class=&quot;profile-menu&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/img[1]</value>
-      <webElementGuid>07fa3b66-1f46-405b-9469-b3769b889597</webElementGuid>
+      <webElementGuid>dae91c98-70bc-4a3d-b162-f3c9eecd4a03</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/button/span/img</value>
-      <webElementGuid>d64bc0f6-c7f0-4a69-b727-57d6b10665f6</webElementGuid>
+      <webElementGuid>2ca75614-cc64-4ea6-adbe-466f20b3db74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/profile-menu-bar.svg']</value>
-      <webElementGuid>b0b81690-d3c6-460a-a1df-6cadcfb378aa</webElementGuid>
+      <webElementGuid>8c3a3d4a-395b-4467-a07e-bf6c5facde3d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

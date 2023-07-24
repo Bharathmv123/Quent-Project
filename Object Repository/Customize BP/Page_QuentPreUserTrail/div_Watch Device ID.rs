@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Watch Device ID</name>
    <tag></tag>
-   <elementGuidId>ec7bbe62-ac50-4031-b110-473ae712d448</elementGuidId>
+   <elementGuidId>851fba4b-ac60-40b5-8130-9672ee3e3ae4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight (Kg)'])[1]/following::div[1]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight (Kg)'])[1]/following::div[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e77b0444-58fb-4b98-945d-e942a6a6910b</webElementGuid>
+      <webElementGuid>2dba035d-77d3-4e66-91c1-05aba3299c4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>fxlayout</name>
       <type>Main</type>
       <value>column</value>
-      <webElementGuid>149f0b2f-8e89-4155-8a2f-0d679f1c0ed0</webElementGuid>
+      <webElementGuid>f8f35d69-0c66-4ee1-996b-2aae2cc7c92f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>fxflex</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>771dbe37-68f3-421f-b3e3-8d284116d015</webElementGuid>
+      <webElementGuid>f48709f9-f306-47ae-9082-529ec67ee882</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>put-title</value>
-      <webElementGuid>1eeabae3-f159-4e30-8d71-66e3798ac5f8</webElementGuid>
+      <webElementGuid>0153d4cd-f5a3-4147-a602-ea09830d6243</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Watch Device ID </value>
-      <webElementGuid>30656ab1-5afa-42b6-8010-7b2762bf631c</webElementGuid>
+      <webElementGuid>a42bd9a7-72d2-4289-87b8-84b371d84208</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-put-customize-export[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;customise-export&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[1]/div[@class=&quot;put-white-box second-box&quot;]/div[@class=&quot;put-title&quot;]</value>
-      <webElementGuid>4996d790-b0f1-47e3-aff3-affae00c56eb</webElementGuid>
+      <webElementGuid>71f4650d-0545-4a76-855d-108e763b2b2a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight (Kg)'])[1]/following::div[1]</value>
-      <webElementGuid>364f855b-8a57-4789-89fc-ffda79bfb730</webElementGuid>
+      <webElementGuid>08211475-9ca4-40fa-b446-7dc9513159aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Age'])[2]/following::div[2]</value>
-      <webElementGuid>e263dd8d-2cb5-4def-8ca3-c600a1085a16</webElementGuid>
+      <webElementGuid>76b6fbd8-6fe3-4206-bb7f-495111b59b00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch Device ID'])[3]/preceding::div[1]</value>
-      <webElementGuid>3b648ca9-b404-4cd2-9254-a8ef92f777f1</webElementGuid>
+      <webElementGuid>d559cb1d-ca57-49da-bb9e-61aab9c8fb1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Date range'])[1]/preceding::div[16]</value>
-      <webElementGuid>37bb320e-1c16-4d5c-9819-6fd774d876c2</webElementGuid>
+      <webElementGuid>d99d6515-c12b-45ce-a941-17b4e4a6f90c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[6]</value>
-      <webElementGuid>6dfc92a1-d41a-4d14-a81e-0fc3286a7e9c</webElementGuid>
+      <webElementGuid>8022d8bc-7d8c-4697-a81e-59675f423608</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Watch Device ID ' or . = ' Watch Device ID ')]</value>
-      <webElementGuid>dc3b11db-002b-45d7-82fa-cadf7045549a</webElementGuid>
+      <webElementGuid>d0d116da-2d78-4f99-a7ee-dbefd46a81b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

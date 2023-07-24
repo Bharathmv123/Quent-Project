@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Add All</name>
    <tag></tag>
-   <elementGuidId>8fb34d9c-55fe-477e-bc4b-5361e766254b</elementGuidId>
+   <elementGuidId>cbd1b4f8-a2f0-4daa-88c4-878a7efa099d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::button[1]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.mat-focus-indicator.mat-stroked-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>956a8c4e-3807-43d6-aefd-d17df7571cd3</webElementGuid>
+      <webElementGuid>918a286d-fae3-4475-8fcb-fbee2c511eec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-focus-indicator mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>07bdb0b4-7656-4b0b-81f5-d419d5490871</webElementGuid>
+      <webElementGuid>acead248-af0d-4b92-b1b0-6793b91f1d2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Add All </value>
-      <webElementGuid>3110707b-f81a-46c9-8448-c8087a6cc149</webElementGuid>
+      <webElementGuid>c67e8d4b-4abd-4247-a1cb-4d4cf1d87c60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-put-customize-export[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;customise-export&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[1]/div[@class=&quot;put-white-box&quot;]/div[2]/div[1]/div[1]/div[2]/div[@class=&quot;column-container second-part&quot;]/div[@class=&quot;column-list&quot;]/div[@class=&quot;column-box&quot;]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>b8b8333c-0a0e-40d8-bf07-c40cfb43f01b</webElementGuid>
+      <webElementGuid>62adb945-42e2-490a-bb8a-575cf5ab4456</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::button[1]</value>
-      <webElementGuid>454a5df7-cb75-4285-86fd-0048f236d263</webElementGuid>
+      <webElementGuid>ddbe8366-5d08-4155-9479-4d4473667441</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Operation System'])[1]/following::button[2]</value>
-      <webElementGuid>a68530f3-2a0f-49d3-b265-8659310453b4</webElementGuid>
+      <webElementGuid>d02a56b9-2e99-4f91-8a8c-3447d9ab8125</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::button[1]</value>
-      <webElementGuid>35eb7d53-8cf4-48e5-b5af-2f8be86d4851</webElementGuid>
+      <webElementGuid>c1dc059f-3ab2-4ff6-a9c2-2bf5e1c6124f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/button[2]</value>
-      <webElementGuid>2cd06e1a-34aa-409c-add7-c05d01eb2adb</webElementGuid>
+      <webElementGuid>b398cb67-04b3-4ead-a3cc-0abeecbafaeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Add All ' or . = ' Add All ')]</value>
-      <webElementGuid>e530bb49-62e6-43eb-b84a-11aeae962b83</webElementGuid>
+      <webElementGuid>b9be7501-ba27-44bb-8291-4b1c70d294ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

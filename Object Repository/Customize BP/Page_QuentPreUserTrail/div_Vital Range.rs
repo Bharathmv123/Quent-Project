@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Vital Range</name>
    <tag></tag>
-   <elementGuidId>db3eae27-9d9c-4d3c-8185-369a8f0fec25</elementGuidId>
+   <elementGuidId>a3c80df0-82be-4a99-9999-814a87f3c5aa</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent ID'])[1]/following::div[15]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>div.put-white-box.second-box > div.put-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent ID'])[1]/following::div[15]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>48034651-d25e-4419-a307-17ec80d57075</webElementGuid>
+      <webElementGuid>e592a897-0a76-46ff-ab98-522c32567020</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>fxlayout</name>
       <type>Main</type>
       <value>column</value>
-      <webElementGuid>3789e4d8-32a1-47db-a6e4-00b391cfd48f</webElementGuid>
+      <webElementGuid>dd713d25-fd63-4e91-a69c-c9d985838387</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>fxflex</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>8c663502-0689-4511-bed2-16435c41d26c</webElementGuid>
+      <webElementGuid>1416bc38-d14b-4384-a902-a363b5bb5fd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>put-title</value>
-      <webElementGuid>011aa85d-f8c4-43e0-88de-dc1aedcbe898</webElementGuid>
+      <webElementGuid>f2579510-fd31-42d4-ba71-5be294594470</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Vital Range </value>
-      <webElementGuid>eddcfb31-4b24-47a3-b97a-2bab00fbfc51</webElementGuid>
+      <webElementGuid>be2aefa1-90f6-4ae3-aec9-870a5e8e4b28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-put-customize-export[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;customise-export&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[1]/div[@class=&quot;put-white-box second-box&quot;]/div[@class=&quot;put-title&quot;]</value>
-      <webElementGuid>0566f616-2b89-40b2-b690-decf88a22462</webElementGuid>
+      <webElementGuid>7d7d99bb-d532-4f1a-9509-9b79eeb8308e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent ID'])[1]/following::div[15]</value>
-      <webElementGuid>4b979145-e34f-4fba-8ad7-bbbaad2d5b13</webElementGuid>
+      <webElementGuid>592b38aa-9525-4696-980f-db1f8f7e198e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User Reference ID'])[2]/following::div[30]</value>
-      <webElementGuid>af51e5af-18dd-4a7a-af54-bb164c1bb06a</webElementGuid>
+      <webElementGuid>1842dde0-ea25-4ba5-a977-85fbb401af86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Heart Rate Lower and Higher Limits (bpm)'])[1]/preceding::div[1]</value>
-      <webElementGuid>b3a3c90b-82e9-41d4-b87d-d74a4bfbaa60</webElementGuid>
+      <webElementGuid>7af1538f-6d8d-4ba2-a90d-7514bb12ad22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Blood Oxygen Lower and Higher Limits (%)'])[1]/preceding::div[2]</value>
-      <webElementGuid>2cf80352-0d49-48b3-b3be-f057edc215ce</webElementGuid>
+      <webElementGuid>c0cb9eb9-d0eb-40db-bea7-20879ddf91e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Vital Range']/parent::*</value>
-      <webElementGuid>7b218ade-902b-4449-be8c-87aa3d0a2ef0</webElementGuid>
+      <webElementGuid>3c5345f0-193e-445f-aab9-93c082b89572</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]</value>
-      <webElementGuid>f2adbb13-c581-4204-a94b-0213a82e8a0d</webElementGuid>
+      <webElementGuid>01d9c7b4-d28d-4c1d-aa50-8ee22944d888</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Vital Range ' or . = ' Vital Range ')]</value>
-      <webElementGuid>dd46a753-f805-4368-af69-104b192d1249</webElementGuid>
+      <webElementGuid>78d3df33-8334-4e25-818d-e047a96f88b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

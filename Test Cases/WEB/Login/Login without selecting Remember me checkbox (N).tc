@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login without selecting Remember me checkbox (N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdba5441-b7b9-46c7-932e-d022924f464d</testCaseGuid>
+</TestCaseEntity>

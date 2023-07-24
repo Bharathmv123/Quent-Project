@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Date range_mat-drawer-backdrop ng-star-_f1864a</name>
+   <tag></tag>
+   <elementGuidId>d8c73b0e-06fe-4aad-a256-de59d09bd24a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-drawer-backdrop.ng-star-inserted.mat-drawer-shown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-drawer-container/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>902d9184-97f1-49e8-bdec-c0db0cf43fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-drawer-backdrop ng-star-inserted mat-drawer-shown</value>
+      <webElementGuid>2531fc0b-d1a7-4b67-a032-012c28f31e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;profile-container ng-star-inserted&quot;]/n2-platform-drawer-menu[1]/mat-drawer-container[@class=&quot;mat-drawer-container mat-drawer-transition mat-drawer-container-has-open&quot;]/div[@class=&quot;mat-drawer-backdrop ng-star-inserted mat-drawer-shown&quot;]</value>
+      <webElementGuid>8cc0afac-b82e-4448-b53c-596adb5e0525</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-drawer-container/div</value>
+      <webElementGuid>3835c25c-2219-4650-9f3f-2734d47638f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
