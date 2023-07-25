@@ -32,6 +32,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/OTA file delete/Page_Qu
 
 WebUI.click(findTestObject('Object Repository/OTA file delete/Page_QuentPreUserTrail/button_Login'))
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/OTA file delete/Page_QuentPreUserTrail/p_OTA'))
 
 WebUI.click(findTestObject('Object Repository/OTA file delete/Page_QuentPreUserTrail/img_Release_mat-tooltip-trigger'))

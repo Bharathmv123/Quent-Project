@@ -38,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserT
 
 WebUI.click(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserTrail/button_Choose File'))
 
-WebUI.delay(50)
+WebUI.delay(20)
 
 WebUI.setText(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserTrail/input__mat-input-5'), 'QUENT')
 
@@ -46,9 +46,12 @@ WebUI.setText(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUse
 
 WebUI.click(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserTrail/div__mat-form-field-infix ng-tns-c113-12'))
 
-WebUI.setText(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserTrail/input__mat-input-8'), '1.92')
+WebUI.setText(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserTrail/input__mat-input-8'), '1.93')
 
 WebUI.click(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserTrail/button_Save'))
 
+WebUI.delay(20)
+
 WebUI.closeBrowser()
+
 
