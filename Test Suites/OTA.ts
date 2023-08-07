@@ -10,23 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>9f8515c8-9846-449d-ae19-75f75440ac8d</testSuiteGuid>
+   <testSuiteGuid>972ef1d8-e260-4cd2-a002-530ac251dc0e</testSuiteGuid>
    <testCaseLink>
-      <guid>08434892-edef-40b8-840f-bdd1745ef1e5</guid>
+      <guid>26d85557-a326-4898-ba90-2e45912957ff</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/WEB/OTA/OTA Add Firmware cancel</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cd2825cf-f334-42e4-9e93-1c956635b927</guid>
+      <guid>0286a7d2-b31d-49fe-be80-a5628dfddd03</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/OTA/OTA File Upload</testCaseId>
+      <testCaseId>Test Cases/WEB/OTA/OTA File Uploading</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b5dcc815-4b01-421a-8efb-a4d9b9b7b981</guid>
+      <guid>ee90855d-a1c5-45db-8250-c8e7d08c39ee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/WEB/OTA/OTA File delete</testCaseId>
