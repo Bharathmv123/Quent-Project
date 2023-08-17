@@ -49,11 +49,11 @@ WebUI.click(findTestObject('Object Repository/No of records per page/Page_QuentP
 
 WebUI.click(findTestObject('Object Repository/No of records per page/Page_QuentPreUserTrail/div_Number of records per page_mat-select-a_044450'))
 
-WebUI.click(findTestObject('Object Repository/No of records per page/Page_QuentPreUserTrail/span_25'))
+WebUI.click(findTestObject('Object Repository/No of records per page/Page_QuentPreUserTrail/span_100'))
 
 WebUI.click(findTestObject('Object Repository/No of records per page/Page_QuentPreUserTrail/div_Number of records per page_mat-select-a_044450'))
 
-WebUI.click(findTestObject('Object Repository/No of records per page/Page_QuentPreUserTrail/span_100'))
+WebUI.click(findTestObject('Object Repository/No of records per page/Page_QuentPreUserTrail/span_25'))
 
 WebUI.click(findTestObject('Object Repository/No of records per page/Page_QuentPreUserTrail/a_page 2'))
 

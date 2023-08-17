@@ -48,11 +48,8 @@ WebUI.setText(findTestObject('Object Repository/OTA file Uploading/Page_QuentPre
 
 WebUI.click(findTestObject('Object Repository/OTA file Uploading/Page_QuentPreUserTrail/button_Save'))
 
-WebUI.delay(120)
+WebUI.delay(20)
 
-WebUI.click(findTestObject('Object Repository/OTA file Uploading/Page_QuentPreUserTrail/img_1'))
-
-WebUI.click(findTestObject('Object Repository/OTA file Uploading/Page_QuentPreUserTrail/div_Logout'))
 
 WebUI.closeBrowser()
 

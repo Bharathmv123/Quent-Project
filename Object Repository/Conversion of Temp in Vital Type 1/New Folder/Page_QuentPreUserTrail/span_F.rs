@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_F</name>
+   <tag></tag>
+   <elementGuidId>76d3d6e2-688d-44c8-98c7-7eacb77abaf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.vitalunit.mat-flat-button.mat-button-base.mat-accent.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='right']/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c8f20b2-c29b-4588-b0c7-49b384719819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>2a1c8347-f21f-4e4d-957e-546c4f37285f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> °F</value>
+      <webElementGuid>9ccac6ad-8ee0-45fa-a1d7-3cb4ce5cd29e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;usertrail-table&quot;]/mat-table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/mat-row[@class=&quot;mat-row cdk-row nodata-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-vitalReading mat-column-vitalReading ng-star-inserted&quot;]/div[@class=&quot;mat-tooltip-trigger usertrail-data ng-star-inserted&quot;]/div[@id=&quot;right&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger vitalunit mat-flat-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>7e7230fb-14ee-4b87-98da-459724e05355</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='right']/button/span</value>
+      <webElementGuid>c80adfc2-1ff9-4bbb-b1f8-d97f7f4ad701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CBT'])[1]/following::span[1]</value>
+      <webElementGuid>060501f0-17a4-4299-ada6-7ae4a56c496f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EA:32:7B:E2:C3:74'])[1]/following::span[2]</value>
+      <webElementGuid>c96921da-9aef-4cd7-abe7-0e81dff06c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUT_USR_0011'])[4]/preceding::span[5]</value>
+      <webElementGuid>8a3dc2aa-b139-414f-8989-cc0705ebb1d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kishore124344224'])[2]/preceding::span[6]</value>
+      <webElementGuid>3d0b15f5-2bba-4737-80c7-d8df09b1cefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='°F']/parent::*</value>
+      <webElementGuid>7d4accaf-5b55-47ad-afd2-4e0c2580cbbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-cell[14]/div/div[2]/button/span</value>
+      <webElementGuid>3c93c337-4c42-474e-af3a-cb1c8340ddee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' °F' or . = ' °F')]</value>
+      <webElementGuid>394b7dbb-7007-4e1a-a637-13d54ce6df3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
