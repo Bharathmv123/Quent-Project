@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login user is able to click on eye icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>296b4f3c-3d75-452f-9bf3-9515b39dea67</testCaseGuid>
+</TestCaseEntity>

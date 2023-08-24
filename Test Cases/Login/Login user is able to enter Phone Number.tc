@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login user is able to enter Phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68d3a09f-c8e5-4938-b8a0-55b6d509b62c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login without entering Phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b023e2c-de2c-4c05-956e-8a11a93a5b83</testCaseGuid>
+</TestCaseEntity>
