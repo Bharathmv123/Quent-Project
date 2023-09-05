@@ -92,7 +92,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.delay(30)
 
-//HR Vital Reading
+//HR Vital Reading for 1 st Reading
 
 Mobile.tap(findTestObject('Object Repository/HR/XCUIElementTypeStaticText - Measure'), 0)
 
@@ -104,9 +104,27 @@ Mobile.tap(findTestObject('Object Repository/HR/XCUIElementTypeButton - Take Pho
 
 Mobile.delay(20)
 
+//HR Vital Reading for 2 nd Reading
+
+Mobile.tap(findTestObject('Object Repository/HR/XCUIElementTypeStaticText - Measure'), 0)
+
+Mobile.delay(30)
+
+Mobile.tap(findTestObject('Object Repository/HR/XCUIElementTypeButton - ic put attachment'), 0)
+
+Mobile.tap(findTestObject('Object Repository/HR/XCUIElementTypeButton - Take Photo'), 0)
+
+//HR Vital Reading delete 3rd Vital Set 
+
+Mobile.delay(20)
+
 Mobile.tap(findTestObject('Object Repository/HR/XCUIElementTypeButton - ic put delete'), 0)
 
 Mobile.tap(findTestObject('Object Repository/HR/XCUIElementTypeButton - Yes'), 0)
+
+Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Save'), 0)
+
+Mobile.delay(20)
 
 Mobile.closeApplication()
 

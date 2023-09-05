@@ -92,25 +92,39 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.delay(30)
 
-//SPO2 Vital Reading
-
-Mobile.delay(20)
+//SPO2 Vital Reading 1st Reading
 
 Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeStaticText - Measure'), 0)
 
-Mobile.delay(40)
+Mobile.delay(60)
 
 Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put attachment'), 0)
 
 Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Take Photo'), 0)
 
-Mobile.delay(50)
+//SPO2 Vital Reading 2nd Reading
+
+Mobile.delay(20)
+
+Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeStaticText - Measure'), 0)
+
+Mobile.delay(60)
+
+Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put attachment'), 0)
+
+Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Take Photo'), 0)
+
+//SPO2 Vital Reading delete 3rd Vital Set 
+
+Mobile.delay(20)
 
 Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put delete'), 0)
 
 Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Yes'), 0)
 
 Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Save'), 0)
+
+Mobile.delay(20)
 
 Mobile.closeApplication()
 
