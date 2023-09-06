@@ -17,6 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
 Mobile.startApplication('/Users/apple/Desktop/IRIS_STA (1).ipa', true)
 
 Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'),
@@ -92,47 +93,15 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.delay(30)
 
-//ECG Vital 1st  Reading
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeStaticText - Measure'), 0)
-
-Mobile.delay(50)
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put attachment (1)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Take Photo'), 0)
-
-Mobile.delay(20)
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put ecgPreview'), 0)
-
-Mobile.delay(30)
-
-//ECG Vital 2nd  Reading
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeStaticText - Measure'), 0)
-
-Mobile.delay(50)
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put attachment (1)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Take Photo'), 0)
-
-Mobile.delay(20)
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put ecgPreview'), 0)
-
-Mobile.delay(30)
-
-//ECG delete Vital Set
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put delete (1)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Yes'), 0)
+//Add SPO2 Vital Set
 
 Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Save'), 0)
+
+Mobile.getText(findTestObject('Object Repository/Save Empty ECG Vital/XCUIElementTypeStaticText - Please measure atleast one vital reading'),
+	0)
+
+Mobile.tap(findTestObject('Object Repository/Save Empty ECG Vital/XCUIElementTypeButton - OK'), 0)
 
 Mobile.delay(20)
 
 Mobile.closeApplication()
-
