@@ -190,5 +190,6 @@
 [35m[DevCon Factory][39m Found cached connections to release: ["00008030-001A6CC23C51402E:51886"]
 [35m[DevCon Factory][39m Releasing the listener for '00008030-001A6CC23C51402E:51886'
 [35m[iProxy@00008030:51886][39m The connection has been closed
-[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[31m500[39m [90m168208 ms - 1543[39m
-[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[31m[35m[Appium][39m Received SIGTERM - shutting down
+ [90m[39m
+[35m[Appium][39m Received SIGTERM - shutting down
