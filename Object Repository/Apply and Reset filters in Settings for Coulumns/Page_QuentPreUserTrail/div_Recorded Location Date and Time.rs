@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recorded Location Date and Time</name>
+   <tag></tag>
+   <elementGuidId>cdbd98e2-d7a2-4ce0-8af8-5d3477ed52a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-selection-list[@id='cdk-drop-list-0']/mat-list-option[15]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-list-option.mat-list-item.mat-list-option.mat-focus-indicator.mat-tooltip-trigger.cdk-drag.column-item.disable-option.mat-accent.ng-star-inserted.cdk-focused.cdk-mouse-focused > div.mat-list-item-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28bfd9e2-17d9-4f2d-b2be-58d1e4d75dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-item-content</value>
+      <webElementGuid>0a69d172-ad9a-48cb-a0da-474169de06c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Recorded Location Date and Time </value>
+      <webElementGuid>b5ddb654-d603-4821-a873-2e7db7d8bc7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-0&quot;)/mat-list-option[@class=&quot;mat-list-item mat-list-option mat-focus-indicator mat-tooltip-trigger cdk-drag column-item disable-option mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;mat-list-item-content&quot;]</value>
+      <webElementGuid>aaa8e5c6-8f15-4811-8f2c-f70a6100fad9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-selection-list[@id='cdk-drop-list-0']/mat-list-option[15]/div</value>
+      <webElementGuid>690b76e4-4e92-457c-8fb1-c14b155ac3a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital Reading'])[2]/following::div[1]</value>
+      <webElementGuid>e7fdfba8-3690-437e-a834-649c865c63ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital Type'])[2]/following::div[4]</value>
+      <webElementGuid>9be9cb88-fdc7-4891-a82d-fe2e9a715e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Location Date and Time'])[1]/preceding::div[5]</value>
+      <webElementGuid>fedd9d78-f330-4511-ae87-3255d895c168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-list-option[15]/div</value>
+      <webElementGuid>194d3ca2-7ca5-42c6-846e-5654ba6c187d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Recorded Location Date and Time ' or . = ' Recorded Location Date and Time ')]</value>
+      <webElementGuid>45d67de1-e10f-4e05-83f8-574627e37a9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

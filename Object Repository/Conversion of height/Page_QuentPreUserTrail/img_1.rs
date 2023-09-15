@@ -3,7 +3,7 @@
    <description></description>
    <name>img_1</name>
    <tag></tag>
-   <elementGuidId>45b27721-459f-4660-b29f-3651c31489ab</elementGuidId>
+   <elementGuidId>7bb49982-f67a-4220-8ace-9c6fe1cde4ae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>8e93350b-36e4-44bc-91df-da55b75ac447</webElementGuid>
+      <webElementGuid>2ff313f7-806b-47e9-ba6f-41ceb7199672</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/svg/profile-menu-bar.svg</value>
-      <webElementGuid>2e651e4c-7836-49a2-bc7a-a97c8992ebc8</webElementGuid>
+      <webElementGuid>ad5e4e22-4e55-4009-81b7-e6e97898e3be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/n2-platform-tool-bar[@class=&quot;tool-bar ng-star-inserted&quot;]/div[@class=&quot;physician-dashboard-toolbar&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;physician-userdetails&quot;]/div[@class=&quot;profile-menu&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/img[1]</value>
-      <webElementGuid>81f05973-8844-47be-af90-6711945aa881</webElementGuid>
+      <webElementGuid>3e7df073-7fc0-45ca-a5fd-2eea2580a78a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/button/span/img</value>
-      <webElementGuid>32a63aea-6b97-40e6-9052-fd43c873fb6c</webElementGuid>
+      <webElementGuid>39f03036-ddbd-4e48-93d9-f1dd42ab56d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/profile-menu-bar.svg']</value>
-      <webElementGuid>19aff4e2-de28-4715-8c27-d67b515f2edf</webElementGuid>
+      <webElementGuid>1c7bce33-1e7a-4ebb-b773-46b8c90da32d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

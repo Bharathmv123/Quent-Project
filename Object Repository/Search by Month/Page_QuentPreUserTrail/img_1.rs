@@ -3,15 +3,15 @@
    <description></description>
    <name>img_1</name>
    <tag></tag>
-   <elementGuidId>6bcdb2ad-85e1-4ba0-b00f-e7c6448dc9c8</elementGuidId>
+   <elementGuidId>3c6e6107-f688-4110-b6c6-b82360a0f692</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-1 > span.mat-option-text > img</value>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > img</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-1']/span/img</value>
+         <value>//div[2]/div[3]/button/span/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,46 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>8cd69adf-fb43-43cd-9cb0-2cb53f69d78e</webElementGuid>
+      <webElementGuid>f0536b17-3c9a-45d8-9fb8-7e0b2f52e7e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>./assets/icons/svg/india.svg</value>
-      <webElementGuid>1633d690-a208-493d-a798-34dca75393e7</webElementGuid>
+      <value>./assets/icons/svg/profile-menu-bar.svg</value>
+      <webElementGuid>ac06ad7c-57f3-4730-b6e4-14a9867b363d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]/img[1]</value>
-      <webElementGuid>d1e020a6-23b9-4de9-bdd3-f982ddb2a4f6</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/n2-platform-tool-bar[@class=&quot;tool-bar ng-star-inserted&quot;]/div[@class=&quot;physician-dashboard-toolbar&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;physician-userdetails&quot;]/div[@class=&quot;profile-menu&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/img[1]</value>
+      <webElementGuid>da5c959f-6287-483f-a0ae-280dd8e734ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//mat-option[@id='mat-option-1']/span/img</value>
-      <webElementGuid>81010aec-6aa9-45c7-8ec8-46b615a3639a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[2]/span/img</value>
-      <webElementGuid>08fd2949-700a-489a-8d00-885b8064d158</webElementGuid>
+      <value>//div[2]/div[3]/button/span/img</value>
+      <webElementGuid>815f6319-f902-4d9f-95b2-23bd8aff1bad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = './assets/icons/svg/india.svg']</value>
-      <webElementGuid>827c7370-4627-4447-a106-6ef9f33b9536</webElementGuid>
+      <value>//img[@src = './assets/icons/svg/profile-menu-bar.svg']</value>
+      <webElementGuid>891b986a-1412-49a3-8626-ab36a2b96f5a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Predicate</name>
+   <tag></tag>
+   <elementGuidId>a578c0cd-8b40-4967-9869-6ff8bb6c7827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-select-min-line.ng-tns-c121-15.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-9']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9dd644e5-07b5-42b8-be41-f951fff2cc09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-min-line ng-tns-c121-15 ng-star-inserted</value>
+      <webElementGuid>ccd43c3c-44ca-46f9-89e0-80e579815e60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Predicate</value>
+      <webElementGuid>df6fb521-fa56-4aea-a2c7-e69fb45f7916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-9&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-15 ng-star-inserted&quot;]/span[@class=&quot;mat-select-min-line ng-tns-c121-15 ng-star-inserted&quot;]</value>
+      <webElementGuid>d4796d06-e31f-4f6d-ad87-ec0d15749246</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-9']/span/span</value>
+      <webElementGuid>49f6046a-e0d6-45ae-aee2-dab8670641f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device type'])[1]/following::span[2]</value>
+      <webElementGuid>ce27403f-0d40-43fe-a03d-bcab31199c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Select--'])[3]/following::span[3]</value>
+      <webElementGuid>31176ad5-45c7-4eed-b0bf-3f1fdc9052dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital type'])[1]/preceding::span[2]</value>
+      <webElementGuid>f1905952-0bff-4b3a-bcc7-bef168101ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Select--'])[4]/preceding::span[2]</value>
+      <webElementGuid>09b65ff9-188d-4e05-b759-bb9124a4c44e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Predicate']/parent::*</value>
+      <webElementGuid>23f6089d-a86d-4bfd-abc6-ece616539ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/mat-form-field/div/div/div[3]/mat-select/div/div/span/span</value>
+      <webElementGuid>902071ea-fe9b-4c46-80fd-c7cfd7ac0584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Predicate' or . = 'Predicate')]</value>
+      <webElementGuid>b1d14644-8329-4556-9931-ea084cf3c72c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

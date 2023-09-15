@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vital Reading</name>
+   <tag></tag>
+   <elementGuidId>23f9f847-0a37-4173-a266-ddb2bcb298f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-selection-list[@id='cdk-drop-list-0']/mat-list-option[14]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-list-option.mat-list-item.mat-list-option.mat-focus-indicator.mat-tooltip-trigger.cdk-drag.column-item.disable-option.mat-accent.ng-star-inserted.cdk-focused.cdk-mouse-focused > div.mat-list-item-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>56669c1a-6f7d-4ecc-923e-0d681aaf4df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-item-content</value>
+      <webElementGuid>0f231d7c-370d-428c-b9a1-de41cdc1b17a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Vital Reading </value>
+      <webElementGuid>e96a959f-a5b6-4c04-bd5e-5febdf4a1032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-0&quot;)/mat-list-option[@class=&quot;mat-list-item mat-list-option mat-focus-indicator mat-tooltip-trigger cdk-drag column-item disable-option mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;mat-list-item-content&quot;]</value>
+      <webElementGuid>7ae6287e-224d-458a-89df-96c5a22272b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-selection-list[@id='cdk-drop-list-0']/mat-list-option[14]/div</value>
+      <webElementGuid>cd59cd32-7623-4257-a1ff-096065fe6ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital Type'])[2]/following::div[1]</value>
+      <webElementGuid>43dd7f00-e72f-4c11-b128-83fe385a82a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Id'])[2]/following::div[4]</value>
+      <webElementGuid>8b6eca8b-610d-4869-a658-348a0495d5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recorded Location Date and Time'])[1]/preceding::div[5]</value>
+      <webElementGuid>94e14627-b741-4412-a656-f6ecfb4c5dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-list-option[14]/div</value>
+      <webElementGuid>d30b252c-7790-4943-867e-cdb3b8722ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Vital Reading ' or . = ' Vital Reading ')]</value>
+      <webElementGuid>4d0a02ab-6481-4071-a16e-f567fa16075b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

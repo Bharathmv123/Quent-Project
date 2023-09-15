@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_50_1</name>
+   <tag></tag>
+   <elementGuidId>c286c6ac-fc68-4167-889a-e716c2ccf164</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-select-min-line.ng-tns-c121-18.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-13']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3673aaf6-d31b-4f2e-b519-af01ca700069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-min-line ng-tns-c121-18 ng-star-inserted</value>
+      <webElementGuid>34d4ae83-c9f2-43f7-9a18-db47786a38e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>24d0653f-69b7-4ce3-b852-e7a7257fa160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-13&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-18 ng-star-inserted&quot;]/span[@class=&quot;mat-select-min-line ng-tns-c121-18 ng-star-inserted&quot;]</value>
+      <webElementGuid>88ff5e55-b0af-4d2d-8ef8-64a4a5f367f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-13']/span/span</value>
+      <webElementGuid>e8d99d95-110f-40b3-8918-8749eba0eba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of records per page'])[1]/following::span[2]</value>
+      <webElementGuid>50e059a1-a760-4e43-a8d7-d2524865893c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 50 of 372 items'])[1]/following::span[2]</value>
+      <webElementGuid>3e6ceed8-1007-46ee-8e24-3f2829e7937d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='page'])[1]/preceding::span[1]</value>
+      <webElementGuid>8524fe59-c5f2-4f53-872e-429af3e88d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='50']/parent::*</value>
+      <webElementGuid>e2ee0861-4390-4383-8bf4-294973dce2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/mat-select/div/div/span/span</value>
+      <webElementGuid>f461e2b1-6fc2-4355-b185-26848e684f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '50' or . = '50')]</value>
+      <webElementGuid>7e718b6d-dc64-404f-8b71-09629cfbb1e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>img</name>
    <tag></tag>
-   <elementGuidId>dd57e36a-86c1-494d-8456-b3a978c55f89</elementGuidId>
+   <elementGuidId>6b7af1fa-6d04-471e-8831-6147975b80a1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>aa228a3b-0bff-4999-9764-7c09d8070a2c</webElementGuid>
+      <webElementGuid>5bec058a-b652-44be-8fc4-788c965bf875</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/svg/usa.svg</value>
-      <webElementGuid>ea99e20a-eb96-41b2-b30a-38b938c8e4da</webElementGuid>
+      <webElementGuid>98dedbf8-b87e-4dd7-9921-639de51319a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-1 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-1 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/img[1]</value>
-      <webElementGuid>19397a9a-9f24-484a-8b64-f4d54be1acd5</webElementGuid>
+      <webElementGuid>1e5f8a1e-bca4-49fa-bbe5-2a14619e4afb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
-      <webElementGuid>8af6e40c-6261-4b6e-8e30-41f77cc2795b</webElementGuid>
+      <webElementGuid>f1ae2311-6b46-471d-91e4-4a5d86de4614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select-trigger/div/img</value>
-      <webElementGuid>4aa82d36-4313-4df5-8d4c-beeda9af2f96</webElementGuid>
+      <webElementGuid>947fdc8f-ed80-4675-988b-8b9c24d906e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/usa.svg']</value>
-      <webElementGuid>3ac3b197-01b1-464b-8b01-682a944fcf4f</webElementGuid>
+      <webElementGuid>3d313a3f-24e8-450f-9295-31f7678a8844</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

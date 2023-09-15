@@ -19,14 +19,14 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0286a7d2-b31d-49fe-be80-a5628dfddd03</guid>
+      <guid>921874c7-c9dd-4b51-a3e3-ddac968da0e6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/OTA/OTA File Uploading</testCaseId>
+      <testCaseId>Test Cases/WEB/OTA/OTA File Upload</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ee90855d-a1c5-45db-8250-c8e7d08c39ee</guid>
+      <guid>827a9803-f924-417b-9e26-eed8aceaec61</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/WEB/OTA/OTA File delete</testCaseId>

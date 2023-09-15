@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserTrail/img'))
 
 WebUI.click(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserTrail/span_91'))
@@ -53,5 +55,4 @@ WebUI.click(findTestObject('Object Repository/OTA File Upload/Page_QuentPreUserT
 WebUI.delay(20)
 
 WebUI.closeBrowser()
-
 

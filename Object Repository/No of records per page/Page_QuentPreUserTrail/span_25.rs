@@ -3,15 +3,15 @@
    <description></description>
    <name>span_25</name>
    <tag></tag>
-   <elementGuidId>05a2908e-4b45-4f9e-9c9e-deba1bca612e</elementGuidId>
+   <elementGuidId>38245706-60aa-4d6f-ba16-493b1dd6473b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.mat-option-text</value>
+         <value>span.mat-select-min-line.ng-tns-c121-18.ng-star-inserted</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-2']/span</value>
+         <value>//div[@id='mat-select-value-13']/span/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,71 +22,63 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e141d804-6ef9-488a-bd25-aa03d2bd3d49</webElementGuid>
+      <webElementGuid>99c591de-d8c6-4ef0-b17a-df2f1423fc30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>a27f1f94-2452-4523-ae05-23d6145583cd</webElementGuid>
+      <value>mat-select-min-line ng-tns-c121-18 ng-star-inserted</value>
+      <webElementGuid>4e23f208-8881-437e-b787-fbf0e2e586e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> 25 </value>
-      <webElementGuid>8c1e2db1-c41f-4a6b-9bd6-0d9427a3eba5</webElementGuid>
+      <value>25</value>
+      <webElementGuid>36aad364-77aa-4e5c-836d-e27fc8a3ffbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-2&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>e101ecb3-3c52-45df-bfd5-559ca11d87da</webElementGuid>
+      <value>id(&quot;mat-select-value-13&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-18 ng-star-inserted&quot;]/span[@class=&quot;mat-select-min-line ng-tns-c121-18 ng-star-inserted&quot;]</value>
+      <webElementGuid>13117734-85d6-4fb8-b2da-1b5afda0e860</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-2']/span</value>
-      <webElementGuid>ea87425f-a084-4d61-bb40-40dee7cde70e</webElementGuid>
+      <value>//div[@id='mat-select-value-13']/span/span</value>
+      <webElementGuid>5be6270d-8155-49a4-be64-eca9b90ddd56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-2', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[1]</value>
-      <webElementGuid>924da1cd-d965-4743-8d41-e43c7048d358</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of records per page'])[1]/following::span[2]</value>
+      <webElementGuid>631bf3a0-df52-4c85-9065-6d48dbec7f49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='QT Interval:'])[1]/following::span[1]</value>
-      <webElementGuid>b94689c6-d609-4cf3-9aac-9e1a5803431c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 25 of 372 items'])[1]/following::span[2]</value>
+      <webElementGuid>aa3d0399-458a-486f-8639-fdad9a2be2f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha S'])[2]/preceding::span[3]</value>
-      <webElementGuid>5b81e123-f4f4-4531-a1cc-bf0afe00b602</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapsed'])[1]/preceding::span[3]</value>
-      <webElementGuid>bed58a5d-a7e5-4362-8c8d-5e23b064bed6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='page'])[1]/preceding::span[1]</value>
+      <webElementGuid>3d6c854e-a485-494b-9b20-21a812d535b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,22 +86,22 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='25']/parent::*</value>
-      <webElementGuid>8e24a03e-cf30-431f-b943-b70a3ff38455</webElementGuid>
+      <webElementGuid>a19029b9-4c78-4e01-96cb-f5ed73072bd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option/span</value>
-      <webElementGuid>66caacf8-01ac-42e7-bba1-c2647b605a57</webElementGuid>
+      <value>//div[2]/mat-select/div/div/span/span</value>
+      <webElementGuid>8b4d2341-9c3d-4c4c-a147-3a2152260494</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' 25 ' or . = ' 25 ')]</value>
-      <webElementGuid>9bd85bc0-b707-40d5-abaa-1071e0768d2c</webElementGuid>
+      <value>//span[(text() = '25' or . = '25')]</value>
+      <webElementGuid>a09af270-9acd-4d66-979c-caf855242778</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

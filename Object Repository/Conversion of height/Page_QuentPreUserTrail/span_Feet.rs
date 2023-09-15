@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Feet</name>
    <tag></tag>
-   <elementGuidId>6ff181f4-60ae-43d8-96a2-9382c8f4a0ca</elementGuidId>
+   <elementGuidId>082ab3fa-1fb3-4b60-9fc2-303d727568b3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>18d6cb80-b6fa-4d9a-a7d1-703c9623a252</webElementGuid>
+      <webElementGuid>ad4a2c3b-f101-45e1-b3cd-7953c6f8e7ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>9c0a9252-e431-4e25-b25c-abeb58d31ef4</webElementGuid>
+      <webElementGuid>b2ed505c-bb7e-448e-ae69-cdf0083fc1ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Feet</value>
-      <webElementGuid>b3659367-ed23-43c1-b261-d3f8d2d63438</webElementGuid>
+      <webElementGuid>ec2d30c2-63b5-47ec-87fe-913a50bc6161</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;usertrail-table&quot;]/mat-table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/mat-header-row[@class=&quot;mat-header-row cdk-header-row ng-star-inserted mat-table-sticky mat-table-sticky-border-elem-top&quot;]/mat-header-cell[@class=&quot;mat-header-cell cdk-header-cell cdk-column-height mat-column-height ng-star-inserted&quot;]/div[1]/div[@class=&quot;column-title ng-untouched ng-pristine ng-valid&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger vitalunit p-r1 mat-flat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>ca57112c-f7a3-498f-864e-bdb035a9fe78</webElementGuid>
+      <webElementGuid>80517245-83c2-40c1-b36c-b7da0878d26d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Age'])[1]/following::span[1]</value>
-      <webElementGuid>3e57f6a5-1016-4cfe-8e79-107956982ece</webElementGuid>
+      <webElementGuid>aaf6bdc0-867f-4a83-bc7a-36b76723ff30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kg'])[1]/preceding::span[3]</value>
-      <webElementGuid>e02a95ea-4544-4535-a895-a1e00667c702</webElementGuid>
+      <webElementGuid>3a292ec5-bf06-4198-8d17-d26f396160b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Feet']/parent::*</value>
-      <webElementGuid>57382d72-5649-4605-b986-44f69edaf4f1</webElementGuid>
+      <webElementGuid>669014cf-ddad-4f9c-b33e-c6149dbedf18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-header-cell[7]/div/div/button/span</value>
-      <webElementGuid>c6cfd205-2216-479d-9aff-105ecf9dc5c7</webElementGuid>
+      <webElementGuid>5c05c776-01b9-40d4-9646-8a820fe28415</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Feet' or . = ' Feet')]</value>
-      <webElementGuid>3ae2bcea-9d52-4ef0-b5c7-609aaebd6b07</webElementGuid>
+      <webElementGuid>51fba221-77d4-4b61-918d-6455210c71ff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

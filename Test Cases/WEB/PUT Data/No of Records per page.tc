@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>No of Records per page</name>
+   <name>No of Records Per Page</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ebddb5dc-0390-4610-a051-ee602d97c005</testCaseGuid>
+   <testCaseGuid>b18d4312-aa1f-45ef-8b2d-57c4939df2f3</testCaseGuid>
 </TestCaseEntity>

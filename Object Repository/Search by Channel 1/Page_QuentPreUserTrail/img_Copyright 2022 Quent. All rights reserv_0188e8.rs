@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Copyright 2022 Quent. All rights reserv_0188e8</name>
+   <tag></tag>
+   <elementGuidId>8da711a0-496f-4ce3-9f61-520f861fe051</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dialog-icon.error > img.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/n2-platform-alert-dialog/mat-dialog-content/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>26c5b9a1-fd3b-48d6-b88f-6c1f68a8cfd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/image/error_message.png</value>
+      <webElementGuid>c2bf7319-0fe7-4249-b0e5-a386f98597c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>9c75fb26-c600-479a-a581-13412ca037b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/n2-platform-alert-dialog[@class=&quot;ng-star-inserted&quot;]/mat-dialog-content[@class=&quot;mat-dialog-content&quot;]/div[@class=&quot;alert-dialog&quot;]/div[@class=&quot;dialog-icon error&quot;]/img[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>4b004453-bc57-4d94-b2f6-0169b4a05c78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/n2-platform-alert-dialog/mat-dialog-content/div/div/img</value>
+      <webElementGuid>1b53a599-3ad5-47c7-8a71-ed4aa723053b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-dialog-content/div/div/img</value>
+      <webElementGuid>492df6b6-9df9-4945-b541-c6c597f4d767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/image/error_message.png']</value>
+      <webElementGuid>935f7f47-f4ca-4dd5-9feb-7683a01d9191</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-pseudo-checkbox_QT Interval_mat-pseudo-_6ea1bd</name>
+   <tag></tag>
+   <elementGuidId>d1cee64a-7711-4070-9ab2-7fc90bb35070</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-selection-list[@id='cdk-drop-list-0']/mat-list-option/div/mat-pseudo-checkbox</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-pseudo-checkbox.mat-pseudo-checkbox.mat-pseudo-checkbox-checked.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-pseudo-checkbox</value>
+      <webElementGuid>9086fe91-154d-4042-95d4-c3144f878d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-pseudo-checkbox mat-pseudo-checkbox-checked ng-star-inserted</value>
+      <webElementGuid>65dc1d31-0c9a-441a-9676-28f71c62ac24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-0&quot;)/mat-list-option[@class=&quot;mat-list-item mat-list-option mat-focus-indicator mat-tooltip-trigger cdk-drag column-item mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;mat-list-item-content&quot;]/mat-pseudo-checkbox[@class=&quot;mat-pseudo-checkbox mat-pseudo-checkbox-checked ng-star-inserted&quot;]</value>
+      <webElementGuid>9be46ea7-d1d0-4e36-868f-3b1135598d6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-selection-list[@id='cdk-drop-list-0']/mat-list-option/div/mat-pseudo-checkbox</value>
+      <webElementGuid>ea480e14-d30b-44b1-8e19-32009f05e379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-pseudo-checkbox</value>
+      <webElementGuid>d6204aed-e29e-49c4-95cb-6592ca6dbef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
