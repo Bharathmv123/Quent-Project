@@ -90,7 +90,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Confirm'), 0)
 
-Mobile.delay(30)
+Mobile.delay(40)
 
 //HR Vital Reading
 

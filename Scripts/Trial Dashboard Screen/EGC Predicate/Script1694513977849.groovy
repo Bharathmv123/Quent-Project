@@ -17,11 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Downloads/IRIS_STA (1).ipa', true)
+Mobile.startApplication('/Users/apple/Desktop/IRIS_STA (1).ipa', true)
 
 Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'),
 	0)
-
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - ic uncheckedCheckbox3'), 0)
 
@@ -79,7 +78,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Scan for Watch'), 0)
 
-Mobile.delay(100)
+Mobile.delay(30)
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Done'), 0)
 
@@ -91,7 +90,45 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Confirm'), 0)
 
-Mobile.delay(10)
+Mobile.delay(30)
+
+//ECG Vital 1st  Reading
+
+Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeStaticText - Measure'), 0)
+
+Mobile.delay(50)
+
+Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put attachment (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Take Photo'), 0)
+
+Mobile.delay(20)
+
+Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - ic put ecgPreview'), 0)
+
+Mobile.delay(30)
+
+Mobile.tap(findTestObject('Object Repository/EKG Golden and Pred/XCUIElementTypeStaticText - Predicate Reading'), 0)
+
+Mobile.sendKeys(findTestObject('Object Repository/EKG Golden and Pred/XCUIElementTypeTextField - PR interval'), '76')
+
+Mobile.sendKeys(findTestObject(''), '101')
+
+Mobile.sendKeys(findTestObject('Object Repository/EKG Golden and Pred/XCUIElementTypeTextField - QRS Duration'), '112')
+
+Mobile.sendKeys(findTestObject('Object Repository/EKG Golden and Pred/XCUIElementTypeTextField - RR interval'), '239')
+
+Mobile.tap(findTestObject('Object Repository/EKG Golden and Pred/XCUIElementTypeTextField - Inference'), 0)
+
+Mobile.sendKeys(findTestObject('Object Repository/EKG Golden and Pred/XCUIElementTypeTextField - bpm (1)'), '88')
+
+Mobile.sendKeys(findTestObject('Object Repository/EKG Golden and Pred/XCUIElementTypeTextField - Description (1)'), 'ECG')
+
+Mobile.tap(findTestObject('Object Repository/EKG Golden and Pred/XCUIElementTypeButton - Save'), 0)
+
+Mobile.tap(findTestObject('Object Repository/SPO2 ECG/XCUIElementTypeButton - Save'), 0)
+
+Mobile.delay(20)
 
 Mobile.closeApplication()
 
