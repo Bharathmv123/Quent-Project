@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Firmware</name>
+   <tag></tag>
+   <elementGuidId>e815adfd-8139-426e-97c3-55b8d3bcc3a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.firmware-btn.mat-button.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8fb6b8ec-2399-42bb-8475-63186118c6fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6d62ad8d-86fa-45aa-b0b7-9ae2d53f4eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator firmware-btn mat-button mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>9f1e2f74-5610-4fd3-a321-6ae5e5b47cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Add Firmware </value>
+      <webElementGuid>b507c0b2-2c0d-4ec4-b247-20e3194f4f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-ota[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ota-container&quot;]/div[1]/div[@class=&quot;text-right second-part apply-btn&quot;]/button[@class=&quot;mat-focus-indicator firmware-btn mat-button mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>a8f0f873-0ee7-4832-8112-e0665965b9a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>e8830a45-4250-4fb9-aaca-7a2b3c2b0a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OTA'])[2]/following::button[1]</value>
+      <webElementGuid>bd9ec43f-f51b-42cb-9155-bec908714a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha S'])[1]/following::button[8]</value>
+      <webElementGuid>5962a047-1670-478f-af61-e3f80d4a3623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found'])[1]/preceding::button[1]</value>
+      <webElementGuid>132c3f16-b3d1-41ef-9385-bb311c1b7267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>92bf4808-c6b3-4f78-bb4c-cd10a1c87509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '  Add Firmware ' or . = '  Add Firmware ')]</value>
+      <webElementGuid>e45f321f-5a26-47bb-b584-f182993c9245</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

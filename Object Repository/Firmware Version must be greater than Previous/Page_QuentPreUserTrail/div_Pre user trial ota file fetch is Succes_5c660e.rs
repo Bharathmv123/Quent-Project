@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pre user trial ota file fetch is Succes_5c660e</name>
+   <tag></tag>
+   <elementGuidId>f97a40dc-ce82-48cd-9569-10c7b492dd8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-6']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cdk-overlay-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd4a7ecb-8e4e-414b-9cf3-e6f2f51d1293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cdk-overlay-6</value>
+      <webElementGuid>496ba137-e264-4a15-bf02-1513b716909a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-overlay-pane</value>
+      <webElementGuid>1b69343c-433a-4b40-b8d6-e2eb9cb47dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Pre user trial ota file fetch is Successful. close</value>
+      <webElementGuid>fef15944-38b7-485e-a3e1-ebc505fd0056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-6&quot;)</value>
+      <webElementGuid>8d82026b-c0c9-4493-b1fe-60ad9011a81b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-6']</value>
+      <webElementGuid>e51a9356-73b3-4160-8316-2bf674617727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'cdk-overlay-6', '&quot;', ')')])[1]/following::div[5]</value>
+      <webElementGuid>e95773a0-5837-498e-b549-09a57dbfec8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release'])[1]/following::div[11]</value>
+      <webElementGuid>22aa7cc0-9d7b-4252-a8c7-f6ad2bf9a693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha S'])[2]/preceding::div[11]</value>
+      <webElementGuid>6cb6ae96-2a6d-402f-a405-02158e03eca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>e17a565a-59cb-4863-b3cd-324c6bcd0bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cdk-overlay-6' and (text() = '   Pre user trial ota file fetch is Successful. close' or . = '   Pre user trial ota file fetch is Successful. close')]</value>
+      <webElementGuid>a2a1fb62-8026-4533-a8bd-ebb5c7543674</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

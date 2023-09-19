@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__mat-form-field-infix ng-tns-c113-24</name>
+   <tag></tag>
+   <elementGuidId>6804a770-6b51-460f-8a56-24bac880d191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div[3]/div/mat-form-field/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c113-24</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>337c52a7-d6a1-48ec-a639-f02842e5d669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c113-24</value>
+      <webElementGuid>3f8b7d66-c1d1-4df8-9d0d-4531345948cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/mat-dialog-content[@class=&quot;mat-dialog-content mat-typography&quot;]/div[3]/div[@class=&quot;firmware-form&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-24 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-24&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-24&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c113-24&quot;]</value>
+      <webElementGuid>3e5c4c95-5a24-4451-950a-5fc7eca849b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div[3]/div/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>a690f890-abc6-407e-8e59-aa22fcb7bd45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[11]</value>
+      <webElementGuid>40128872-54b5-4193-9d3a-8e75e3409e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[4]</value>
+      <webElementGuid>29de828a-2687-4809-95ae-f55ad06e09c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[5]</value>
+      <webElementGuid>2f05b0ab-d210-4241-bfad-827e0e8d9bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>dc1c70b6-ae7f-4afa-8e87-ec789e5df3ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

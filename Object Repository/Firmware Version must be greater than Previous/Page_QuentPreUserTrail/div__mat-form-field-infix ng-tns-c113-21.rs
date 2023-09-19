@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__mat-form-field-infix ng-tns-c113-21</name>
+   <tag></tag>
+   <elementGuidId>ad44bf72-0ad0-416a-a5c3-56b741f80975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div/div/mat-form-field/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c113-21</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c9b9879-1b12-42a2-ba65-5e1fe3d96e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c113-21</value>
+      <webElementGuid>f94f91e2-07ab-4e9a-9447-1a90aa761d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;ng-star-inserted ng-pristine ng-invalid ng-touched&quot;]/mat-dialog-content[@class=&quot;mat-dialog-content mat-typography&quot;]/div[1]/div[@class=&quot;firmware-form&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-21 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-pristine ng-invalid mat-form-field-invalid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-21&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-21&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c113-21&quot;]</value>
+      <webElementGuid>848c0283-cbec-4100-bffa-65c264d78215</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div/div/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>790ed846-dce1-417c-a48d-f07f185c0e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[11]</value>
+      <webElementGuid>678280b8-34b2-495d-94b4-69380f0d153b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firmware name is required'])[1]/preceding::div[1]</value>
+      <webElementGuid>e558b9d4-d4c6-4632-9db1-d3495b52f752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div[3]</value>
+      <webElementGuid>dded7389-2253-4c79-a922-746fff590d2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Logout</name>
+   <tag></tag>
+   <elementGuidId>5ae96b85-e53b-4397-932b-fb412f27a607</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='logout']/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.profile-menu-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0788a8da-5b1e-4c39-9aca-d5778d4810ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile-menu-button</value>
+      <webElementGuid>3ed16baa-06c4-4dbe-a074-6d745b79e219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Logout</value>
+      <webElementGuid>9e4701bc-004c-472f-9dd0-4b081517ff83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;logout&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/div[@class=&quot;profile-menu-button&quot;]</value>
+      <webElementGuid>e109a556-0305-4049-a9db-e3fe5ba0f054</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='logout']/span/div</value>
+      <webElementGuid>b51912f0-5e6d-4073-a930-a779138667e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::div[5]</value>
+      <webElementGuid>3db80e71-c187-4bb6-b8ec-e11f28705159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha'])[1]/following::div[7]</value>
+      <webElementGuid>1f30a09a-04db-4ae7-a9f0-172b3d72c54c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha S'])[2]/preceding::div[11]</value>
+      <webElementGuid>4abf8217-74be-4190-8cce-be03dfb81141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>42ecbc1f-7bd8-4421-9229-c4e294bb1693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+
+Logout' or . = '
+
+Logout')]</value>
+      <webElementGuid>73b685f8-17fe-427b-b45c-7c79f0242a58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Firmware Version must be greater than Previous</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e53fe6de-732d-4c04-81d5-2ca7c874d68d</testCaseGuid>
+</TestCaseEntity>
