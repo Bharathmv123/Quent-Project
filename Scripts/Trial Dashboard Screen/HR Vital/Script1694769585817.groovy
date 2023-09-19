@@ -125,6 +125,8 @@ Mobile.tap(findTestObject('Object Repository/HR/android.widget.Button - Yes'), 0
 
 Mobile.tap(findTestObject('Object Repository/HR/android.widget.TextView - Heart Rate'), 0)
 
+Mobile.scrollToText('Save')
+
 Mobile.tap(findTestObject('Object Repository/HR/android.widget.Button - Save'), 0)
 
 Mobile.tap(findTestObject('Object Repository/HR/android.widget.Button - YES (1)'), 0)

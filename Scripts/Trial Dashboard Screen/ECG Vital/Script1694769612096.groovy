@@ -83,6 +83,16 @@ Mobile.tap(findTestObject('Object Repository/Trial/android.widget.Button - Confi
 
 Mobile.scrollToText('EKG')
 
+//1st Reading
+
+Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (4)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/ECG/androidx.appcompat.widget.LinearLayoutCompat'), 0)
+
+Mobile.delay(60)
+
+//2nd Reading
+
 Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (4)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/ECG/androidx.appcompat.widget.LinearLayoutCompat'), 0)
@@ -92,6 +102,8 @@ Mobile.delay(60)
 Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (5)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/ECG/android.widget.TextView - Take Photo'), 0)
+
+//delete 3rd Reading
 
 Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (6)'), 0)
 

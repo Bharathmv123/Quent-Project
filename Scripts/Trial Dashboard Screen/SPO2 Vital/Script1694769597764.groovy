@@ -115,6 +115,8 @@ Mobile.tap(findTestObject('Object Repository/SPO2/android.widget.ImageView (3)')
 
 Mobile.tap(findTestObject('Object Repository/SPO2/android.widget.Button - Yes'), 0)
 
+Mobile.scrollToText('Save')
+
 Mobile.tap(findTestObject('Object Repository/HR/android.widget.Button - Save'), 0)
 
 Mobile.tap(findTestObject('Object Repository/HR/android.widget.Button - YES (1)'), 0)
