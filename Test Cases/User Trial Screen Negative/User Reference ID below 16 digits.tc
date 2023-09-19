@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Reference ID below 16 digits</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fb95b16-7601-41fe-a66c-bbddcb5af240</testCaseGuid>
+</TestCaseEntity>
