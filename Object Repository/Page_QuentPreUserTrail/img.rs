@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>cc34c4f1-1287-4b13-9d5a-77c440566b68</webElementGuid>
+      <webElementGuid>8b05ee0a-44e0-439a-a4c3-01cf5d3c769f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/svg/usa.svg</value>
-      <webElementGuid>fe48e4f5-d719-432c-b96b-e2786371fc6c</webElementGuid>
+      <webElementGuid>e98bf105-bad5-4cd6-9930-8da68f047b30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-1 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-1 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/img[1]</value>
-      <webElementGuid>4d3cc203-1902-4ac7-bde0-3e18f738db5a</webElementGuid>
+      <webElementGuid>41e89be0-c8a4-4704-b5ee-064440dae375</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
-      <webElementGuid>e31f7114-f4d8-49ce-aed7-4f7c3817e6ca</webElementGuid>
+      <webElementGuid>ae8a2fea-9c82-41f2-8c1b-fd5690785989</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select-trigger/div/img</value>
-      <webElementGuid>a2a80a51-cf30-46c2-a1b9-b15e22c73a18</webElementGuid>
+      <webElementGuid>3d1e5f4f-b279-4bd0-8c65-dcd8a6a39be3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/usa.svg']</value>
-      <webElementGuid>b8f5019c-60c0-420d-ac92-2fefbcbba723</webElementGuid>
+      <webElementGuid>bfa3ff25-e2c9-49d7-9923-e02d43b04191</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

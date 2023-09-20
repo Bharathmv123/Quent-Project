@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Weight (Kg)_ngx-slider-span ngx-slider_7919ec</name>
+   <tag></tag>
+   <elementGuidId>29ff449d-1058-48dd-b24a-25efa3776b79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div[2]/ngx-slider/span[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>96b92536-5a91-412d-a337-015568985abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ngx-slider-span ngx-slider-bar ngx-slider-selection</value>
+      <webElementGuid>59f66d91-9a4a-4c2c-a772-5f5d25fd2d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-put-customize-export[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;customise-export&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[1]/div[@class=&quot;put-white-box second-box&quot;]/div[@class=&quot;put-part&quot;]/div[@class=&quot;put-slider-box ng-star-inserted&quot;]/ngx-slider[@class=&quot;ngx-slider animate&quot;]/span[@class=&quot;ngx-slider-span ngx-slider-bar-wrapper ngx-slider-selection-bar&quot;]/span[@class=&quot;ngx-slider-span ngx-slider-bar ngx-slider-selection&quot;]</value>
+      <webElementGuid>74e9b235-1e79-47ee-8644-5a6c54f151a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/ngx-slider/span[4]/span</value>
+      <webElementGuid>a21070ae-984a-42d1-b44c-1c00ea1b4710</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Date range_ng-tns-c113-24</name>
+   <tag></tag>
+   <elementGuidId>172f7e59-6409-40da-8b91-1bdffa958ffa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.ng-tns-c113-24</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>966553f7-31a5-49be-969a-9111b801776d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/icons/svg/calendar.svg</value>
+      <webElementGuid>9ac54132-b6cf-4050-be3c-0c914de4199b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c113-24</value>
+      <webElementGuid>e5d20b2e-1826-461c-befd-0fa1a7930d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-put-customize-export[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;customise-export&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[1]/div[@class=&quot;put-white-box second-box&quot;]/div[@class=&quot;put-part device-margin&quot;]/div[@class=&quot;date-field&quot;]/div[@class=&quot;put-input-box date-range&quot;]/mat-form-field[@class=&quot;mat-form-field from-date ng-tns-c113-24 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-24&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-24&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c113-24 ng-star-inserted&quot;]/img[@class=&quot;ng-tns-c113-24&quot;]</value>
+      <webElementGuid>ed55a26c-6240-458f-9c9c-cc9badf2dac1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/img</value>
+      <webElementGuid>4549ed75-3662-409b-a5bd-fbf79a452b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/svg/calendar.svg']</value>
+      <webElementGuid>bcd88645-7d1b-4769-bbe7-e6ae80a32690</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

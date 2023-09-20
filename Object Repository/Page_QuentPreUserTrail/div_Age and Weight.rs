@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Age and Weight</name>
+   <tag></tag>
+   <elementGuidId>81551fad-743f-4d1b-8f77-9c8c6b9daa68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Body Temperature Lower and Higher Limits (°C)'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2f65ddbf-bae6-462b-a9c9-c8563946572c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>af9d0ddb-1696-4f47-94fe-509c3fa0f995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>0b29dba6-cd2c-4fe4-a647-36f9a43ef4f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>put-title</value>
+      <webElementGuid>e8a3603c-714e-4a13-a886-097992aa7a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Age and Weight </value>
+      <webElementGuid>34de966d-3b7d-4b9e-a161-c0d6753e0a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-put-customize-export[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;customise-export&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[1]/div[@class=&quot;put-white-box second-box&quot;]/div[@class=&quot;put-title&quot;]</value>
+      <webElementGuid>e9c404eb-8f93-48ce-a13c-1aab2c8c9bc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Body Temperature Lower and Higher Limits (°C)'])[1]/following::div[1]</value>
+      <webElementGuid>83b79107-e583-495d-8d06-16343b154e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blood Pressure Diastolic Lower and Higher Limits (mmHg)'])[1]/following::div[2]</value>
+      <webElementGuid>dc2e7af9-4728-478e-ba4a-5c4de712cbe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Age'])[2]/preceding::div[1]</value>
+      <webElementGuid>2dcc12d7-5c64-4456-a5bd-f2b16eac7277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight (Kg)'])[1]/preceding::div[2]</value>
+      <webElementGuid>73ca26b6-36e8-4de2-bba9-e6a095ebdf22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Age and Weight']/parent::*</value>
+      <webElementGuid>241d687c-79a3-4468-9168-e772e8836ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]</value>
+      <webElementGuid>5a6db369-e722-4180-8f51-b91bac329a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Age and Weight ' or . = ' Age and Weight ')]</value>
+      <webElementGuid>9eb2177c-aad2-4bc6-b6e5-9813389ec2c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
