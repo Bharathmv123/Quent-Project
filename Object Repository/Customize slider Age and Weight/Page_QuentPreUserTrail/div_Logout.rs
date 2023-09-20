@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_91</name>
+   <name>div_Logout</name>
    <tag></tag>
-   <elementGuidId>ac1aeb9a-91ee-4838-b3da-d04422d8191d</elementGuidId>
+   <elementGuidId>8a218b92-a58a-42b2-9576-7387d34d431a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-1 > span.mat-option-text</value>
+         <value>div.profile-menu-button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-1']/span</value>
+         <value>//button[@id='logout']/span/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,85 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>5480177d-4516-4f09-bc86-ce15675fbff3</webElementGuid>
+      <value>div</value>
+      <webElementGuid>90973476-f6e2-4ab2-bdc4-1796a8e6efb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>4c50c7bc-0586-4028-b25f-5879b769e9f5</webElementGuid>
+      <value>profile-menu-button</value>
+      <webElementGuid>e39a481b-e5c1-47f8-b607-db257d3395df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +91 </value>
-      <webElementGuid>43b015bb-078d-4707-9b07-40157d19d283</webElementGuid>
+      <value>
+
+Logout</value>
+      <webElementGuid>d119184a-9324-4254-9626-11d56fe242aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>884a69d6-33fb-4631-b381-16ac5614266c</webElementGuid>
+      <value>id(&quot;logout&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/div[@class=&quot;profile-menu-button&quot;]</value>
+      <webElementGuid>db753b6f-2ad7-4f8e-8fab-07f63f86de5c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>b5f6a678-9a2e-476a-8560-72bccff34061</webElementGuid>
+      <value>//button[@id='logout']/span/div</value>
+      <webElementGuid>ae2a0f85-92a9-4335-8eba-7f8c141200e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>594823da-7d19-406e-a9f8-0533f5b1ade5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::div[5]</value>
+      <webElementGuid>b2a6f790-d7b3-4943-9ac8-f2155e6f7861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>a17ecfdf-d9b3-4db8-bd47-41b2232e93b2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha'])[1]/following::div[7]</value>
+      <webElementGuid>eea4767a-a6e9-4230-8851-53fb9217ad41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>0120fec9-69d7-4c7d-83ea-f3b4580d5a92</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>f2bbfe14-2125-4600-9632-9dcdb9985876</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEP 2023'])[1]/preceding::div[5]</value>
+      <webElementGuid>de20b4d5-ff60-4681-96e0-3cea4cc51baa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[2]/span</value>
-      <webElementGuid>77686c9c-472f-4f1a-8cc3-15ae7fe1b2a3</webElementGuid>
+      <value>//button/span/div</value>
+      <webElementGuid>13e92ac8-3f72-43ca-834c-fd3b4e957494</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>095a2422-368c-45f5-be9e-a3c6ef831c14</webElementGuid>
+      <value>//div[(text() = '
+
+Logout' or . = '
+
+Logout')]</value>
+      <webElementGuid>4d4137ac-3eee-48de-ae87-35bfcd486fab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

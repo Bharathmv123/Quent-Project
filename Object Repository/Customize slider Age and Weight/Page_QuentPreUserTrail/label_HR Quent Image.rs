@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Logout</name>
+   <name>label_HR Quent Image</name>
    <tag></tag>
-   <elementGuidId>d0a141b5-8e7b-4b33-b8a6-3c48319837b0</elementGuidId>
+   <elementGuidId>0d690d1f-eaa0-4ec2-bae8-662348606d15</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.profile-menu-button</value>
+         <value>#mat-checkbox-38 > label.mat-checkbox-layout</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='logout']/span/div</value>
+         <value>//mat-checkbox[@id='mat-checkbox-38']/label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,85 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>f8339aab-159c-4b32-a572-90375d16d92e</webElementGuid>
+      <value>label</value>
+      <webElementGuid>08e24e2e-6012-43a8-a6df-0c52eb9dcdf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>profile-menu-button</value>
-      <webElementGuid>7253a05b-82f8-4903-b4e3-f69ebc0db1e9</webElementGuid>
+      <value>mat-checkbox-layout</value>
+      <webElementGuid>536adf79-0e79-4972-ad44-a258567a7456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>mat-checkbox-38-input</value>
+      <webElementGuid>b5497777-115c-4376-a4c6-e382cf2a188d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-
-Logout</value>
-      <webElementGuid>3dfc4bd7-5047-426e-a584-c040a30c46b1</webElementGuid>
+      <value>  HR Quent Image </value>
+      <webElementGuid>75578d6f-eee0-48d2-a577-ee917239d97f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;logout&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/div[@class=&quot;profile-menu-button&quot;]</value>
-      <webElementGuid>ef58249c-9891-43fb-bfde-ec297405fa02</webElementGuid>
+      <value>id(&quot;mat-checkbox-38&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]</value>
+      <webElementGuid>94923432-15b1-4283-a1df-a6c2b9c207bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='logout']/span/div</value>
-      <webElementGuid>183dde40-818f-4563-8070-e541c9e6eeff</webElementGuid>
+      <value>//mat-checkbox[@id='mat-checkbox-38']/label</value>
+      <webElementGuid>a012b46d-8e4e-403d-8fe3-1dba207d44d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::div[5]</value>
-      <webElementGuid>40b4fed2-5dd5-48fe-bd34-08fc5473f019</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR Quent'])[1]/following::label[1]</value>
+      <webElementGuid>aece17de-b1eb-4ea0-adde-4644599802d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha'])[1]/following::div[7]</value>
-      <webElementGuid>7ca35db1-6618-4d7a-a839-b936d8794ca4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha S'])[2]/preceding::div[11]</value>
-      <webElementGuid>10df3e59-db61-4381-acb6-e28eea62fcb9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR Quent time stamp'])[1]/preceding::label[1]</value>
+      <webElementGuid>af3d77a5-8c12-4784-85be-4595f46e4ed3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-list-item/div/button/span/div</value>
-      <webElementGuid>e33ce812-5a0e-4932-912a-ba0e98c696c6</webElementGuid>
+      <value>//div[2]/mat-checkbox/label</value>
+      <webElementGuid>ec93a025-a2f0-4bc7-bb22-bd59e249e9e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '
-
-Logout' or . = '
-
-Logout')]</value>
-      <webElementGuid>01441fb9-9f1d-4636-a98e-0c4f4b8738c5</webElementGuid>
+      <value>//label[(text() = '  HR Quent Image ' or . = '  HR Quent Image ')]</value>
+      <webElementGuid>e41313c3-01f3-4db6-9441-e770b14547ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

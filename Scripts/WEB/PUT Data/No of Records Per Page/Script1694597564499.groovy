@@ -35,6 +35,22 @@ WebUI.setEncryptedText(findTestObject('Object Repository/No of Records Per Page/
 
 WebUI.click(findTestObject('Object Repository/No of Records Per Page/Page_QuentPreUserTrail/button_Login'))
 
+WebUI.click(findTestObject('Object Repository/Search by Month/Page_QuentPreUserTrail/img_Start Date_date-picker ng-tns-c113-6'))
+
+WebUI.click(findTestObject('Object Repository/Search by Month/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
+
+WebUI.click(findTestObject('Object Repository/Search by Month/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
+
+WebUI.click(findTestObject('Object Repository/Search by Month/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
+
+WebUI.click(findTestObject('Object Repository/Search by Month/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
+
+WebUI.click(findTestObject('Object Repository/Search by Month/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
+
+WebUI.click(findTestObject('Object Repository/Search by Month/Page_QuentPreUserTrail/div_20'))
+
+WebUI.click(findTestObject('Object Repository/Search by Month/Page_QuentPreUserTrail/mat-icon_search'))
+
 WebUI.click(findTestObject('Object Repository/No of Records Per Page/Page_QuentPreUserTrail/span_25'))
 
 WebUI.click(findTestObject('Object Repository/No of Records Per Page/Page_QuentPreUserTrail/span_25_1'))

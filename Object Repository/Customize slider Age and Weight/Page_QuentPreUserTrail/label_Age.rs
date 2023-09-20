@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_91</name>
+   <name>label_Age</name>
    <tag></tag>
-   <elementGuidId>ac1aeb9a-91ee-4838-b3da-d04422d8191d</elementGuidId>
+   <elementGuidId>539de93d-6a1d-4ca7-9889-c9ef2c4d7efb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-1 > span.mat-option-text</value>
+         <value>#mat-checkbox-10 > label.mat-checkbox-layout</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-1']/span</value>
+         <value>//mat-checkbox[@id='mat-checkbox-10']/label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>5480177d-4516-4f09-bc86-ce15675fbff3</webElementGuid>
+      <value>label</value>
+      <webElementGuid>aa1480c4-004d-43bf-bf21-3da184df4914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>4c50c7bc-0586-4028-b25f-5879b769e9f5</webElementGuid>
+      <value>mat-checkbox-layout</value>
+      <webElementGuid>45cb2f84-58b5-4734-86f9-3d7370db2e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>mat-checkbox-10-input</value>
+      <webElementGuid>f18f1622-799c-4121-bf84-fe1190a315f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +91 </value>
-      <webElementGuid>43b015bb-078d-4707-9b07-40157d19d283</webElementGuid>
+      <value>  Age </value>
+      <webElementGuid>38fd3bf9-a64f-4456-af56-8b1cc970b6e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>884a69d6-33fb-4631-b381-16ac5614266c</webElementGuid>
+      <value>id(&quot;mat-checkbox-10&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]</value>
+      <webElementGuid>f008b0a6-6c9e-4e45-94ba-ef5725c6f241</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>b5f6a678-9a2e-476a-8560-72bccff34061</webElementGuid>
+      <value>//mat-checkbox[@id='mat-checkbox-10']/label</value>
+      <webElementGuid>d3c44283-00cf-44f9-a0cd-feeb9096b36e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>594823da-7d19-406e-a9f8-0533f5b1ade5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/following::label[1]</value>
+      <webElementGuid>16e01ba8-4d9b-45df-bdc1-6477a399cdcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>a17ecfdf-d9b3-4db8-bd47-41b2232e93b2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::label[2]</value>
+      <webElementGuid>23d83cf6-1717-4fca-986c-6445f20ef180</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>0120fec9-69d7-4c7d-83ea-f3b4580d5a92</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>f2bbfe14-2125-4600-9632-9dcdb9985876</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOB'])[1]/preceding::label[1]</value>
+      <webElementGuid>2046240c-3f39-42e4-801a-9523e6884713</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[2]/span</value>
-      <webElementGuid>77686c9c-472f-4f1a-8cc3-15ae7fe1b2a3</webElementGuid>
+      <value>//div[3]/mat-checkbox/label</value>
+      <webElementGuid>8862127f-cf2b-4445-9d19-4528d50421bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>095a2422-368c-45f5-be9e-a3c6ef831c14</webElementGuid>
+      <value>//label[(text() = '  Age ' or . = '  Age ')]</value>
+      <webElementGuid>a6c88a2d-9084-4c57-9923-89340c9f2061</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

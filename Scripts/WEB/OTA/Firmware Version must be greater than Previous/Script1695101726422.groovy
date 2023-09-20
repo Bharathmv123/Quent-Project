@@ -58,7 +58,6 @@ WebUI.click(findTestObject('Object Repository/Firmware Version must be greater t
 
 WebUI.delay(20)
 
-
 WebUI.setText(findTestObject('Object Repository/Firmware Version must be greater than Previous/Page_QuentPreUserTrail/input__mat-input-9'), 
     'Quent')
 
@@ -69,6 +68,8 @@ WebUI.setText(findTestObject('Object Repository/Firmware Version must be greater
     '1.93')
 
 WebUI.click(findTestObject('Object Repository/Firmware Version must be greater than Previous/Page_QuentPreUserTrail/button_Save'))
+
+WebUI.delay(20)
 
 WebUI.closeBrowser()
 

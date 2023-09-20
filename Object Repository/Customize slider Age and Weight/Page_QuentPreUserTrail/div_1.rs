@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1</name>
+   <tag></tag>
+   <elementGuidId>20cadadf-da48-4058-934e-c251dd9fcdfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-flex.ng-tns-c113-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>98b73af0-90c0-4f4f-9f77-f95fc278058b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-flex ng-tns-c113-0</value>
+      <webElementGuid>af5dc38b-bef3-4098-b740-c54bf3ce4dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> +1 </value>
+      <webElementGuid>fba2fcd6-3a12-4d3e-9dcb-a0c6ed424c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;regflow-panel&quot;]/app-root[1]/app-auth-flow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;auth-contents&quot;]/div[1]/main[1]/section[1]/app-common[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;signin-user&quot;]/div[1]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;right-panel-body&quot;]/div[@class=&quot;panel-right fixed p-r3 p-t7&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[1]/div[1]/div[@class=&quot;common-margin&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;common-signup&quot;]/div[3]/mat-form-field[@class=&quot;mat-form-field password ng-tns-c113-0 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-0&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-0&quot;]</value>
+      <webElementGuid>66ac94a4-4d48-441a-a437-6be8a8e57a64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[3]</value>
+      <webElementGuid>47aa216f-e483-4baa-bd55-4b120a06b55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[21]</value>
+      <webElementGuid>f5f63092-09f9-40e4-9d55-578c5447b3f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div</value>
+      <webElementGuid>db174abc-e9b8-496d-8bbc-382a75ab4bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' +1 ' or . = ' +1 ')]</value>
+      <webElementGuid>b9b49d98-d71f-442b-aef4-e48ff6cc7752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div</value>
+      <webElementGuid>550be2a8-f721-4f31-87dc-9f25f11b6b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[16]</value>
+      <webElementGuid>e19f33c3-0385-4ba2-af18-9a690b5ffe3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[8]</value>
+      <webElementGuid>e55ee923-5653-4976-9aa9-102165ec3dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+1']/parent::*</value>
+      <webElementGuid>15b38d7f-add4-47d3-9d1c-fbe3837b74a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select-trigger/div</value>
+      <webElementGuid>d666595d-a728-42fb-be64-14fd0ea26218</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

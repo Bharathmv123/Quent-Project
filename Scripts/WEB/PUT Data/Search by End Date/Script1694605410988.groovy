@@ -34,9 +34,9 @@ WebUI.click(findTestObject('Object Repository/Search by End date/Page_QuentPreUs
 
 WebUI.click(findTestObject('Object Repository/Search by End date/Page_QuentPreUserTrail/img_End Date_date-picker ng-tns-c113-7'))
 
-WebUI.click(findTestObject('Object Repository/Search by End date/Page_QuentPreUserTrail/div_9'))
+WebUI.click(findTestObject('Object Repository/Search by End date/Page_QuentPreUserTrail/div_18'))
 
-WebUI.click(findTestObject('Object Repository/Search by End date/Page_QuentPreUserTrail/button_search'))
+WebUI.click(findTestObject('Object Repository/Search by End date/Page_QuentPreUserTrail/mat-icon_search'))
 
 WebUI.click(findTestObject('Object Repository/Search by End date/Page_QuentPreUserTrail/img_1'))
 

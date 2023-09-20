@@ -71,10 +71,6 @@ WebUI.click(findTestObject('Object Repository/Apply and Reset filters in Setting
 
 WebUI.click(findTestObject('Object Repository/Apply and Reset filters in Settings for Coulumns/Page_QuentPreUserTrail/button_Reset'))
 
-WebUI.click(findTestObject('Object Repository/Apply and Reset filters in Settings for Coulumns/Page_QuentPreUserTrail/mat-icon_settings'))
-
-WebUI.click(findTestObject('Object Repository/Apply and Reset filters in Settings for Coulumns/Page_QuentPreUserTrail/div_QT Interval_cdk-overlay-backdrop cdk-ov_a8e9d2'))
-
 WebUI.click(findTestObject('Object Repository/Apply and Reset filters in Settings for Coulumns/Page_QuentPreUserTrail/img_1'))
 
 WebUI.click(findTestObject('Object Repository/Apply and Reset filters in Settings for Coulumns/Page_QuentPreUserTrail/div_Logout'))
