@@ -63,7 +63,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial without entering User Re
 
 Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.ImageButton (1)'), 0)
 
-Mobile.delay(5) //Scan User Reference ID
+Mobile.delay(5) //Scan User Reference ID 
 
 Mobile.scrollToText('Gender')
 

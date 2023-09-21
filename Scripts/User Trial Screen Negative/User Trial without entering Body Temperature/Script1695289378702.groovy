@@ -64,4 +64,6 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widge
 Mobile.getText(findTestObject('Object Repository/User Trial without entering Room Temp/android.widget.TextView - Enter body temperature'),
 	0)
 
+Mobile.delay(10)
+
 Mobile.closeApplication()

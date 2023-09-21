@@ -55,5 +55,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial Weight Conversion Kg to 
 Mobile.tap(findTestObject('Object Repository/User Trial Weight Conversion Kg to lbs/android.widget.CompoundButton - kg'), 
     0)
 
+Mobile.delay(10)
+
 Mobile.closeApplication()
 

@@ -36,6 +36,12 @@ Mobile.sendKeys(findTestObject('Object Repository/User Trial Wrist Size dropdown
 
 Mobile.tap(findTestObject('Object Repository/User Trial Wrist Size dropdown/android.widget.Button - Sign In'), 0)
 
+Mobile.tap(findTestObject('Object Repository/User Trial without entering Name/android.widget.TextView - Trial Batch'), 0)
+
+Mobile.tap(findTestObject('Object Repository/User Trial without entering Name/android.widget.TextView - Trail Batch 1'),
+	0)
+
+
 Mobile.sendKeys(findTestObject('Object Repository/User Trial without choosing DOB/android.widget.EditText - Name'), 'Sirisha ')
 
 Mobile.scrollToText('Measure')

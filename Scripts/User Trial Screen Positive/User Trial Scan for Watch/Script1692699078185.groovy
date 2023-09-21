@@ -37,7 +37,7 @@ Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/android.
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widget.Button - Sign In'), 0)
 
-Mobile.scrollToText('BLE')
+Mobile.scrollToText('Measure')
 
 Mobile.tap(findTestObject('Object Repository/User Trial Toggle WIFI and BLE/android.widget.CompoundButton - BLE'), 0)
 

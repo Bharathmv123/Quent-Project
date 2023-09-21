@@ -43,7 +43,8 @@ Mobile.scrollToText('Gender')
 
 Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.ImageButton (1)'), 0)
 
-Mobile.delay(20)//Select Gender from the dropdown field 'Gender'
+Mobile.delay(10 //Select Gender from the dropdown field 'Gender'
+    )
 
 Mobile.closeApplication()
 

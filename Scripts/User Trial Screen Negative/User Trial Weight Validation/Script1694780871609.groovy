@@ -37,9 +37,9 @@ Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/android.
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widget.Button - Sign In'), 0)
 
-Mobile.delay(10)
-
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widget.ImageButton (1)'), 0)
+
+Mobile.delay(10)
 
 Mobile.scrollToText('Weight')
 
@@ -81,6 +81,5 @@ Mobile.scrollToText('Measure')
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widget.Button - Measure'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widget.Button - Confirm'), 0)
-
 Mobile.closeApplication()
+

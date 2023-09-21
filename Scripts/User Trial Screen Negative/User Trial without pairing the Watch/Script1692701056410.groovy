@@ -39,6 +39,8 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widge
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widget.ImageButton (1)'), 0)
 
+Mobile.delay(10)
+
 Mobile.scrollToText('Weight')
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/android.widget.EditText - Weight'), '49')

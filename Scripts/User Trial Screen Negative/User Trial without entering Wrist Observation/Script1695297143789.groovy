@@ -83,10 +83,45 @@ Mobile.sendKeys(findTestObject('Object Repository/User Trial Enter Height/androi
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial Enter Weight/android.widget.EditText - Weight'), '49')
 
+Mobile.sendKeys(findTestObject('Object Repository/User Trial without entering Wrist Size/android.widget.EditText - Wrist Size'),
+	'16')
+
+Mobile.scrollToText('Wrist Type')
+
+Mobile.tap(findTestObject('Object Repository/User Trial Wrist Size dropdown/android.widget.ImageButton (1)'), 0)
+
+Mobile.delay(5)
+
+Mobile.scrollToText('Skin color')
+
+Mobile.tap(findTestObject('Object Repository/User Trial Skin Color dropdown/android.widget.ImageButton (1)'), 0)
+
+Mobile.delay(5)
+
+Mobile.scrollToText('Skin Nature')
+
+Mobile.tap(findTestObject('Object Repository/User Trial Skin Nature dropdown/android.widget.ImageButton (1)'), 0)
+
 Mobile.delay(5)
 
 Mobile.scrollToText('Measure')
 
-Mobile.tap(findTestObject('Object Repository/User Trial without selecting Blood Group/android.widget.Button - Measure'),0)
+Mobile.tap(findTestObject('Object Repository/User Trial Toggle WIFI and BLE/android.widget.CompoundButton - BLE'), 0)
+
+Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widget.Button - Connect'), 0)
+
+Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widget.Button - Scan for Watch'), 0)
+
+Mobile.delay(30)
+
+Mobile.tap(findTestObject('Object Repository/User Trial End to End/android.widget.Button - Go to Dashboard'), 0)
+
+Mobile.delay(10)
+
+Mobile.scrollToText('Measure')
+
+Mobile.tap(findTestObject('Object Repository/User Trial without entering Wrist Size/android.widget.Button - Measure'), 0)
+
+Mobile.delay(20)
 
 Mobile.closeApplication()

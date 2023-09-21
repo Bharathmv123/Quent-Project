@@ -43,7 +43,7 @@ Mobile.switchToNative()
 
 Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.ImageButton (1)'), 0)
 
-Mobile.delay(20) //Scan User Reference ID
+Mobile.delay(10) //Scan User Reference ID
 
 Mobile.closeApplication()
 

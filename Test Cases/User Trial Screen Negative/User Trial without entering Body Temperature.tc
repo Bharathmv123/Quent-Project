@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>User Trial Enter Body Temperature</name>
+   <name>User Trial without entering Body Temperature</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>5f97d0ae-cd26-4e85-ad5d-f566c0d5dd16</testCaseGuid>

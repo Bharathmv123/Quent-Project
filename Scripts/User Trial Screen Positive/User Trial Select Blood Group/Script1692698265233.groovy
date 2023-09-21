@@ -42,7 +42,8 @@ Mobile.scrollToText('Blood Group')
 
 Mobile.tap(findTestObject('Object Repository/du/android.widget.ImageButton'), 0)
 
-Mobile.delay(20)//Select Blood Group from dropdown Field 'Blood Group'
+Mobile.delay(10 //Select Blood Group from dropdown Field 'Blood Group'
+    )
 
 Mobile.closeApplication()
 

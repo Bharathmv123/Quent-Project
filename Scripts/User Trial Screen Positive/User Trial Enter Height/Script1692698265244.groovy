@@ -43,5 +43,7 @@ Mobile.scrollToText('Height')
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial Enter Height/android.widget.EditText - Height'), '154')
 
+Mobile.delay(10)
+
 Mobile.closeApplication()
 

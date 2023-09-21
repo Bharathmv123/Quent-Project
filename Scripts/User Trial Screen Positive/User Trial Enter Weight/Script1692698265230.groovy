@@ -53,5 +53,7 @@ Mobile.scrollToText('Weight')
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial Enter Weight/android.widget.EditText - Weight'), '49')
 
+Mobile.delay(10)
+
 Mobile.closeApplication()
 
