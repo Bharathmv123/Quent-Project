@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Customize SYS BP/Page_QuentPreUserTrail/img'))
 
 WebUI.click(findTestObject('Object Repository/Customize SYS BP/Page_QuentPreUserTrail/span_91'))
@@ -62,11 +64,8 @@ WebUI.click(findTestObject('Object Repository/Customize SYS BP/Page_QuentPreUser
 WebUI.click(findTestObject('Object Repository/Customize SYS BP/Page_QuentPreUserTrail/img_Date range_ng-tns-c113-12'))
 
 //WebUI.click(findTestObject('Object Repository/Customize SYS BP/Page_QuentPreUserTrail/div_JUL 2023_cdk-overlay-backdrop mat-overl_a70191'))
-
 //WebUI.click(findTestObject('Object Repository/Customize SYS BP/Page_QuentPreUserTrail/input_Date range_mat-input-9'))
-
 //WebUI.click(findTestObject('Object Repository/Customize SYS BP/Page_QuentPreUserTrail/img_Date range_ng-tns-c113-12'))
-
 WebUI.click(findTestObject('Object Repository/Customize SYS BP/Page_QuentPreUserTrail/button_JUL 2023_mat-focus-indicator mat-cal_e49532'))
 
 WebUI.click(findTestObject('Object Repository/Customize SYS BP/Page_QuentPreUserTrail/button_JUL 2023_mat-focus-indicator mat-cal_e49532'))

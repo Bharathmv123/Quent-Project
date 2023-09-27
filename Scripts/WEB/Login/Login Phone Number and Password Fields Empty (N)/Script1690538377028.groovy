@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Login Phone number and Password Field empty/Page_QuentPreUserTrail/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Login Phone number and Password Field empty/Page_QuentPreUserTrail/mat-error_Phone number is required'))

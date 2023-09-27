@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/img'))
 
 WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/span_91'))
@@ -48,11 +50,8 @@ WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUser
 WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/div_Watch Device ID'))
 
 //WebUI.doubleClick(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/span_Blood Pressure Diastolic Lower and Hig_a83a58'))
-
 //WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/span_Blood Pressure Diastolic Lower and Hig_a83a58'))
-
 //WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/span_Blood Pressure Diastolic Lower and Hig_a83a58'))
-
 WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/button_Add'))
 
 WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/div_Watch Device ID'))
@@ -70,17 +69,11 @@ WebUI.doubleClick(findTestObject('Object Repository/Customize BP Dia/Page_QuentP
 WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/div_23'))
 
 //WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/input_Date range_mat-input-10'))
-
 //WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/div_Date range_mat-form-field-suffix ng-tns_55d080'))
-
 //WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/img_Date range_ng-tns-c113-12'))
-
 //WebUI.doubleClick(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/button_JUL 2023_mat-focus-indicator mat-cal_e49532'))
-
 //WebUI.doubleClick(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/button_JUL 2023_mat-focus-indicator mat-cal_e49532'))
-
 //WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/div_23'))
-
 WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/span_WIFI_mat-checkbox-inner-container mat-_980e94'))
 
 WebUI.click(findTestObject('Object Repository/Customize BP Dia/Page_QuentPreUserTrail/span_Data Export_mat-checkbox-inner-contain_b9e8c1'))

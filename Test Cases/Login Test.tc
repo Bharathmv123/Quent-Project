@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>OTA File Uploading</name>
+   <name>Login Test</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>3c816bf5-f7b7-474f-8a42-61b333887bf2</testCaseGuid>
+   <testCaseGuid>03099dd8-a759-4bdf-b9ea-6c00273a2c8e</testCaseGuid>
 </TestCaseEntity>

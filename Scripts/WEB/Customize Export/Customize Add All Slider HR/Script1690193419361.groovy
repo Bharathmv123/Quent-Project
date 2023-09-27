@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/HR/Page_QuentPreUserTrail/img'))
 
 WebUI.click(findTestObject('Object Repository/HR/Page_QuentPreUserTrail/span_91'))
@@ -38,9 +40,7 @@ WebUI.click(findTestObject('Object Repository/HR/Page_QuentPreUserTrail/button_A
 WebUI.click(findTestObject('Object Repository/HR/Page_QuentPreUserTrail/div_Vital Range'))
 
 //WebUI.click(findTestObject('Object Repository/HR/Page_QuentPreUserTrail/span_Heart Rate Lower and Higher Limits (bpm)'))
-
 //WebUI.click(findTestObject('Object Repository/HR/Page_QuentPreUserTrail/span_Heart Rate Lower and Higher Limits (bpm)'))
-
 WebUI.click(findTestObject('Object Repository/HR/Page_QuentPreUserTrail/div_Heart Rate Lower and Higher Limits (bpm_8aa5ac'))
 
 WebUI.click(findTestObject('Object Repository/HR/Page_QuentPreUserTrail/span_Heart Rate Lower and Higher Limits (bp_e81614'))
