@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Download ECG Vital Reading</name>
+   <name>Download ECG Reading</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>eae75b45-a9f1-4868-8bdf-a20925bf02c3</testCaseGuid>
+   <testCaseGuid>c4e42108-86db-4281-95de-57dcd7e2b554</testCaseGuid>
 </TestCaseEntity>

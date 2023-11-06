@@ -6,12 +6,12 @@
    <elementGuidId>d722b357-b5f4-49dd-9b6c-50092ab16bd5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.ng-star-inserted > img</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-star-inserted > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>8b05ee0a-44e0-439a-a4c3-01cf5d3c769f</webElementGuid>
+      <webElementGuid>cfda7558-bca0-4f95-bae5-714f1edfa9b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/svg/usa.svg</value>
-      <webElementGuid>e98bf105-bad5-4cd6-9930-8da68f047b30</webElementGuid>
+      <webElementGuid>8e8213af-4ddb-488a-9e79-42babc506ae6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-1 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-1 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/img[1]</value>
-      <webElementGuid>41e89be0-c8a4-4704-b5ee-064440dae375</webElementGuid>
+      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-2 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-2 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/img[1]</value>
+      <webElementGuid>83890073-d61a-4cc9-aaf2-f853cb09e430</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
-      <webElementGuid>ae8a2fea-9c82-41f2-8c1b-fd5690785989</webElementGuid>
+      <webElementGuid>d063319e-31ed-4331-9018-91c521b66fcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select-trigger/div/img</value>
-      <webElementGuid>3d1e5f4f-b279-4bd0-8c65-dcd8a6a39be3</webElementGuid>
+      <webElementGuid>05305159-f04b-4286-8f91-a5980c0c215d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,22 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/usa.svg']</value>
-      <webElementGuid>bfa3ff25-e2c9-49d7-9923-e02d43b04191</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[3]/button/span/img</value>
-      <webElementGuid>c83a7731-14a9-46c4-a336-4daa8c06a9cf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@src = './assets/icons/svg/profile-menu-bar.svg']</value>
-      <webElementGuid>a0c4c957-abf5-4b8f-89e9-394744de23ee</webElementGuid>
+      <webElementGuid>cfc4badc-2fb8-45c1-b427-f6230c32027b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

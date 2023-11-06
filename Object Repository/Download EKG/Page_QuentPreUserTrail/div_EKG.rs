@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EKG</name>
+   <tag></tag>
+   <elementGuidId>4726df34-9b0d-41cc-a0c4-4090236368a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-14']/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-14 > span.mat-option-text > div.mat-tooltip-trigger.usertrail-data</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>54b003b3-5dff-4340-87ba-76cf639f956d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger usertrail-data</value>
+      <webElementGuid>69394f15-7816-4f5b-8b8a-fe522974a6ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-14</value>
+      <webElementGuid>fafc05ec-2b73-43fd-be79-0f5aa58913a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EKG</value>
+      <webElementGuid>d10788b3-9e40-485d-b3d3-d396abafb484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-14&quot;)/span[@class=&quot;mat-option-text&quot;]/div[@class=&quot;mat-tooltip-trigger usertrail-data&quot;]</value>
+      <webElementGuid>60b62be2-3be2-4055-9264-417f74f97885</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-14']/span/div</value>
+      <webElementGuid>80ba6131-0f61-459e-a562-1da0ba7330d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BP'])[1]/following::div[2]</value>
+      <webElementGuid>63b5ed7a-9428-43e0-aeb3-75c7f0033c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CBT'])[1]/following::div[4]</value>
+      <webElementGuid>bbb05fe0-7835-43a5-a4d3-8f93d17e7b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diksha D'])[2]/preceding::div[3]</value>
+      <webElementGuid>f73aac37-3ef8-4bf9-bd07-93395a6a86ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapsed'])[1]/preceding::div[4]</value>
+      <webElementGuid>b2b45426-7a5b-4c70-a054-b054643c8813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[6]/span/div</value>
+      <webElementGuid>72c5fabf-e57a-497f-9deb-0e9c09188ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EKG' or . = 'EKG')]</value>
+      <webElementGuid>cf7293db-23d9-4b9b-aabc-b14f6419cbee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

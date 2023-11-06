@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_QT Interval_cdk-overlay-backdrop cdk-ov_a8e9d2</name>
+   <tag></tag>
+   <elementGuidId>ec0f8282-27cc-40a8-a334-b3b1d7f00ee0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cdk-overlay-backdrop.cdk-overlay-transparent-backdrop.cdk-overlay-backdrop-showing</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a8ce4fc-8bdd-4ac5-8792-14930e1800a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing</value>
+      <webElementGuid>999683b5-64eb-417f-bfca-0f381c6a6904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;cdk-overlay-container&quot;]/div[@class=&quot;cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing&quot;]</value>
+      <webElementGuid>ca52d33f-758d-4cb4-ae18-e54c530f8aec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>7d219062-079a-4845-9935-2acceca57037</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

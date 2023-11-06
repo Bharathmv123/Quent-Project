@@ -12,13 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>b2ee95c9-5f99-4d5e-94df-224277ab5773</testSuiteGuid>
    <testCaseLink>
-      <guid>e09ccf58-2efe-4fd1-bf3d-0ff471aabc89</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/Login/Login (P)</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>855a9156-dc2c-493c-9198-6fa8f7970e01</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

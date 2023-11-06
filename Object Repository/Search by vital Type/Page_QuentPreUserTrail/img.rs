@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>a5a9f8f4-2326-4aa1-8772-ea64acb4e991</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/button/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1c0db24f-f6ff-4507-af88-dfcb2bd1c808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/icons/svg/profile-menu-bar.svg</value>
+      <webElementGuid>6dfef163-17b4-49b5-8851-6bda71074bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/n2-platform-tool-bar[@class=&quot;tool-bar ng-star-inserted&quot;]/div[@class=&quot;physician-dashboard-toolbar&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;physician-userdetails&quot;]/div[@class=&quot;profile-menu&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/img[1]</value>
+      <webElementGuid>0c4c07f0-d7fe-4cc4-bd3b-9095f33281f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button/span/img</value>
+      <webElementGuid>5f032da4-fc24-409a-9601-2d8bd2881921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/svg/profile-menu-bar.svg']</value>
+      <webElementGuid>88dc6479-1eb3-40a6-aaea-6d7f875dc17a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

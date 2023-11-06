@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CBT</name>
+   <tag></tag>
+   <elementGuidId>f49d19b3-86f7-4cad-b4e3-9326917ba01a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-12 > span.mat-option-text > div.mat-tooltip-trigger.usertrail-data</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-12']/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b4e2ab8-53c9-4a1a-b89e-2cec2b9e85e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger usertrail-data</value>
+      <webElementGuid>26c959fe-de04-45a1-b5be-aaa9fbed363a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-12</value>
+      <webElementGuid>f49da6c6-d792-4e41-af55-9fb2f65daa95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CBT</value>
+      <webElementGuid>1f9ef117-abd0-43a9-b691-b2cce0dfcc68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-12&quot;)/span[@class=&quot;mat-option-text&quot;]/div[@class=&quot;mat-tooltip-trigger usertrail-data&quot;]</value>
+      <webElementGuid>33f83d3a-3e5d-4b65-8430-c17aecccaf4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-12']/span/div</value>
+      <webElementGuid>9a07aafc-e5b9-4e4d-8c4f-23a60d9fa8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPO2'])[1]/following::div[2]</value>
+      <webElementGuid>5dbea470-6c2c-4cb6-9291-a9b3b36cc585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR'])[3]/following::div[4]</value>
+      <webElementGuid>693c5745-a6d8-4d51-84bd-c5a71da90ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BP'])[1]/preceding::div[3]</value>
+      <webElementGuid>23b49876-fd2d-47ff-a51a-8367dda21aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EKG'])[2]/preceding::div[5]</value>
+      <webElementGuid>9a2d6e68-69dd-449a-b603-c2ada1205c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CBT']/parent::*</value>
+      <webElementGuid>ea1fa9a5-d2be-486d-bd66-45732495171f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[4]/span/div</value>
+      <webElementGuid>f8333b95-0a97-4a60-8aa9-bbe7f6dbe505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CBT' or . = 'CBT')]</value>
+      <webElementGuid>803cc0fe-abb6-4039-a34f-482c3daaf302</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

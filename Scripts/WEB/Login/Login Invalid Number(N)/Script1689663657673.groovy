@@ -33,12 +33,6 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_QuentPreUserTrail/
 
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_Please contact customer support'))
-
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_Please contact customer support'))
-
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_Please contact customer support'))
-
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_Close'))
 
 WebUI.closeBrowser()

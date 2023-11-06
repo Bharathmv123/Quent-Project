@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Search_ng-tns-c113-6</name>
+   <tag></tag>
+   <elementGuidId>431bd758-f353-4862-a634-13ba721e2a1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.ng-tns-c113-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>69e297b7-47e4-4590-b0f8-363ffbe3c411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/icons/svg/search-gray.svg</value>
+      <webElementGuid>71675636-1e69-4ff0-912e-dd413431f6f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c113-6</value>
+      <webElementGuid>3db0fecd-bb98-4a2c-8762-723bc9ede5d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/fieldset[1]/div[1]/form[@class=&quot;filter-form ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[1]/div[@class=&quot;input-field&quot;]/mat-form-field[@class=&quot;mat-form-field top8px ng-tns-c113-6 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-valid mat-form-field-should-float ng-dirty ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-6&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-6&quot;]/div[@class=&quot;mat-form-field-prefix ng-tns-c113-6 ng-star-inserted&quot;]/img[@class=&quot;ng-tns-c113-6&quot;]</value>
+      <webElementGuid>9b0e721a-4081-4ce3-9df2-5773bf13995b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/img</value>
+      <webElementGuid>44ea9d83-00f7-418a-b1f4-f173d6fa21b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/svg/search-gray.svg']</value>
+      <webElementGuid>4eb2ca21-64ed-43ab-af4a-e86e7b8f03f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

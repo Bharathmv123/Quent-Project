@@ -6,12 +6,12 @@
    <elementGuidId>90f654f8-1d68-49b1-9010-d6b915c0760b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > img</value>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-1']/span/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[2]/div[3]/button/span/img</value>
+         <key>CSS</key>
+         <value>#mat-option-1 > span.mat-option-text > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,79 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>e0b4a2b8-576d-4007-86e7-9892ab1b146f</webElementGuid>
+      <webElementGuid>526a736b-4712-43c8-9402-1ea2a25f7c12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>./assets/icons/svg/profile-menu-bar.svg</value>
-      <webElementGuid>9c8cef9c-5103-46d7-b857-d71ba29dc7d8</webElementGuid>
+      <value>./assets/icons/svg/india.svg</value>
+      <webElementGuid>aedde60c-0c42-4154-95c4-60ebbd9c4b87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/n2-platform-tool-bar[@class=&quot;tool-bar ng-star-inserted&quot;]/div[@class=&quot;physician-dashboard-toolbar&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;physician-userdetails&quot;]/div[@class=&quot;profile-menu&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/img[1]</value>
-      <webElementGuid>c4b074e7-0d0a-4729-af40-e24dd8d394d9</webElementGuid>
+      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]/img[1]</value>
+      <webElementGuid>807b03cb-f1f0-4014-abeb-2ba4349d5f2f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-1']/span/img</value>
+      <webElementGuid>ba598910-2bf5-48de-944a-fc689932e2a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span/img</value>
+      <webElementGuid>428e1ba6-94fd-4834-85e7-4b1bb314b82c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/svg/india.svg']</value>
+      <webElementGuid>e65d4a5d-adb1-4355-ae94-a21b19a42e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='close']/img</value>
+      <webElementGuid>d852c69f-33e9-4d4f-a2ba-23109d9e97ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>14bbbe03-1e7f-46bd-bef6-8d1883352e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/svg/close.svg']</value>
+      <webElementGuid>03cf762e-1bec-4fa3-8d8c-e564d9bf1c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/button/span/img</value>
-      <webElementGuid>8af7c058-cc42-4d66-a2cd-be7ea4c334a8</webElementGuid>
+      <webElementGuid>b16264b1-5de8-44b5-8560-1e608ef77dd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/profile-menu-bar.svg']</value>
-      <webElementGuid>bbc1a407-30f5-40e0-8f06-7a9c0deda9e0</webElementGuid>
+      <webElementGuid>2aa76b25-26e7-4464-9ba0-2bfb2e1ae853</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

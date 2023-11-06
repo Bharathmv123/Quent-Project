@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_91</name>
+   <tag></tag>
+   <elementGuidId>218e15dc-a3c3-4f94-a651-5bd576bb96b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='logincountrycode']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-trigger.ng-tns-c121-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d5704ffd-8bf6-4972-9dad-75e674c6df73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-trigger ng-tns-c121-2</value>
+      <webElementGuid>9292c669-da39-43dc-8280-e5781541d51d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> +91 </value>
+      <webElementGuid>8d655cd7-7f5a-4a73-bf9f-32e96c9b9818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;logincountrycode&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c121-2&quot;]</value>
+      <webElementGuid>cd2d8a43-ac2a-489c-b87c-dccc422826d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='logincountrycode']/div</value>
+      <webElementGuid>e83295c0-645e-469c-944f-6a8840b2a213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[14]</value>
+      <webElementGuid>46b9948f-a1d4-4d63-8e89-8ca272e80f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number is required'])[1]/preceding::div[7]</value>
+      <webElementGuid>538ef66a-769e-42e1-91fe-990f9f841dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select/div</value>
+      <webElementGuid>44df1100-0406-4f44-acd7-16ac0d04c289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' +91 ' or . = ' +91 ')]</value>
+      <webElementGuid>e7f0cfa9-36e6-4443-8b36-2e4bdbb07745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[3]</value>
+      <webElementGuid>44d1805e-f79b-4d98-8016-4db660846474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number is required'])[1]/preceding::div[18]</value>
+      <webElementGuid>5fa35d65-d4d0-4077-af45-046dbb4c0101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div</value>
+      <webElementGuid>0c0562ea-d1db-4a44-8e47-cdeb02c49eeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

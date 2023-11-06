@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login (P)</name>
+   <name>View EKG vital from PUT data search</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d3dfefc1-40ec-4e39-a59a-21f48fb9ebdf</testCaseGuid>
+   <testCaseGuid>bf19cd6f-5e6c-4ccf-b2f7-a0e5ea30db46</testCaseGuid>
 </TestCaseEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a9cdb43d-10ab-402a-a525-38e2fa88cbc9</webElementGuid>
+      <webElementGuid>d877512e-7e60-43d5-8627-a3b61f1c8066</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option-text</value>
-      <webElementGuid>fa9c10f1-b7a8-4c4d-87a4-cc766466c2b1</webElementGuid>
+      <webElementGuid>61ff521e-c5d6-493b-8850-d8ae00357077</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> +91 </value>
-      <webElementGuid>4034ea46-9c51-441b-be05-fd3b5c59b1f6</webElementGuid>
+      <webElementGuid>3021279a-2cc6-41d1-a3a4-c0ead05b8de9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>32f11e4f-fc6d-4dd9-b64c-e4b0d9dd33fb</webElementGuid>
+      <webElementGuid>0bdf2ccb-14df-415c-a069-7c1907f8e7d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>16955ded-79c3-4cdc-8b6c-a823912c8ecc</webElementGuid>
+      <webElementGuid>da366ba3-3fce-4447-b649-2c5e09f124f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>6a451b90-f47e-4168-9918-7aef3b24d8a1</webElementGuid>
+      <webElementGuid>f9b4f031-ec59-45eb-bdf1-8ab7e7d7f55d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>24321ba6-cbf9-407c-9527-d95181d3962e</webElementGuid>
+      <webElementGuid>96ff2e12-bbce-40cf-b081-073399917220</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>3734f503-947d-4e01-8e66-ac70a2a9bf6f</webElementGuid>
+      <webElementGuid>8cc32ad7-3e12-4419-bfb5-32ab6e76a6de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>39230a52-7976-43f7-afe7-df2b7261bce4</webElementGuid>
+      <webElementGuid>82059470-d73b-460d-9051-bdd73f188e01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[2]/span</value>
-      <webElementGuid>9479e045-fda1-4cd4-add1-0c44bb5ba32a</webElementGuid>
+      <webElementGuid>0339001a-8935-4f2e-85ac-8a2b45f3bfca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>7c4c6933-5d2d-4b1e-b0da-9b45d216ab82</webElementGuid>
+      <webElementGuid>5a970b6c-0fb5-40ad-aeed-de4936db6607</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

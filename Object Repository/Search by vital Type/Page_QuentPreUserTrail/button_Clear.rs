@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.mat-focus-indicator.mat-stroked-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+         <value>button.mat-focus-indicator.go-btn.height35px.mat-stroked-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[1]</value>
+         <value>//button[@type='button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,34 +22,98 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>88f6c555-e975-4d3b-a2af-f66e0716ecf0</webElementGuid>
+      <webElementGuid>d06c607f-e1a5-4eaf-a641-0ab1a8f302b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-focus-indicator mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>3c682bb4-1758-4670-9f22-f00d3a8dcf82</webElementGuid>
+      <value>mat-focus-indicator go-btn height35px mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>241ce19f-df38-4efe-af80-f5eee55d39ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Clear </value>
-      <webElementGuid>351d024c-5470-4f67-baa7-6079f9834f76</webElementGuid>
+      <value>clear</value>
+      <webElementGuid>db567007-8fe6-4598-9129-807dc13054aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/form[@class=&quot;filter-form ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[@class=&quot;clear-btn&quot;]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>6f9f5c2c-742c-4568-9cd3-8999c9eb52f3</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/fieldset[1]/div[1]/form[@class=&quot;filter-form ng-valid ng-touched ng-dirty&quot;]/div[1]/div[2]/div[@class=&quot;clear-btn&quot;]/button[@class=&quot;mat-focus-indicator go-btn height35px mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>16038285-b958-4c77-a4c1-d1c1feea4dee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3fd4cb4f-abbd-4d53-ad22-2fa0483ff650</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>1b7b0d5e-169c-48f7-8e7b-bd8f53429a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR'])[1]/following::button[2]</value>
+      <webElementGuid>98aeaaaf-5f93-4d5a-9589-bf6cb788e553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital type'])[1]/following::button[2]</value>
+      <webElementGuid>de8894e1-8c3b-4b56-ac8b-760a48710dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent Id'])[1]/preceding::button[1]</value>
+      <webElementGuid>31ffe877-3b25-4d99-903a-3897eac0d576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Refrence Id'])[1]/preceding::button[1]</value>
+      <webElementGuid>d288f4f9-80f4-4132-b05c-eee8f3d5cb81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button</value>
+      <webElementGuid>ef99b5e1-69c9-42a3-99a6-34e6d2a38e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'clear' or . = 'clear')]</value>
+      <webElementGuid>3f81d2d5-4b21-4412-a4cf-e3acc8f61200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>

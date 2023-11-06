@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div__mat-select-arrow-wrapper ng-tns-c121-1</name>
+   <name>div__mat-select-arrow-wrapper ng-tns-c121-2</name>
    <tag></tag>
-   <elementGuidId>168ddd01-8fa2-467e-9b88-73f0941c6cfb</elementGuidId>
+   <elementGuidId>2ff6a119-17d9-430b-a30d-a4c8ce2f3442</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-arrow-wrapper.ng-tns-c121-2</value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//mat-select[@id='logincountrycode']/div/div[2]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>div.mat-select-arrow-wrapper.ng-tns-c121-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ee52f307-3b15-4492-9288-51395c60b690</webElementGuid>
+      <webElementGuid>af014d29-1156-40de-aec7-74125ebc62be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-select-arrow-wrapper ng-tns-c121-1</value>
-      <webElementGuid>10efe6c9-6db1-4862-bb5e-3fc8b8835799</webElementGuid>
+      <value>mat-select-arrow-wrapper ng-tns-c121-2</value>
+      <webElementGuid>4257f454-4e16-4092-bd29-ddfd12fea39e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;logincountrycode&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c121-1&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c121-1&quot;]</value>
-      <webElementGuid>59c6d9c9-702f-436f-98fe-9fc25910c632</webElementGuid>
+      <value>id(&quot;logincountrycode&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c121-2&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c121-2&quot;]</value>
+      <webElementGuid>57b2436a-f902-4205-b2e1-df702b10add8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='logincountrycode']/div/div[2]</value>
-      <webElementGuid>7405b9f3-87d1-4c8f-8edd-7469e7bca4b7</webElementGuid>
+      <webElementGuid>b8f3c86c-597f-480d-ae58-b97b14cea38b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[17]</value>
-      <webElementGuid>b0188265-f3fb-4515-8204-82e1c66c2ce1</webElementGuid>
+      <webElementGuid>4f5628f1-855c-4f21-b4a0-f100b21c615e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[7]</value>
-      <webElementGuid>8cb94a33-2d2a-4b45-bfe6-a20ae83a8e85</webElementGuid>
+      <webElementGuid>e892e0e7-e4ea-4747-9baa-c2d44b2afde7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select/div/div[2]</value>
-      <webElementGuid>e14cf602-670b-4abe-bf17-4273eed45dff</webElementGuid>
+      <webElementGuid>c84350a1-912f-4298-930f-eafbf67129d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,33 +21,22 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Object Repository/Login Test/New Folder/Page_QuentPreUserTrail/Page_QuentPreUserTrail/div__mat-select-arrow-wrapper ng-tns-c121-2'))
 
-WebUI.click(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/img'))
+WebUI.click(findTestObject('Object Repository/Login Test/New Folder/Page_QuentPreUserTrail/Page_QuentPreUserTrail/span_91'))
 
-WebUI.click(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/img_1'))
-
-WebUI.setText(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/input__login-phonenumber'), 
+WebUI.setText(findTestObject('Object Repository/Login Test/New Folder/Page_QuentPreUserTrail/Page_QuentPreUserTrail/input__login-phonenumber'), 
     '8217603935')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/input__login-password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Login Test/New Folder/Page_QuentPreUserTrail/Page_QuentPreUserTrail/input__login-password'), 
     'cvW8qx4B2o3F4VwP/kNsqA==')
 
-WebUI.click(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/button_Login'))
+WebUI.click(findTestObject('Object Repository/Login Test/New Folder/Page_QuentPreUserTrail/Page_QuentPreUserTrail/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/span_--Select--'))
+WebUI.click(findTestObject('Object Repository/Login Test/New Folder/Page_QuentPreUserTrail/Page_QuentPreUserTrail/img'))
 
-WebUI.click(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/div_ECG'))
-
-WebUI.click(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/mat-icon_search'))
-
-WebUI.click(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/button_Download'))
-
-WebUI.delay(5)
-
-WebUI.click(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/img_1_2'))
-
-WebUI.click(findTestObject('Object Repository/Download ECG in Vital Reading/Page_QuentPreUserTrail/div_Logout'))
+WebUI.click(findTestObject('Object Repository/Login Test/New Folder/Page_QuentPreUserTrail/Page_QuentPreUserTrail/div_Logout'))
 
 WebUI.closeBrowser()
+
 

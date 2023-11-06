@@ -21,21 +21,26 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/div_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img'))
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/span_91'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_91'))
+WebUI.setText(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/input__login-phonenumber'), '9022351287')
 
-WebUI.setText(findTestObject('Object Repository/Page_QuentPreUserTrail/input__login-phonenumber'), '8217603935')
+WebUI.setEncryptedText(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/input__login-password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_QuentPreUserTrail/input__login-password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_Login'))
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/div_--Select--_mat-select-arrow-wrapper ng-_228c2d'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img_1'))
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/div_EKG'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_Logout'))
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/button_search'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/button_Download'))
+WebUI.delay(10)
+
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/img'))
+
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/div_Logout'))
 

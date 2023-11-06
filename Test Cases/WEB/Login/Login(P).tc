@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>View ECG in Vital Reading</name>
+   <name>Login(P)</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>aafd4a4e-d896-40cd-9628-7e8c2072b08c</testCaseGuid>
+   <testCaseGuid>d3622a33-b59d-42d1-ab8d-dd8c78b84194</testCaseGuid>
 </TestCaseEntity>
