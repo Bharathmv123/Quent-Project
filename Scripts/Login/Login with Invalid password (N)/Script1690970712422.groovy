@@ -17,33 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.16 V1.1.94_040920231653_staging.apk', true)
+Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.21 V1.1.100_191020230921_staging.apk', true)
 
 Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.CheckBox - User Trial'), 0)
+Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.CheckBox - User Trial (2)'), 0)
 
 Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.CheckBox'), 0)
+Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.CheckBox (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.Button - Next'), 0)
+Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.Button - Next (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.ImageButton'), 0)
+Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.ImageButton (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.TextView - 91'), 0)
+Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.RelativeLayout'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Login with invalid password/android.widget.EditText - Phone number'), 
-    '8217603935')
+Mobile.sendKeys(findTestObject('Object Repository/Login with invalid password/android.widget.EditText - Phone number (2)'), 
+    '9022351287')
 
-Mobile.sendKeys(findTestObject('Object Repository/Login with invalid password/android.widget.EditText - Password'), 'Test@12345')
+Mobile.sendKeys(findTestObject('Object Repository/Login with invalid password/android.widget.EditText - Password (2)'), 
+    'Test@12345')
 
-Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.Button - Sign In'), 0)
+Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.Button - Sign In (2)'), 0)
 
 Mobile.switchToNative()
 
-Mobile.getText(findTestObject('Object Repository/Login with invalid password/android.widget.TextView - Please contact customer support'), 
-    0)
+Mobile.getText(findTestObject('Object Repository/Login with invalid password/android.widget.TextView - ERROR (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Login with invalid password/android.widget.Button - Close (1)'), 0)
 
 Mobile.closeApplication()
 

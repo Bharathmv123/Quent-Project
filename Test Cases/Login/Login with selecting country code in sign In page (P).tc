@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with selecting country code in sign In page (P)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f955c16-6cc4-4bf5-b75f-d08cd8831ace</testCaseGuid>
+</TestCaseEntity>

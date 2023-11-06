@@ -17,78 +17,78 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.16 V1.1.94_040920231653_staging.apk', true)
+Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.21 V1.1.100_191020230921_staging.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.CheckBox - User Trial'), 0)
+Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.CheckBox'), 0)
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.CheckBox - User Trial'), 
+    0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.Button - Next'), 0)
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.CheckBox'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.ImageButton'), 0)
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.Button - Next'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.RelativeLayout'), 0)
+Mobile.switchToNative()
 
-Mobile.sendKeys(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.EditText - Phone number'),
-	'8217603935')
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.ImageButton'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.EditText - Password'),
-	'Test@123')
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.TextView - 91'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.Button - Sign In'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/User trail without entering weight/android.widget.EditText - Phone number'), 
+    '9022351287')
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering Name/android.widget.TextView - Trial Batch'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/User trail without entering weight/android.widget.EditText - Password'), 
+    'Test@123')
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering Name/android.widget.TextView - Trail Batch 1'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.Button - Sign In'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.EditText - Name'),
-	'Sirisha')
+Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.ImageButton'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.ImageButton (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.TextView - 2005'),
-	0)
+Mobile.switchToNative()
 
-Mobile.scrollToText('1997')
+Mobile.delay(20)
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.TextView - 1997'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.TextView - Trial Batch'), 
+    0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.view.View - 19'), 0)
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.view.ViewGroup'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.Button - OK'),
-	0)
+Mobile.scrollToText('Room Temp')
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.ImageButton (1)'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/User trail without entering weight/android.widget.EditText - Room Temp'), 
+    '32')
 
-Mobile.delay(5) //Scan User Reference ID
-
-Mobile.scrollToText('Gender')
-
-Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.ImageButton (1)'), 0)
-
-Mobile.delay(5)//Select Gender from the dropdown field 'Gender'
-
-Mobile.scrollToText('Blood Group')
-
-Mobile.tap(findTestObject('Object Repository/du/android.widget.ImageButton'), 0)
-
-Mobile.delay(5)//Select Blood Group from dropdown Field 'Blood Group'
-
-Mobile.scrollToText('Height')
-
-Mobile.sendKeys(findTestObject('Object Repository/User Trial Enter Height/android.widget.EditText - Height'), '154')
-
-Mobile.delay(5)
+Mobile.sendKeys(findTestObject('Object Repository/User trail without entering weight/android.widget.EditText - Body Temp'), 
+    '32')
 
 Mobile.scrollToText('Measure')
 
-Mobile.tap(findTestObject('Object Repository/User Trial without selecting Blood Group/android.widget.Button - Measure'),0)
+Mobile.switchToNative()
 
-Mobile.getText(findTestObject('Object Repository/User Trial without selecting Blood Group/android.widget.TextView - Weight is mandatory'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.CompoundButton - BLE'), 0)
+
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.Button - Connect'), 0)
+
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.Button - Scan for Watch'), 
+    0)
+
+Mobile.switchToNative()
+
+Mobile.delay(30)
+
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.Button - Go to Dashboard (1)'), 
+    0)
+
+Mobile.switchToNative()
+
+Mobile.scrollToText('Measure')
+
+Mobile.tap(findTestObject('Object Repository/User trail without entering weight/android.widget.Button - Measure'), 0)
+
+Mobile.getText(findTestObject('Object Repository/User trail without entering weight/android.widget.TextView - Weight is mandatory'), 
+    0)
 
 Mobile.closeApplication()
 

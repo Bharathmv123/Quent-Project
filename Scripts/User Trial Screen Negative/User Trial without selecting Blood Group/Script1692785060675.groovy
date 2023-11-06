@@ -17,65 +17,107 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.16 V1.1.94_040920231653_staging.apk', true)
+Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.21 V1.1.100_191020230921_staging.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.CheckBox - User Trial'), 0)
+Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.CheckBox'), 0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.CheckBox - User Trial (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.Button - Next'), 0)
+Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.ImageButton'), 0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.CheckBox (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.RelativeLayout'), 0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.Button - Next (1)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.EditText - Phone number'),
-	'8217603935')
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.ImageButton (3)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.EditText - Password'),
-	'Test@123')
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.TextView - 91'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.Button - Sign In'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.EditText - Phone number (1)'), 
+    '9022351287')
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering Name/android.widget.TextView - Trial Batch'), 0)
+Mobile.sendKeys(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.EditText - Password (1)'), 
+    'Test@123')
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering Name/android.widget.TextView - Trail Batch 1'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.Button - Sign In (1)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.EditText - Name'),
-	'Sirisha')
+Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.ImageButton'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.TextView - Trial Batch'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.TextView - 2005'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.TextView - Trail Batch 1'), 0)
 
-Mobile.scrollToText('1997')
+Mobile.sendKeys(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.EditText - Name'), 'Diksha')
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.TextView - 1997'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.ImageButton (4)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.view.View - 19'), 0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.view.View - 13'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.Button - OK'),
-	0)
-
-Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.ImageButton (1)'), 0)
-
-Mobile.delay(5) //Scan User Reference ID 
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.Button - OK'), 0)
 
 Mobile.scrollToText('Gender')
 
-Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.ImageButton (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.ImageButton (5)'), 0)
 
-Mobile.delay(20)//Select Gender from the dropdown field 'Gender'
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.AutoCompleteTextView - Blood Group'), 
+    0)
+
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.EditText - Height'), 0)
+
+Mobile.hideKeyboard()
+
+Mobile.sendKeys(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.EditText - Height (1)'), 
+    '165')
+
+Mobile.sendKeys(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.EditText - Weight'), '76')
+
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.AutoCompleteTextView - Wrist Type'), 
+    0)
+
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.AutoCompleteTextView - Skin Color'), 
+    0)
+
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.ImageButton (6)'), 0)
+
+Mobile.scrollToText('Room Temp')
+
+Mobile.sendKeys(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.EditText - Room Temp'), '32')
+
+Mobile.sendKeys(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.EditText - Body Temp'), '32')
 
 Mobile.scrollToText('Measure')
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering Name/android.widget.Button - Measure'), 0)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.CompoundButton - BLE'), 0)
 
-Mobile.delay(5)
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.Button - Connect'), 0)
+
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.Button - Scan for Watch'), 0)
+
+Mobile.switchToNative()
+
+Mobile.delay(30)
+
+Mobile.switchToNative()
+
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.Button - Go to Dashboard'), 0)
+
+Mobile.scrollToText('Measure')
+
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.Button - Measure'), 0)
+
+Mobile.scrollToText('Blood group')
+
+Mobile.scrollToText('User Reference id')
+
+Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.ImageButton (7)'), 0)
+
+Mobile.delay(10)
+
+Mobile.switchToNative()
+
+Mobile.scrollToText('Measure')
+
+Mobile.getText(findTestObject('Object Repository/User Trial Select Blood Group/android.widget.Button - Measure (1)'), 0)
 
 Mobile.closeApplication()
 

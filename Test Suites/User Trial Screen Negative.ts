@@ -54,13 +54,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>14846711-0215-4902-9ab1-fb3d0b42dfd4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/User Trial Screen Negative/User Trial Without entering Height</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>8088a16a-79e5-4eac-bc90-3eb68ad3f2c7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

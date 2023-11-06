@@ -17,31 +17,36 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.16 V1.1.94_040920231653_staging.apk', true)
+Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.21 V1.1.100_191020230921_staging.apk', true)
 
 Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.CheckBox - User Trial (1)'), 
+Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.CheckBox - User Trial (2)'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.CheckBox (1)'), 0)
+Mobile.switchToNative()
 
-Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.Button - Next (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.CheckBox (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.ImageButton (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.Button - Next (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.RelativeLayout'), 0)
+Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.ImageButton (2)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.EditText - Phone number (1)'), 
-    '8217603947')
+Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.TextView - 91 (1)'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.EditText - Password (1)'), 
+Mobile.sendKeys(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.EditText - Phone number (2)'), 
+    '6789876789')
+
+Mobile.sendKeys(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.EditText - Password (2)'), 
     'Test@123')
 
-Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.Button - Sign In (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.Button - Sign In (2)'), 0)
 
-Mobile.getText(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.TextView - Please contact customer support (1)'), 
-    0)
+Mobile.switchToNative()
+
+Mobile.getText(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.TextView - ERROR'), 0)
+
+Mobile.tap(findTestObject('Object Repository/Login for Invalid Phone Number/android.widget.Button - Close'), 0)
 
 Mobile.closeApplication()
 

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Login without selecting country in Sign In Page (N)</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>275073ff-6b17-4e97-8e68-07e8d48b8df3</testCaseGuid>
-</TestCaseEntity>
