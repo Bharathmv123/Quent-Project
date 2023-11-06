@@ -19,9 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/apple/Desktop/IRIS_STA (1).ipa', true)
 
-Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'),
-	0)
-
+Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'), 
+    0)
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - ic uncheckedCheckbox3'), 0)
 
@@ -29,7 +28,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Next'), 0)
 
-Mobile.delay(20)
+Mobile.delay(5)
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeTextField -   Phone number'), '8217603935')
 

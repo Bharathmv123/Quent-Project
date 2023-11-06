@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pattern - ECG,HR,SPO2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f7c3a60-c7fa-45eb-93c2-1cefef9ffcad</testCaseGuid>
+</TestCaseEntity>

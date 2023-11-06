@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Desktop/IRIS_STA (1).ipa', true)
+Mobile.startApplication('/Users/apple/Downloads/IRIS_STA (2).ipa', true)
 
 Mobile.tap(findTestObject('Object Repository/User Trial Select Wrist Type/XCUIElementTypeButton - Allow'), 0)
 
@@ -28,7 +28,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial Select Wrist Type/XCUIEl
 
 Mobile.tap(findTestObject('Object Repository/User Trial Select Wrist Type/XCUIElementTypeButton - Next'), 0)
 
-Mobile.delay(20)
+Mobile.delay(5)
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial Select Wrist Type/XCUIElementTypeTextField -   Phone number'),
 	'8217603935')

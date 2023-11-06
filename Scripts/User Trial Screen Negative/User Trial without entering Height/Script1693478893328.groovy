@@ -19,8 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/apple/Desktop/IRIS_STA (1).ipa', true)
 
-Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'),
-	0)
+Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'), 
+    0)
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - ic uncheckedCheckbox3'), 0)
 
@@ -28,7 +28,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Next'), 0)
 
-Mobile.delay(20)
+Mobile.delay(5)
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeTextField -   Phone number'), '8217603935')
 
@@ -44,21 +44,21 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - OK'), 0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Trail Batch'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Trail Batch'), 
+    0)
 
 Mobile.delay(10)
 
-Mobile.sendKeys(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Name'),
-	'Sirisha')
+Mobile.sendKeys(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Name'), 
+    'Sirisha')
 
-Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Date of Birth'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Date of Birth'), 
+    0)
 
 Mobile.delay(10)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeButton - ic put qrcode'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeButton - ic put qrcode'), 
+    0)
 
 Mobile.delay(10)
 
@@ -70,9 +70,10 @@ Mobile.tap(findTestObject('Object Repository/User Trial Select Blood Group/XCUIE
 
 Mobile.delay(10)
 
-Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeButton - Measure'),
-	0)
+Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeButton - Measure'), 
+    0)
 
 Mobile.delay(10)
 
 Mobile.closeApplication()
+

@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Desktop/IRIS_STA (1).ipa', true)
+Mobile.startApplication('/Users/apple/Downloads/IRIS_STA (2).ipa', true)
 
 Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'),
 	0)
@@ -45,8 +45,8 @@ Mobile.tap(findTestObject('Object Repository/User Trial entering Valid name/XCUI
 
 Mobile.tap(findTestObject('Object Repository/User Trial entering Valid name/XCUIElementTypeButton - OK'), 0)
 
-Mobile.sendKeys(findTestObject('Object Repository/User Trial Select Blood Group/XCUIElementTypeTextField - Wrist Size'),
-	'16')
+Mobile.sendKeys(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Name'),
+	'Sirisha')
 
 Mobile.closeApplication()
 

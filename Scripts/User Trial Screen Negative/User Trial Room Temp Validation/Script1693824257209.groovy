@@ -19,9 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/apple/Desktop/IRIS_STA (1).ipa', true)
 
-Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'),
-	0)
-
+Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'), 
+    0)
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - ic uncheckedCheckbox3'), 0)
 
@@ -29,7 +28,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Next'), 0)
 
-Mobile.delay(20)
+Mobile.delay(5)
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeTextField -   Phone number'), '8217603935')
 
@@ -54,22 +53,19 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 Mobile.delay(10)
 
 //Mobile.scrollToText('Weight')
-
 Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeTextField - Weight'), '45')
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeOther (1)'), 0)
-
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial enter Age/XCUIElementTypeTextField - Hip Size'), '70')
 
 Mobile.delay(10)
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeTextField - Wrist Size'), '16')
- 
+
 Mobile.delay(10)
 
 //Mobile.scrollToText('Room Temp')
-
 Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeTextField - Room Temp'), '58')
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeTextField - Body Temp'), '37.1')
@@ -77,7 +73,6 @@ Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/XCUIElem
 Mobile.delay(10)
 
 //Mobile.scrollToText('BLE')
-
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - BLE'), 0)
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Connect'), 0)
@@ -91,9 +86,9 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 Mobile.delay(10)
 
 //Mobile.scrollToText('Measure')
-
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Measure'), 0)
 
 Mobile.delay(10)
 
 Mobile.closeApplication()
+

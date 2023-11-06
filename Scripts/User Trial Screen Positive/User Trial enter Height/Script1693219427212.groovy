@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Desktop/IRIS_STA (1).ipa', true)
+Mobile.startApplication('/Users/apple/Downloads/IRIS_STA (2).ipa', true)
 
 Mobile.tap(findTestObject('Object Repository/Login New/Login without selecting country in Select country page/XCUIElementTypeButton - Allow'),
 	0)

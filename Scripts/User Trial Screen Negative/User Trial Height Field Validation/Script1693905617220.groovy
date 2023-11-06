@@ -28,7 +28,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 
 Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeButton - Next'), 0)
 
-Mobile.delay(20)
+Mobile.delay(5)
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial End to End/XCUIElementTypeTextField -   Phone number'), '8217603935')
 
@@ -47,7 +47,7 @@ Mobile.tap(findTestObject('Object Repository/User Trial End to End/XCUIElementTy
 Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Trail Batch'),
 	0)
 
-Mobile.delay(10)
+Mobile.delay(5)
 
 Mobile.sendKeys(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Name'),
 	'Sirisha')
@@ -55,7 +55,7 @@ Mobile.sendKeys(findTestObject('Object Repository/User Trial Screen without sele
 Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeTextField - Date of Birth'),
 	0)
 
-Mobile.delay(10)
+Mobile.delay(5)
 
 Mobile.tap(findTestObject('Object Repository/User Trial Screen without selecting Trial batch/XCUIElementTypeButton - ic put qrcode'),
 	0)
