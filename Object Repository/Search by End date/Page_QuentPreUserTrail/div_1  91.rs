@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_91</name>
+   <name>div_1  91</name>
    <tag></tag>
-   <elementGuidId>73fa1b90-fe57-4062-8f24-56f44db08cc6</elementGuidId>
+   <elementGuidId>713b9cbd-c0ec-46fa-8aea-7575964d0ed7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mat-option-1 > span.mat-option-text</value>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-1']/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-1']/span</value>
+         <key>CSS</key>
+         <value>div.mat-select-panel-wrap.ng-tns-c121-2.ng-trigger.ng-trigger-transformPanelWrap.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>e029613f-22dc-4e3b-990e-5251961ce5ec</webElementGuid>
+      <value>div</value>
+      <webElementGuid>85205220-1797-4dd2-a3eb-779ce6665dde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>3d8e1930-2c3b-4aff-87ff-ae4703b947d5</webElementGuid>
+      <value>mat-select-panel-wrap ng-tns-c121-2 ng-trigger ng-trigger-transformPanelWrap ng-star-inserted</value>
+      <webElementGuid>4c732712-2360-4457-a8c6-f6a132979e72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +91 </value>
-      <webElementGuid>fb479e64-ee0b-428e-b759-d8f3b9b9390d</webElementGuid>
+      <value> +1  +91 </value>
+      <webElementGuid>15a1a7ee-38b2-43d9-b029-8fd9570530af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>1cac8d86-285d-4d1d-a040-3a08f90c8b73</webElementGuid>
+      <value>id(&quot;cdk-overlay-1&quot;)/div[@class=&quot;mat-select-panel-wrap ng-tns-c121-2 ng-trigger ng-trigger-transformPanelWrap ng-star-inserted&quot;]</value>
+      <webElementGuid>dbf6c005-e0ec-422f-aab2-04c148992c96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>ec4ee9b0-085f-4ae4-b9dd-615592d008f2</webElementGuid>
+      <value>//div[@id='cdk-overlay-1']/div</value>
+      <webElementGuid>80975294-43f5-49ac-bc83-f863622423be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>ceecbc80-8ad2-41ae-a017-99a5e7edeb9f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::div[10]</value>
+      <webElementGuid>7b5bc4eb-4bf9-4b28-a722-169d303859fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>da8e1e0f-6575-4a44-a5c6-f954aba7a51e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[12]</value>
+      <webElementGuid>9adf20ca-c80b-4326-b5cb-8bfae21d0198</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>ff0faea9-ff0f-43f4-9e53-b0e0fb0f7f11</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>5caa9a5f-d18e-4e6e-8592-af58e2de8e70</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::div[4]</value>
+      <webElementGuid>2f83edd4-5c19-4cbc-9e6e-2f762cc64688</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[2]/span</value>
-      <webElementGuid>5c1dbf87-ad38-4669-a095-438ff6c44dcf</webElementGuid>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>7beadf72-6987-4e6d-86a5-7fda8952a889</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>61892478-66ad-4cf2-9bf9-eb655f803d12</webElementGuid>
+      <value>//div[(text() = ' +1  +91 ' or . = ' +1  +91 ')]</value>
+      <webElementGuid>19789dae-26b1-4d40-875e-763cdc92204c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

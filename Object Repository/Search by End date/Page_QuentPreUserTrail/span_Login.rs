@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Login</name>
    <tag></tag>
-   <elementGuidId>54760fc9-efe7-489c-a517-727b28c2d1b9</elementGuidId>
+   <elementGuidId>cffb452a-88dd-4e51-94e7-68f1253c8490</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>span.mat-button-wrapper</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@id='login-submit']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-button-wrapper</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>38962dd7-8556-411a-a5a6-fb84500df24a</webElementGuid>
+      <webElementGuid>eb167def-dace-4b36-aa49-a5ef21600ccd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>71de2fa3-8fc4-4dce-baba-414e4a9276c8</webElementGuid>
+      <webElementGuid>dfe68135-0213-4c6e-bf4f-748cedbb70ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Login </value>
-      <webElementGuid>3b4eb93f-23cb-4c69-8aaa-074688698591</webElementGuid>
+      <webElementGuid>78a5ee20-25d8-4fcc-af53-c47ca2e5f328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-submit&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>2932870b-ea33-490c-8a77-da4273acb21d</webElementGuid>
+      <webElementGuid>bb4b62c1-c4ef-4ea4-8420-62d063e7596a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='login-submit']/span</value>
-      <webElementGuid>76c96a87-6eaa-4320-a1c7-441317335e28</webElementGuid>
+      <webElementGuid>269bc747-ea27-4b21-8c53-655326a9f319</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[10]</value>
-      <webElementGuid>cc5f0086-55fc-4bd6-a538-4bd3eac54f5f</webElementGuid>
+      <webElementGuid>907821e6-bd33-4062-b045-6124399cda2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/preceding::span[3]</value>
-      <webElementGuid>e69e9493-6668-4d49-9ea4-de26f0b54e3b</webElementGuid>
+      <webElementGuid>5a71e8b1-65a0-42d1-8982-7b19859fd005</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'login-submit', '&quot;', ')/span[@class=', '&quot;', 'mat-button-wrapper', '&quot;', ']')])[1]/preceding::span[3]</value>
-      <webElementGuid>3507a864-d7a9-46a1-b132-e0e761717dae</webElementGuid>
+      <webElementGuid>3b927bf5-2569-4205-b075-f3903e7d14c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>332b8214-62d0-441a-9c4e-a43adbaafa3e</webElementGuid>
+      <webElementGuid>fa779ace-4e56-4113-87d1-4140b508695f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Login ' or . = ' Login ')]</value>
-      <webElementGuid>bb4e6024-7f0c-441f-9194-6268d3ee28ac</webElementGuid>
+      <webElementGuid>0ad3f4e5-0d4e-49f6-a4f4-4d77b62a1d6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

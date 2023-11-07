@@ -3,15 +3,15 @@
    <description></description>
    <name>div__mat-select-arrow-wrapper ng-tns-c121-2</name>
    <tag></tag>
-   <elementGuidId>2ff6a119-17d9-430b-a30d-a4c8ce2f3442</elementGuidId>
+   <elementGuidId>ff8b6d61-2e81-4edc-88cb-492856042aa1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.mat-select-arrow-wrapper.ng-tns-c121-2</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//mat-select[@id='logincountrycode']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-arrow-wrapper.ng-tns-c121-2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>af014d29-1156-40de-aec7-74125ebc62be</webElementGuid>
+      <webElementGuid>9a1704fa-f60d-4453-a255-a39f77c23830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-select-arrow-wrapper ng-tns-c121-2</value>
-      <webElementGuid>4257f454-4e16-4092-bd29-ddfd12fea39e</webElementGuid>
+      <webElementGuid>abcd0dfa-4d16-4f53-a248-df73ba143c55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;logincountrycode&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c121-2&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c121-2&quot;]</value>
-      <webElementGuid>57b2436a-f902-4205-b2e1-df702b10add8</webElementGuid>
+      <webElementGuid>837081c5-acc3-43c6-a959-292698ae1e1f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='logincountrycode']/div/div[2]</value>
-      <webElementGuid>b8f3c86c-597f-480d-ae58-b97b14cea38b</webElementGuid>
+      <webElementGuid>ca1dbb6d-0763-4bd1-b666-42282465d483</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[17]</value>
-      <webElementGuid>4f5628f1-855c-4f21-b4a0-f100b21c615e</webElementGuid>
+      <webElementGuid>f6f07b1a-d78f-4a36-8d0f-d85e971d5ce4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[7]</value>
-      <webElementGuid>e892e0e7-e4ea-4747-9baa-c2d44b2afde7</webElementGuid>
+      <webElementGuid>cf67ab89-00ef-4b25-8ab9-b43d548c5768</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select/div/div[2]</value>
-      <webElementGuid>c84350a1-912f-4298-930f-eafbf67129d1</webElementGuid>
+      <webElementGuid>cd10d414-b734-4587-8379-df75661f3f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number is required'])[1]/preceding::div[4]</value>
+      <webElementGuid>c6c5ebad-bccb-4184-ae3a-1bd2d35c0e4a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
