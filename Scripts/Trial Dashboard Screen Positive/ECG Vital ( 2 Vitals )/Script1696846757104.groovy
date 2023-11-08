@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.14 V1.1.91_070720231029_staging.apk', true)
+Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.21 V1.1.100_191020230921_staging.apk', true)
 
 Mobile.switchToNative()
 
@@ -106,6 +106,8 @@ Mobile.tap(findTestObject('Object Repository/ECG/android.widget.TextView - Take 
 //delete 3rd Reading
 
 Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (6)'), 0)
+
+Mobile.delay(10)
 
 Mobile.tap(findTestObject('Object Repository/ECG/android.widget.ImageView (7)'), 0)
 
