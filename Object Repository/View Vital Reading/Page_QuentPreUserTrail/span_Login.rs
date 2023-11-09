@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_91</name>
+   <name>span_Login</name>
    <tag></tag>
-   <elementGuidId>ac1aeb9a-91ee-4838-b3da-d04422d8191d</elementGuidId>
+   <elementGuidId>87666cd0-39b9-4985-ae13-5d4452e255c0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-1 > span.mat-option-text</value>
+         <value>span.mat-button-wrapper</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-1']/span</value>
+         <value>//button[@id='login-submit']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c84a7864-ba94-44d6-8f6d-33ec8e65c903</webElementGuid>
+      <webElementGuid>c19c0c5f-1388-445d-b700-ff975ad18bae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>1fc8dd87-a340-4c21-bd12-473fb8a8ea50</webElementGuid>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>1fb93876-a2a2-4363-b950-51b2afea8a7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +91 </value>
-      <webElementGuid>66b1c968-08ea-48fd-a657-743a6cf4be1e</webElementGuid>
+      <value> Login </value>
+      <webElementGuid>32a1e558-7f81-4ed2-b828-dc248f18d3d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>5b5ea3c9-1187-4e98-8a4d-ef71e0ee06eb</webElementGuid>
+      <value>id(&quot;login-submit&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>702be43b-bd40-4cd1-8745-dd120f5e7285</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>69bb7293-7c4e-40b0-8c11-3e82a8ed3e45</webElementGuid>
+      <value>//button[@id='login-submit']/span</value>
+      <webElementGuid>538b19db-ab98-4533-aee2-585dc43e5df6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>d2dd3a17-c508-4c2d-9722-7833b568e654</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[10]</value>
+      <webElementGuid>5b6cd5c6-7992-487d-8252-3337e320e322</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>d6db1daf-c1d8-4e47-8d18-14866805a7da</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/preceding::span[3]</value>
+      <webElementGuid>29ceb71c-2bc0-412b-a028-27e6b61e32b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>f4155e1c-9250-42dd-b8e4-aebbb8b64fe9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>f27de7d2-4f7e-4b14-aa20-873be442facd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'login-submit', '&quot;', ')/span[@class=', '&quot;', 'mat-button-wrapper', '&quot;', ']')])[1]/preceding::span[3]</value>
+      <webElementGuid>80b98014-67c1-4031-999f-8b6e0c89c9c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[2]/span</value>
-      <webElementGuid>70d72cce-9cc3-4d7a-b916-13d883de92a8</webElementGuid>
+      <value>//button/span</value>
+      <webElementGuid>d17cb256-2feb-4928-9fb4-d3aeca1f4a70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>ce5e6bd4-daa2-4798-a3eb-be91d5f34184</webElementGuid>
+      <value>//span[(text() = ' Login ' or . = ' Login ')]</value>
+      <webElementGuid>7a9d375a-deb7-4c8d-bbad-4228fa060c84</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

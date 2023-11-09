@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.ng-star-inserted > img</value>
+         <value>#close > img</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
+         <value>//button[@id='close']/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,26 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>71b27aae-b223-4952-94ad-37e47a9fe67b</webElementGuid>
+      <webElementGuid>41b3f510-ecfc-4ecb-b157-636adca66880</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>./assets/icons/svg/usa.svg</value>
-      <webElementGuid>b900fb5a-27e6-483d-84b5-7eac2aa95d5a</webElementGuid>
+      <value>./assets/icons/svg/close.svg</value>
+      <webElementGuid>f3f5bba3-ca43-4539-b5b6-3f60e4e87fbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-1 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-1 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/img[1]</value>
-      <webElementGuid>e291a9a8-e03e-4801-aa72-9a826de33927</webElementGuid>
+      <value>id(&quot;close&quot;)/img[1]</value>
+      <webElementGuid>72e3515f-b8dd-4ff8-942c-f7f2aa4af96e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='close']/img</value>
+      <webElementGuid>28742669-1357-4eae-9dff-7cfcb41d2e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>5ea8b943-b59f-4b1c-8fc9-8c1c3fd65dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/svg/close.svg']</value>
+      <webElementGuid>8edfed69-908a-4462-a6e7-2b4d61f7cbe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

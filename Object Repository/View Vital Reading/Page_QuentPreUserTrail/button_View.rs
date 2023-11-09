@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.cell-button.ecg-button.ng-star-inserted</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='ECG'])[4]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='EKG'])[2]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>73be170f-45e8-4a77-88ad-f29ab3a6b708</webElementGuid>
+      <webElementGuid>cf0a47d4-7230-494d-a5a0-39c4fa187867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cell-button ecg-button ng-star-inserted</value>
-      <webElementGuid>618383f5-df8a-457d-a7d3-15ef80026679</webElementGuid>
+      <webElementGuid>915a5a5e-d8e8-42d3-bf1b-90053a5498f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> View </value>
-      <webElementGuid>3dfdd2a4-1373-4dd2-9ea0-0387215aedfb</webElementGuid>
+      <webElementGuid>d9ca1c64-29c5-4d63-986d-652968603d35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,10 +46,66 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;usertrail-table&quot;]/mat-table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/mat-row[@class=&quot;mat-row cdk-row nodata-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-vitalReading mat-column-vitalReading ng-star-inserted&quot;]/button[@class=&quot;cell-button ecg-button ng-star-inserted&quot;]</value>
-      <webElementGuid>8e882b42-31a4-4630-a757-de3a706db7bb</webElementGuid>
+      <webElementGuid>22f94ec5-dec4-4f0d-b01f-e2501f3f446f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EKG'])[2]/following::button[1]</value>
+      <webElementGuid>d799dc55-5f99-4f0e-839f-89f98cea60f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ED:11:24:48:C7:A1'])[1]/following::button[1]</value>
+      <webElementGuid>02693772-47a8-4307-84ae-481b139d2832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::button[1]</value>
+      <webElementGuid>f3275c05-67e5-405d-8569-ca8ce880a3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 of 1 items'])[1]/preceding::button[2]</value>
+      <webElementGuid>e3daed55-9d09-41e9-9fd4-3f1b9abcfe34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View']/parent::*</value>
+      <webElementGuid>b2c61edd-fe29-4abb-85e0-e2ea69746b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-cell[14]/button</value>
+      <webElementGuid>00a15d4b-bdbe-4ca2-9842-3ccbff3bb409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' View ' or . = ' View ')]</value>
+      <webElementGuid>bc41b873-93d8-490e-96fa-6b7b863ba528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
@@ -69,14 +125,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::button[1]</value>
-      <webElementGuid>bd33ac1c-eb50-4b5a-8cf0-4c8181b66f50</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PUT_USR_006'])[2]/preceding::button[2]</value>
       <webElementGuid>82a4454b-2bc9-47ff-9e11-170db0eccd52</webElementGuid>
    </webElementXpaths>
@@ -87,13 +135,5 @@
       <type>Main</type>
       <value>//mat-row[3]/mat-cell[14]/button</value>
       <webElementGuid>45238918-96ff-4b65-a799-7b655560c484</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = ' View ' or . = ' View ')]</value>
-      <webElementGuid>842fb22d-7695-4c43-9dc9-f9b714f301f8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

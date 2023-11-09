@@ -6,12 +6,12 @@
    <elementGuidId>168ddd01-8fa2-467e-9b88-73f0941c6cfb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-calendar[@id='mat-datepicker-1']/mat-calendar-header/div/div/div</value>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c113-1</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.mat-calendar-spacer</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[19]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,26 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>465d6145-ce52-4dd2-8212-8ce79ef62519</webElementGuid>
+      <webElementGuid>feff9105-b198-4fb5-b827-8014c069e652</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-calendar-spacer</value>
-      <webElementGuid>b5eaa3cd-56a3-412b-af93-3291752de5ad</webElementGuid>
+      <value>mat-form-field-infix ng-tns-c113-1</value>
+      <webElementGuid>408c7ee4-a07b-4923-9481-485dd264a21b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-datepicker-1&quot;)/mat-calendar-header[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-calendar-header&quot;]/div[@class=&quot;mat-calendar-controls&quot;]/div[@class=&quot;mat-calendar-spacer&quot;]</value>
-      <webElementGuid>2957deeb-773d-47e1-ab3c-044c1b156b63</webElementGuid>
+      <value>/html[1]/body[@class=&quot;regflow-panel&quot;]/app-root[1]/app-auth-flow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;auth-contents&quot;]/div[1]/main[1]/section[1]/app-common[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;signin-user&quot;]/div[1]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;right-panel-body&quot;]/div[@class=&quot;panel-right fixed p-r3 p-t7&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[1]/div[1]/div[@class=&quot;common-margin&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;common-signup&quot;]/div[3]/mat-form-field[@class=&quot;mat-form-field password ng-tns-c113-1 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-pristine ng-invalid mat-form-field-invalid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-1&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-1&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c113-1&quot;]</value>
+      <webElementGuid>9359a01d-f347-4be6-bcb7-bb51012b1636</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[19]</value>
+      <webElementGuid>2a08203b-c421-4615-a4fe-ed110d97e1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number is required'])[1]/preceding::div[2]</value>
+      <webElementGuid>aab129c2-3e7e-419d-975e-ae83ae81f731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div[4]</value>
+      <webElementGuid>9925ef62-1f83-483e-9916-3f33e51a5c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -167,29 +191,5 @@
       <type>Main</type>
       <value>//div[5]/div[2]/mat-form-field/div/div/div[3]/mat-select/div/div[2]/div</value>
       <webElementGuid>b9282d15-0dd5-4846-b0bb-95a62acc412a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[19]</value>
-      <webElementGuid>e83d7e5b-ee9b-4f76-8a94-5935bac64ee5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number is required'])[1]/preceding::div[2]</value>
-      <webElementGuid>eb5e3d93-374f-44e3-a053-331268f309af</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//mat-form-field/div/div/div[4]</value>
-      <webElementGuid>b25fca10-700e-4fd5-8040-2af7a73e4a05</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

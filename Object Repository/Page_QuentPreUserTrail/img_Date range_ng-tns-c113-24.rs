@@ -6,12 +6,12 @@
    <elementGuidId>172f7e59-6409-40da-8b91-1bdffa958ffa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[3]/div[2]/mat-form-field/div/div/div[3]/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.date-picker.ng-tns-c113-8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[2]/mat-form-field/div/div/div[3]/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>3867ade4-ac29-4902-a73e-7008afd3bdae</webElementGuid>
+      <webElementGuid>30f973a2-2c03-44e5-9f11-842d45b621e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/svg/calendar.svg</value>
-      <webElementGuid>99d7a537-fc19-45f6-8402-f9d2c6a28b8f</webElementGuid>
+      <webElementGuid>2ec21ef4-094c-43ec-b5a9-c391b12a4fc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>date-picker ng-tns-c113-8</value>
-      <webElementGuid>e4c55801-2949-42d8-8764-18dd7cf57e30</webElementGuid>
+      <webElementGuid>dbe76d4b-ecf4-4a34-966d-b583af917201</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/fieldset[1]/div[1]/form[@class=&quot;filter-form ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[1]/div[@class=&quot;search-component searchfilter searchdate&quot;]/div[2]/mat-form-field[@class=&quot;mat-form-field to-date ng-tns-c113-8 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-8&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-8&quot;]/div[@class=&quot;mat-form-field-prefix ng-tns-c113-8 ng-star-inserted&quot;]/img[@class=&quot;date-picker ng-tns-c113-8&quot;]</value>
-      <webElementGuid>351cda24-810b-4974-9de4-0bcab6044663</webElementGuid>
+      <webElementGuid>0b70e055-b5a9-4ad1-b2ec-16b02a92ed3c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/mat-form-field/div/div/div[3]/img</value>
-      <webElementGuid>6a60a0a1-bb05-4d44-903b-a071918e82da</webElementGuid>
+      <webElementGuid>8a022fab-5485-479a-809c-71af6e36f6e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/calendar.svg']</value>
-      <webElementGuid>9163dea1-240c-418a-8f18-bb9efaab5220</webElementGuid>
+      <webElementGuid>62295955-2573-475e-b2e6-d1f55c2cbee9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
