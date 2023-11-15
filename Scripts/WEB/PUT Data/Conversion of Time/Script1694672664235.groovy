@@ -21,19 +21,41 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
-WebUI.maximizeWindow()
-
 WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/div_1'))
 
 WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/span_91'))
 
 WebUI.setText(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/input__login-phonenumber'), '8217603935')
 
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/div__mat-form-field-infix ng-tns-c113-3'))
+
 WebUI.setEncryptedText(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/input__login-password'), 
     'cvW8qx4B2o3F4VwP/kNsqA==')
 
 WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/button_Login'))
 
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/div_Start Date'))
+
+//WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/img_Date range_ng-tns-c113-24'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/div_6'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/button_Search'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/button_24 hour'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/button_12 hour'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/button_24 hour'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/button_12 hour'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/button_24 hour'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/button_12 hour'))
+
 WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/span_24 hour'))
 
 WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/span_12 hour'))
@@ -42,9 +64,11 @@ WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUs
 
 WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/span_12 hour'))
 
-WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/button_Clear'))
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/span_24 hour'))
 
-WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/img'))
+WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/span_12 hour'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/img'))
 
 WebUI.click(findTestObject('Object Repository/Conversion of date/Page_QuentPreUserTrail/div_Logout'))
 

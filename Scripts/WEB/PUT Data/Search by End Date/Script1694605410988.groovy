@@ -32,6 +32,16 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Search by End date/Page
 
 WebUI.click(findTestObject('Object Repository/Search by End date/Page_QuentPreUserTrail/button_Login'))
 
+WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/div_Start Date'))
+
+//WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/div_Start Date_mat-form-field-prefix ng-tns_8d8d4b'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/div_6'))
+
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Search by End date/Page_QuentPreUserTrail/div_End Date'))
 
 WebUI.delay(5)

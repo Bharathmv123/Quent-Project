@@ -21,24 +21,32 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
-WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/div__mat-select-arrow ng-tns-c121-2'))
+WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/div_1'))
 
 WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/span_91'))
 
 WebUI.setText(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/input__login-phonenumber'), '8217603935')
 
-WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/div__mat-form-field-infix ng-tns-c113-3'))
-
 WebUI.setEncryptedText(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/input__login-password'), 
     'cvW8qx4B2o3F4VwP/kNsqA==')
 
-WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/span_Login'))
+WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/button_Login'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/div_Start Date'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/div_6'))
+
+WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/button_search'))
 
 WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/div_--Select--'))
 
 WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/div_EKG'))
 
-WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/mat-icon_search'))
+WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/button_search'))
 
 WebUI.click(findTestObject('Object Repository/View Vital Reading/Page_QuentPreUserTrail/button_View'))
 

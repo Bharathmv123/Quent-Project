@@ -21,9 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
-WebUI.maximizeWindow()
-
-WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/img'))
+WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/div_1'))
 
 WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/span_91'))
 
@@ -33,7 +31,19 @@ WebUI.setText(findTestObject('Object Repository/Conversion of Height/Page_QuentP
 WebUI.setEncryptedText(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/input__login-password'), 
     'cvW8qx4B2o3F4VwP/kNsqA==')
 
-WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/button_Login'))
+WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/span_Login'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/div_Start Date'))
+
+//WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/img_Start Date_date-picker ng-tns-c113-7'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/td_6'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/button_search'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/mat-header-cell_Height  CM'))
 
 WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/span_CM'))
 
@@ -47,7 +57,7 @@ WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPre
 
 WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/span_Feet'))
 
-WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/img_1'))
+WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/img'))
 
 WebUI.click(findTestObject('Object Repository/Conversion of Height/Page_QuentPreUserTrail/div_Logout'))
 

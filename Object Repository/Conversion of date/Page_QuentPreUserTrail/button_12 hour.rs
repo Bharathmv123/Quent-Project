@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_12 hour</name>
+   <tag></tag>
+   <elementGuidId>46dc8ae6-ff23-45cf-b9d0-22b703ef2be0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital Reading'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.vitalunit.p-r1.mat-flat-button.mat-button-base.mat-accent.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95f4bd9e-f8b6-4d5d-b02b-9e872022a40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>0462cad6-9324-4d55-8d7b-e99b4111cabd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-tooltip-trigger vitalunit p-r1 mat-flat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>1c361443-1b59-4eb0-9d7c-c81466502e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-57</value>
+      <webElementGuid>7ee24117-0a8d-4cd1-8468-38bc178d9011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>12 hour</value>
+      <webElementGuid>57ea4af8-928e-43b9-befb-b33a5b0fec4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;usertrail-table&quot;]/mat-table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/mat-header-row[@class=&quot;mat-header-row cdk-header-row ng-star-inserted mat-table-sticky mat-table-sticky-border-elem-top&quot;]/mat-header-cell[@class=&quot;mat-header-cell cdk-header-cell cdk-column-recordedDateTime mat-column-recordedDateTime width-180 ng-star-inserted&quot;]/div[1]/div[@class=&quot;column-title ng-untouched ng-pristine ng-valid&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger vitalunit p-r1 mat-flat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>c9f90f69-6cff-42e0-a37b-2852bf346ba3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital Reading'])[1]/following::button[1]</value>
+      <webElementGuid>11b3dce3-a7bb-4462-99af-f0c6b76a1b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUT_USR_0010'])[1]/preceding::button[2]</value>
+      <webElementGuid>5b691865-282e-4974-845a-679b98a4c2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-header-cell[15]/div/div/button</value>
+      <webElementGuid>90104c0e-039d-4932-937c-31106c3fecc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '12 hour' or . = '12 hour')]</value>
+      <webElementGuid>4b83698d-2ac7-4826-ac7b-48511c1809cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

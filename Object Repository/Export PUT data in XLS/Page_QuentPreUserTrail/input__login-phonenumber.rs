@@ -6,12 +6,12 @@
    <elementGuidId>0f79ed1d-29cd-496c-8f50-819f2ed51e5d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#login-phonenumber</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='login-phonenumber']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#login-phonenumber</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c653d81b-a156-446c-93d9-f5fbfd075495</webElementGuid>
+      <webElementGuid>0e80751a-0dae-4ff4-a755-5ea7e3ef49b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>dfdde593-b1ce-468e-9dcc-10621ac973d1</webElementGuid>
+      <webElementGuid>558fe049-9a75-4cd0-86cd-ae8cc1e2d7cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login-phonenumber</value>
-      <webElementGuid>177a8c0d-cf5c-448d-9303-d93816a02a5e</webElementGuid>
+      <webElementGuid>a1175097-af6d-4d34-9b4a-dfb0ec2ec546</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>5d41967e-b2db-44e5-9441-e3ba4b13cf4e</webElementGuid>
+      <webElementGuid>2f00941d-3f5a-4333-9429-fd2659ec8d9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>1c58fd7e-cb09-40dc-9b1d-1399e63336da</webElementGuid>
+      <webElementGuid>4cd22267-57ae-4ede-a8d7-4451d5340df2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>minlength</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>0fbb89d1-967d-4d3b-a5db-1ea91d9701e0</webElementGuid>
+      <webElementGuid>63232d1d-49b9-4d96-a0a2-1d90c9d3810c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-input-element mat-form-field-autofill-control p-b5 ng-pristine ng-invalid cdk-text-field-autofill-monitored ng-touched</value>
-      <webElementGuid>9d243c06-04ca-49c8-9377-0592d2489477</webElementGuid>
+      <webElementGuid>e1f5f29e-dbcb-4d04-99a5-eb9435226d36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9a849a44-a39f-4dbc-8683-85b251d80a36</webElementGuid>
+      <webElementGuid>e0bd896a-5957-4cae-bca8-027abd52053c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ea0b706e-68de-4f96-b62b-dd69170bf7f2</webElementGuid>
+      <webElementGuid>5ab4dd82-31cf-45ab-a7b9-e0a01ebc8132</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>mat-error-0</value>
-      <webElementGuid>a67bdf22-6211-49e2-a0c8-d09be9fce203</webElementGuid>
+      <webElementGuid>8f91db4f-51fc-4353-abb7-6f5412e9707c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-phonenumber&quot;)</value>
-      <webElementGuid>d8de4471-ad3f-4aab-8d56-3c2e4c83d3b4</webElementGuid>
+      <webElementGuid>d02ddfac-74f9-4eb3-ac80-d68f3162745c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='login-phonenumber']</value>
-      <webElementGuid>64e821d1-bb97-4e9e-a40a-ecf0f08f993b</webElementGuid>
+      <webElementGuid>c5fee408-2697-4081-95ad-07c5e72e34da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>63990e05-5d39-49e6-ba72-1d75ea365686</webElementGuid>
+      <webElementGuid>10f3ca3c-4f62-47f7-84ea-8e69801efce5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'login-phonenumber']</value>
-      <webElementGuid>ba9c2c1d-de0e-42b0-8aad-fd74f6def161</webElementGuid>
+      <webElementGuid>c7a3da0f-668a-41bd-b956-b127125959ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

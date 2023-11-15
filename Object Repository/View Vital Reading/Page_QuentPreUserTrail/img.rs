@@ -6,12 +6,12 @@
    <elementGuidId>71598bd4-816d-4e94-ae28-2280f27ac6f6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#close > img</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='close']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#close > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>41b3f510-ecfc-4ecb-b157-636adca66880</webElementGuid>
+      <webElementGuid>aaa2e737-5ca6-4885-be2c-f0a0ca0db830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/svg/close.svg</value>
-      <webElementGuid>f3f5bba3-ca43-4539-b5b6-3f60e4e87fbf</webElementGuid>
+      <webElementGuid>5560d8b7-7202-42d5-8582-1572d95fe935</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;close&quot;)/img[1]</value>
-      <webElementGuid>72e3515f-b8dd-4ff8-942c-f7f2aa4af96e</webElementGuid>
+      <webElementGuid>21f3bc48-7a08-421c-984e-a44d2bceea19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='close']/img</value>
-      <webElementGuid>28742669-1357-4eae-9dff-7cfcb41d2e8e</webElementGuid>
+      <webElementGuid>b4bd47f8-651a-417c-b0f0-22caf997653a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/img</value>
-      <webElementGuid>5ea8b943-b59f-4b1c-8fc9-8c1c3fd65dd6</webElementGuid>
+      <webElementGuid>958791d0-9f8c-48ee-9824-2a25be6032f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/close.svg']</value>
-      <webElementGuid>8edfed69-908a-4462-a6e7-2b4d61f7cbe4</webElementGuid>
+      <webElementGuid>bc22c123-758e-49f2-b064-099ef0a71b03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

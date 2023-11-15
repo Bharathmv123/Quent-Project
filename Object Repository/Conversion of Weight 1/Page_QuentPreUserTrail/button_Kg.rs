@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Kg</name>
+   <tag></tag>
+   <elementGuidId>8949a723-9fc6-4e3f-8472-8cb872a97592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='CM'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.vitalunit.p-r1.mat-flat-button.mat-button-base.mat-accent.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>afc46752-23a8-4f03-8a86-8e3bbab5d135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>75bed3a9-e7d9-455f-911f-e8da8cae0f67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-tooltip-trigger vitalunit p-r1 mat-flat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>7e46d40a-9d32-4799-82a3-d2eb6c0f96a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-39</value>
+      <webElementGuid>96c60cdc-363b-44e9-a949-a97b2aa373ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kg</value>
+      <webElementGuid>4d1e59f6-003f-4eec-adfd-3b82c6e777dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;usertrail-table&quot;]/mat-table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/mat-header-row[@class=&quot;mat-header-row cdk-header-row ng-star-inserted mat-table-sticky mat-table-sticky-border-elem-top&quot;]/mat-header-cell[@class=&quot;mat-header-cell cdk-header-cell cdk-column-weight mat-column-weight ng-star-inserted&quot;]/div[1]/div[@class=&quot;column-title ng-untouched ng-pristine ng-valid&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger vitalunit p-r1 mat-flat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>bce31786-6051-48a5-aba1-f1bf53b4a5fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CM'])[1]/following::button[1]</value>
+      <webElementGuid>051d2388-feef-4233-984c-8b17a091b6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blood Group'])[2]/preceding::button[1]</value>
+      <webElementGuid>406f35e1-257d-4a45-b8c0-ef537d552d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-header-cell[8]/div/div/button</value>
+      <webElementGuid>3b7d5bdc-81a4-49a5-9c3a-98221b53e847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Kg' or . = 'Kg')]</value>
+      <webElementGuid>c951026b-b94b-44d6-adb2-32335fe6f41b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

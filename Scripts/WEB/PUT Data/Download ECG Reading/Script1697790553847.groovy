@@ -25,11 +25,15 @@ WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrai
 
 WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/span_91'))
 
-WebUI.setText(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/input__login-phonenumber'), '9022351287')
+WebUI.setText(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/input__login-phonenumber'), '8217603935')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/input__login-password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
 
 WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/img_Start Date_date-picker ng-tns-c113-7'))
+
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/div_6'))
 
 WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/div_--Select--_mat-select-arrow-wrapper ng-_228c2d'))
 
@@ -38,9 +42,12 @@ WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrai
 WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/button_search'))
 
 WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/button_Download'))
+
 WebUI.delay(10)
 
-WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/img'))
+WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/button_Staging Environment for PUT_mat-focu_bbadd4'))
 
 WebUI.click(findTestObject('Object Repository/Download EKG/Page_QuentPreUserTrail/div_Logout'))
+
+WebUI.closeBrowser()
 

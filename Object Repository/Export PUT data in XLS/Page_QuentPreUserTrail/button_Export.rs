@@ -6,12 +6,12 @@
    <elementGuidId>41328c63-0757-47af-9c42-cc4a1421c985</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.mat-focus-indicator.mat-menu-trigger.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-menu-trigger.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>05568021-a435-4206-ba24-4092570f65e5</webElementGuid>
+      <webElementGuid>eaa8625a-b6b8-4795-931c-5e9012c9ebec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>43d1909c-6565-4301-8513-5380b2fcb33a</webElementGuid>
+      <webElementGuid>6c9e5522-99ae-4c36-b817-96adc5e00e73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-focus-indicator mat-menu-trigger mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>8c093d41-95d8-4354-8bd1-471706489977</webElementGuid>
+      <webElementGuid>b20f4da9-a0ab-4c14-8266-82f797ae2242</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Export</value>
-      <webElementGuid>cee6fadd-0198-42c1-bb7a-002e007395a4</webElementGuid>
+      <webElementGuid>df04744a-cea4-4518-9756-a65c742649aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[1]/div[@class=&quot;export-icon-container&quot;]/button[@class=&quot;mat-focus-indicator mat-menu-trigger mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>7eeea057-2761-49d8-a2d5-18aa4924688b</webElementGuid>
+      <webElementGuid>2df5f01c-9129-4eea-9eaa-9fd62cc45fee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::button[1]</value>
-      <webElementGuid>390cce4e-f872-430d-870e-db45108f22f1</webElementGuid>
+      <webElementGuid>b01eb9cb-c874-4bae-8b52-6facb33eb4a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PUT Data'])[2]/following::button[2]</value>
-      <webElementGuid>e549d00b-7a38-4af1-af79-82e016a4abb3</webElementGuid>
+      <webElementGuid>9a9b7439-6294-488c-868d-3286e3868e42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::button[1]</value>
-      <webElementGuid>e742b46c-692a-4ac7-ab07-9e3cfdc71f67</webElementGuid>
+      <webElementGuid>64a771bc-b9d4-4b9e-91fb-b4d22e283f6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>889dfbfe-6549-47c8-8798-16d5baa07079</webElementGuid>
+      <webElementGuid>de6d8f51-24ef-4693-aacc-cc2baf7f690f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Export' or . = 'Export')]</value>
-      <webElementGuid>db466cfc-eeb0-43e3-869d-cbfef0bdf335</webElementGuid>
+      <webElementGuid>f01e2316-4906-4f5b-8b0f-75216af485f2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

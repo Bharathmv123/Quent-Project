@@ -6,12 +6,12 @@
    <elementGuidId>25f85b46-58d2-401b-bf51-f3cf5c02ee41</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.ng-star-inserted > img</value>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/button/span/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,26 +22,42 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>55f813e0-68bc-4217-8313-5d9fbf347d78</webElementGuid>
+      <webElementGuid>01905047-d239-4677-9987-a2db5cf98dda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>./assets/icons/svg/usa.svg</value>
-      <webElementGuid>4bfe5fab-0481-430e-bd6c-0a566c19fa02</webElementGuid>
+      <value>./assets/icons/svg/profile-menu-bar.svg</value>
+      <webElementGuid>6062cb47-bd5d-4931-ab0a-3100ee51036d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-1 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-1 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/img[1]</value>
-      <webElementGuid>b18ee03a-e7be-4b82-99cb-44b164c406da</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/n2-platform-tool-bar[@class=&quot;tool-bar ng-star-inserted&quot;]/div[@class=&quot;physician-dashboard-toolbar&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;physician-userdetails&quot;]/div[@class=&quot;profile-menu&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/img[1]</value>
+      <webElementGuid>81bdc02a-a284-4f0c-9585-bd4b4fa80b34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button/span/img</value>
+      <webElementGuid>df85da79-4fff-4df2-b63a-db42f4eb53a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/icons/svg/profile-menu-bar.svg']</value>
+      <webElementGuid>537bc024-7bbd-4776-a932-bc61e04bb63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

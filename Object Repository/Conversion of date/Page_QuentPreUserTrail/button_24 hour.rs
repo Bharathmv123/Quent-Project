@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_24 hour</name>
+   <tag></tag>
+   <elementGuidId>3a1ba795-68f0-4aa3-91e6-98055e51cfba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital Reading'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.vitalunit.p-r1.mat-flat-button.mat-button-base.mat-accent.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>740556e1-7cdb-4600-99c2-e559225f7dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>cd5d5f02-e6ec-4da8-9d2b-8f3b4b2e1f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-tooltip-trigger vitalunit p-r1 mat-flat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>4308cb31-c097-4d4c-9374-50bf857c0636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-40</value>
+      <webElementGuid>2dbe2c12-67cd-4124-b838-86960fab8e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 24 hour</value>
+      <webElementGuid>916344c6-dc50-44a8-afdd-51bd4b1b9d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;usertrail-table&quot;]/mat-table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/mat-header-row[@class=&quot;mat-header-row cdk-header-row ng-star-inserted mat-table-sticky mat-table-sticky-border-elem-top&quot;]/mat-header-cell[@class=&quot;mat-header-cell cdk-header-cell cdk-column-recordedDateTime mat-column-recordedDateTime width-180 ng-star-inserted&quot;]/div[1]/div[@class=&quot;column-title ng-untouched ng-pristine ng-valid&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger vitalunit p-r1 mat-flat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>8b207550-f00b-482a-b143-09af757c12ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital Reading'])[1]/following::button[1]</value>
+      <webElementGuid>90887ad1-73c3-49e8-a428-e35dc55f3889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUT_USR_0010'])[1]/preceding::button[2]</value>
+      <webElementGuid>84c0c8e6-64ff-4ef5-a85b-0a0962b8b803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-header-cell[15]/div/div/button</value>
+      <webElementGuid>905aab21-af18-4967-8576-6e9ca29c1557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' 24 hour' or . = ' 24 hour')]</value>
+      <webElementGuid>63fb3781-87f1-4273-8f7a-4e30aee6a5e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[13]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>mat-select-trigger.ng-tns-c121-2.ng-star-inserted > div.ng-star-inserted</value>
+         <value>div.selectcountry.ng-tns-c113-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>104d0ace-fdd3-4173-b6b8-554da3af1464</webElementGuid>
+      <webElementGuid>9a6a56f0-9a69-4d65-ac8f-187260272cd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-star-inserted</value>
-      <webElementGuid>040c5c04-0343-42fc-a099-72e85747d93a</webElementGuid>
+      <value>selectcountry ng-tns-c113-1</value>
+      <webElementGuid>2d087c23-16ee-4686-ad47-d58e7100e79d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,18 +38,50 @@
       <name>text</name>
       <type>Main</type>
       <value> +1 </value>
-      <webElementGuid>3511334d-1377-43eb-aa73-e4408909a055</webElementGuid>
+      <webElementGuid>a057ef88-b58f-47d0-8af3-947794241b9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-2 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-2 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]</value>
-      <webElementGuid>f0b0149a-dce1-4436-b4fe-b168f1371bd7</webElementGuid>
+      <value>/html[1]/body[@class=&quot;regflow-panel&quot;]/app-root[1]/app-auth-flow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;auth-contents&quot;]/div[1]/main[1]/section[1]/app-common[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;signin-user&quot;]/div[1]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;right-panel-body&quot;]/div[@class=&quot;panel-right fixed p-r3 p-t7&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[1]/div[1]/div[@class=&quot;common-margin&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;common-signup&quot;]/div[3]/mat-form-field[@class=&quot;mat-form-field password ng-tns-c113-1 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-1&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-1&quot;]/div[@class=&quot;mat-form-field-prefix ng-tns-c113-1 ng-star-inserted&quot;]/div[@class=&quot;selectcountry ng-tns-c113-1&quot;]</value>
+      <webElementGuid>a7e28e84-96bf-4510-a6fe-184ffc3fc55d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[13]</value>
+      <webElementGuid>b214a4eb-d54f-40c4-8cbe-c594aed0b9a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[11]</value>
+      <webElementGuid>89e718e0-1fbc-4f83-8048-67868cb7be6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div</value>
+      <webElementGuid>d945df95-8c34-4e47-b5e8-af9f9d9fcb95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' +1 ' or . = ' +1 ')]</value>
+      <webElementGuid>f0fcd906-481e-41d6-949e-14617b6939e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -87,13 +119,5 @@
       <type>Main</type>
       <value>//mat-select-trigger/div</value>
       <webElementGuid>e95be552-1607-4b42-ba82-f52cba2a095d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = ' +1 ' or . = ' +1 ')]</value>
-      <webElementGuid>3e1d746a-c414-47d8-ac74-174d5b723085</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>e407d8cc-f9d4-4a92-9466-c319ffd83de3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.mat-focus-indicator.go-btn.height35px.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.go-btn.height35px.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4cc4cf77-d68f-4591-8358-00ec09aff06d</webElementGuid>
+      <webElementGuid>f63fada9-7748-4ae9-91b8-0426f94e457f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>6d9949c7-4e0d-4c8f-b318-e7af9cabf9d7</webElementGuid>
+      <webElementGuid>b9270d4f-db96-40bd-a970-300ee1c9e65b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-focus-indicator go-btn height35px mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>0a8300e4-8c64-487a-91b7-0dd6ca0191d9</webElementGuid>
+      <webElementGuid>9ca60fde-e3d6-4f72-9348-97e159091356</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>text</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>4337cdfa-e207-4304-964d-344e4876011c</webElementGuid>
+      <webElementGuid>6108a6c0-bc4f-44c6-bd39-9db99c8394c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/fieldset[1]/div[1]/form[@class=&quot;filter-form ng-valid ng-touched ng-dirty&quot;]/div[1]/div[@class=&quot;clear-btn&quot;]/button[@class=&quot;mat-focus-indicator go-btn height35px mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>10d8f6c9-bd5b-4d14-bba1-93fecf7f5950</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/fieldset[1]/div[1]/form[@class=&quot;filter-form ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[2]/div[@class=&quot;clear-btn&quot;]/button[@class=&quot;mat-focus-indicator go-btn height35px mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>ea8114b1-9b96-4043-9e1e-b711df41df65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,63 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>1ff59138-8ada-41f3-8b55-9906b745aa31</webElementGuid>
+      <webElementGuid>51d42464-d340-4fe7-b41b-333827ce27bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Select--'])[5]/following::button[1]</value>
+      <webElementGuid>f1be50d3-71b6-4a08-ac52-2120c3196cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital type'])[1]/following::button[1]</value>
+      <webElementGuid>f75b286d-0898-4581-8beb-7f6d72e9c498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found'])[1]/preceding::button[2]</value>
+      <webElementGuid>6981ec7b-a181-4105-be17-05676c78f31d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EKG Analysis'])[1]/preceding::button[2]</value>
+      <webElementGuid>601cec03-7dcb-4a92-8523-27d0e6add4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>1ecdc8d8-4221-4643-b0f2-07cefbef5746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'search' or . = 'search')]</value>
+      <webElementGuid>7bc0bcb7-cd52-4d9f-b7ee-9e49cc8b604e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EKG'])[1]/following::button[1]</value>
+      <webElementGuid>815a59ba-1606-44aa-b557-31fa49db9aa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,14 +127,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ECG'])[1]/following::button[1]</value>
       <webElementGuid>ce2b4982-b268-4b1b-a588-f25187cf6085</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital type'])[1]/following::button[1]</value>
-      <webElementGuid>1da700a2-be88-4d3e-8e07-7dd18da10849</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,13 +151,5 @@
       <type>Main</type>
       <value>//div[9]/button</value>
       <webElementGuid>f3da0adf-a485-42c4-952a-99bf762c8486</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'search' or . = 'search')]</value>
-      <webElementGuid>85313865-368d-40ad-bbf3-4d54e012ac92</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

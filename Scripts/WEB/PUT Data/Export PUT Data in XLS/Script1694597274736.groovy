@@ -21,9 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
-WebUI.maximizeWindow()
-
-WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/img'))
+WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/div_1'))
 
 WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/span_91'))
 
@@ -35,11 +33,23 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Export PUT data in XLS/
 
 WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/button_Login'))
 
+WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/div_Start Date'))
+
+//WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/div_Start Date_mat-form-field-prefix ng-tns_8d8d4b'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/div_6'))
+
+WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/button_search'))
+
 WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/button_Export'))
 
 WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/button_XLS'))
 
-WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/img_1'))
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/img'))
 
 WebUI.click(findTestObject('Object Repository/Export PUT data in XLS/Page_QuentPreUserTrail/div_Logout'))
 

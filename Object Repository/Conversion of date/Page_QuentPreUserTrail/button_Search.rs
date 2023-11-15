@@ -6,12 +6,12 @@
    <elementGuidId>97c8f8a6-3f41-4dbf-94b3-ad81a00fa926</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.mat-focus-indicator.go-btn.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.go-btn.height35px.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d7370dd5-ca6a-4003-b238-76670f91028c</webElementGuid>
+      <webElementGuid>e887bbf0-4424-4dba-9215-50069f10149a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,31 +30,31 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a6bc77fa-7b67-4b7c-a55f-2ec1f45d5410</webElementGuid>
+      <webElementGuid>5c6b7f75-1f30-4c5d-a7a4-56dcfeada5df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-focus-indicator go-btn mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>65291e3d-c26d-40dd-b72c-85b766b97844</webElementGuid>
+      <value>mat-focus-indicator go-btn height35px mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>cad89d65-9a89-4986-9025-a2985aed70b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Search </value>
-      <webElementGuid>022c5974-7cd4-4d2d-9359-b86884472f1f</webElementGuid>
+      <value>search</value>
+      <webElementGuid>595b880e-4eec-44c7-925d-027026ee8b1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/form[@class=&quot;filter-form ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[4]/button[@class=&quot;mat-focus-indicator go-btn mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>bc6c9467-2d0b-4878-91e0-d227040889ae</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/fieldset[1]/div[1]/form[@class=&quot;filter-form ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[2]/div[@class=&quot;clear-btn&quot;]/button[@class=&quot;mat-focus-indicator go-btn height35px mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>78f521cd-ccaa-43d9-adb2-5b14a5231d34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,55 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>fa211edc-609f-4648-acda-f493dd257605</webElementGuid>
+      <webElementGuid>0d4c06b8-18f0-4bd0-8e1b-c84a30eb397c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Select--'])[5]/following::button[1]</value>
+      <webElementGuid>54686a2c-528c-441f-80c4-4d89cac60ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital type'])[1]/following::button[1]</value>
+      <webElementGuid>d7d337bf-e44f-43a1-ba7f-0a91002b00a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found'])[1]/preceding::button[2]</value>
+      <webElementGuid>36b09db8-7305-49b2-980e-596b0f7962c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EKG Analysis'])[1]/preceding::button[2]</value>
+      <webElementGuid>9e5d4037-f28d-4635-8719-a952f0d9d08b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>288217a8-05b4-4f61-bd99-c44050fedf9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'search' or . = 'search')]</value>
+      <webElementGuid>dd28a79d-8b42-424a-86af-83054d8d7c50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

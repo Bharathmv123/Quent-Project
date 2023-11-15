@@ -6,12 +6,12 @@
    <elementGuidId>150b7394-08b9-4753-bc2b-b39d6768b85f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.cell-button.ecg-button.ng-star-inserted</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='EKG'])[2]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.cell-button.ecg-button.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cf0a47d4-7230-494d-a5a0-39c4fa187867</webElementGuid>
+      <webElementGuid>c2f6e00c-c8f1-483d-a8b7-13565864111c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cell-button ecg-button ng-star-inserted</value>
-      <webElementGuid>915a5a5e-d8e8-42d3-bf1b-90053a5498f1</webElementGuid>
+      <webElementGuid>750a9f59-cc8d-4778-8a4a-46f14dc26bd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> View </value>
-      <webElementGuid>d9ca1c64-29c5-4d63-986d-652968603d35</webElementGuid>
+      <webElementGuid>14c9109b-29aa-43d3-8ef9-f18b9a0c1049</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;usertrail-table&quot;]/mat-table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/mat-row[@class=&quot;mat-row cdk-row nodata-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-vitalReading mat-column-vitalReading ng-star-inserted&quot;]/button[@class=&quot;cell-button ecg-button ng-star-inserted&quot;]</value>
-      <webElementGuid>22f94ec5-dec4-4f0d-b01f-e2501f3f446f</webElementGuid>
+      <webElementGuid>c6b5f083-9b84-45a4-bb68-c8558e2424cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EKG'])[2]/following::button[1]</value>
-      <webElementGuid>d799dc55-5f99-4f0e-839f-89f98cea60f0</webElementGuid>
+      <webElementGuid>5976919b-92b7-4061-871c-f2a62bbf3df9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ED:11:24:48:C7:A1'])[1]/following::button[1]</value>
-      <webElementGuid>02693772-47a8-4307-84ae-481b139d2832</webElementGuid>
+      <webElementGuid>93a1f9c0-47bd-4e2c-b4db-7e41fb2635df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::button[1]</value>
-      <webElementGuid>f3275c05-67e5-405d-8569-ca8ce880a3d6</webElementGuid>
+      <webElementGuid>0d5bdbb7-b08c-4c42-b36e-1c46fd855321</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 of 1 items'])[1]/preceding::button[2]</value>
-      <webElementGuid>e3daed55-9d09-41e9-9fd4-3f1b9abcfe34</webElementGuid>
+      <webElementGuid>6986065f-7db4-4eb8-a397-0fd0ee61b996</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='View']/parent::*</value>
-      <webElementGuid>b2c61edd-fe29-4abb-85e0-e2ea69746b36</webElementGuid>
+      <webElementGuid>1d976459-cf22-4cfa-bc09-0aacbccc42f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-cell[14]/button</value>
-      <webElementGuid>00a15d4b-bdbe-4ca2-9842-3ccbff3bb409</webElementGuid>
+      <webElementGuid>33738c84-28f7-46af-8ca5-e8f9a492e315</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' View ' or . = ' View ')]</value>
-      <webElementGuid>bc41b873-93d8-490e-96fa-6b7b863ba528</webElementGuid>
+      <webElementGuid>95cdc389-6e8d-4cd6-a06c-f895291c7ecd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_--Select--</name>
+   <tag></tag>
+   <elementGuidId>632d41dd-2a57-4b87-8484-eb3ae31d10e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='mat-select-10']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-trigger.ng-tns-c121-18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc2f056d-fea0-4324-b351-9fdb85ee6245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-trigger ng-tns-c121-18</value>
+      <webElementGuid>6797311c-3ea1-4838-9275-d2ad6162b23f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Select--</value>
+      <webElementGuid>687a24d7-b28d-4f4a-9bbe-144a2a33b3e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-10&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c121-18&quot;]</value>
+      <webElementGuid>71a33da8-290e-4ef9-8d5e-bb5df4372bb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-10']/div</value>
+      <webElementGuid>e555278a-4ebb-4f35-b5d7-531c3807483c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital type'])[1]/following::div[13]</value>
+      <webElementGuid>a06650bb-4839-4147-a6c7-a72ed2f952bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Select--'])[4]/following::div[20]</value>
+      <webElementGuid>86472766-6578-4f9f-aaa5-23b662685309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent Id'])[1]/preceding::div[9]</value>
+      <webElementGuid>f63aaf96-941c-44d3-9af0-17a5a2e71492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/mat-form-field/div/div/div[3]/mat-select/div</value>
+      <webElementGuid>672885d5-6312-40a8-a2c7-fb02b3bf16aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '--Select--' or . = '--Select--')]</value>
+      <webElementGuid>5508a768-37a6-435f-9cb5-f8e2329ff202</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

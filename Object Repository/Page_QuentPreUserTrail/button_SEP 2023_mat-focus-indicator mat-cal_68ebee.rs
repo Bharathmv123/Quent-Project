@@ -6,12 +6,12 @@
    <elementGuidId>92cab452-673b-44a3-998e-6235171b3732</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.mat-focus-indicator.mat-calendar-previous-button.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Staging Environment for PUT'])[1]/following::button[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>144b5cd9-3d4e-4327-b5d7-be785edbb12b</webElementGuid>
+      <webElementGuid>79d54372-ea55-4ae7-9852-85a27d385b04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,8 +37,8 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-focus-indicator mat-calendar-previous-button mat-icon-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>80d47304-2323-4f92-ba0b-6a3c16057849</webElementGuid>
+      <value>mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>62164bcd-e02f-424f-903f-a10c5dbe35b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,15 +49,47 @@
       <webElementGuid>723428e3-a6ba-4f51-82cd-ef0c3350de32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-datepicker-1&quot;)/mat-calendar-header[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-calendar-header&quot;]/div[@class=&quot;mat-calendar-controls&quot;]/button[@class=&quot;mat-focus-indicator mat-calendar-previous-button mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>a9b58293-a23a-4d1d-8109-9e3a9f8e7b00</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/n2-platform-tool-bar[@class=&quot;tool-bar ng-star-inserted&quot;]/div[@class=&quot;physician-dashboard-toolbar&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;physician-userdetails&quot;]/div[@class=&quot;profile-menu&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>397494ff-1196-455d-8a30-8c415f329336</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staging Environment for PUT'])[1]/following::button[1]</value>
+      <webElementGuid>cae2e996-79bf-4386-a88e-a6a2c8deb54b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha S'])[1]/preceding::button[1]</value>
+      <webElementGuid>08d8232e-cae0-496c-aeab-e9a5ce38624f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUT Data'])[2]/preceding::button[8]</value>
+      <webElementGuid>2a1dd24d-1622-4e8d-85c0-8c64e0736599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button</value>
+      <webElementGuid>f4109373-9f87-4cce-b69e-d12d3c376aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

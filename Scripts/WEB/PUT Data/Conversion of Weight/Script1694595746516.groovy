@@ -21,9 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
-WebUI.maximizeWindow()
-
-WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/img'))
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/div_1'))
 
 WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/span_91'))
 
@@ -33,21 +31,33 @@ WebUI.setText(findTestObject('Object Repository/Conversion of Weight 1/Page_Quen
 WebUI.setEncryptedText(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/input__login-password'), 
     'cvW8qx4B2o3F4VwP/kNsqA==')
 
-WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/img__mat-tooltip-trigger ng-star-inserted'))
-
-WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/img__mat-tooltip-trigger ng-star-inserted_1'))
-
 WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/span_Kg'))
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/div_Start Date'))
 
-WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/span_lbs'))
+//WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/img_Start Date_date-picker ng-tns-c113-7'))
 
-WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/span_Kg'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/span_lbs'))
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/div_6'))
 
-WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/img_1'))
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/button_search'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/mat-header-cell_Weight  Kg'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/button_Kg'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/button_lbs'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/button_Kg'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/button_lbs'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/button_Kg'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/button_lbs'))
+
+WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/button_Staging Environment for PUT_mat-focu_bb4164'))
 
 WebUI.click(findTestObject('Object Repository/Conversion of Weight 1/Page_QuentPreUserTrail/div_Logout'))
 

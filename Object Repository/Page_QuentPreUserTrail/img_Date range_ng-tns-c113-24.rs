@@ -6,12 +6,12 @@
    <elementGuidId>172f7e59-6409-40da-8b91-1bdffa958ffa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.date-picker.ng-tns-c113-8</value>
+         <key>XPATH</key>
+         <value>//div[2]/mat-form-field/div/div/div[3]/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[3]/div[2]/mat-form-field/div/div/div[3]/img</value>
+         <key>CSS</key>
+         <value>img.date-picker.ng-tns-c113-7</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>30f973a2-2c03-44e5-9f11-842d45b621e1</webElementGuid>
+      <webElementGuid>2983dd21-e6ee-47e3-9489-24b2410c3223</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,31 +30,31 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/svg/calendar.svg</value>
-      <webElementGuid>2ec21ef4-094c-43ec-b5a9-c391b12a4fc9</webElementGuid>
+      <webElementGuid>564f8360-5c57-4b80-a17a-a663d83c0b71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>date-picker ng-tns-c113-8</value>
-      <webElementGuid>dbe76d4b-ecf4-4a34-966d-b583af917201</webElementGuid>
+      <value>date-picker ng-tns-c113-7</value>
+      <webElementGuid>8736b875-9c4d-4dcd-8cd0-4c1ac3f73536</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/fieldset[1]/div[1]/form[@class=&quot;filter-form ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[1]/div[@class=&quot;search-component searchfilter searchdate&quot;]/div[2]/mat-form-field[@class=&quot;mat-form-field to-date ng-tns-c113-8 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-8&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-8&quot;]/div[@class=&quot;mat-form-field-prefix ng-tns-c113-8 ng-star-inserted&quot;]/img[@class=&quot;date-picker ng-tns-c113-8&quot;]</value>
-      <webElementGuid>0b70e055-b5a9-4ad1-b2ec-16b02a92ed3c</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-usertrail[@class=&quot;ng-star-inserted&quot;]/app-usertraildataview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;filter-card&quot;]/fieldset[1]/div[1]/form[@class=&quot;filter-form ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[1]/div[@class=&quot;search-component searchfilter searchdate&quot;]/div[2]/mat-form-field[@class=&quot;mat-form-field from-date ng-tns-c113-7 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-7&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-7&quot;]/div[@class=&quot;mat-form-field-prefix ng-tns-c113-7 ng-star-inserted&quot;]/img[@class=&quot;date-picker ng-tns-c113-7&quot;]</value>
+      <webElementGuid>de789645-fc92-4716-b1db-b6a0de31ba6e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/mat-form-field/div/div/div[3]/img</value>
-      <webElementGuid>8a022fab-5485-479a-809c-71af6e36f6e1</webElementGuid>
+      <value>//div[2]/mat-form-field/div/div/div[3]/img</value>
+      <webElementGuid>dc3c5606-dc4b-4a32-bbf5-10342e6a4a70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/calendar.svg']</value>
-      <webElementGuid>62295955-2573-475e-b2e6-d1f55c2cbee9</webElementGuid>
+      <webElementGuid>f2acb2a3-8a37-4772-99c9-6d4a71091a22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/mat-form-field/div/div/div[3]/img</value>
-      <webElementGuid>a5b3d404-a085-4452-855c-9608d0675a7a</webElementGuid>
+      <value>//div[3]/div[2]/mat-form-field/div/div/div[3]/img</value>
+      <webElementGuid>8a022fab-5485-479a-809c-71af6e36f6e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
