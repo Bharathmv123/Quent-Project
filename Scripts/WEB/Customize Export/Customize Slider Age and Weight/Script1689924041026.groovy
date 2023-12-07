@@ -69,15 +69,15 @@ WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_Weight
 
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/mat-label_Date range'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img_Date range_ng-tns-c113-24'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img_End Date_date-picker ng-tns-c113-8'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_SEP 2023_mat-focus-indicator mat-cal_68ebee'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_SEP 2023_mat-focus-indicator mat-cal_68ebee'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
 
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_13'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img_Date range_ng-tns-c113-24'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img_End Date_date-picker ng-tns-c113-8'))
 
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_6'))
 

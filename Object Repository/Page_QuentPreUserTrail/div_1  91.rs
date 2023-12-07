@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_1</name>
+   <name>div_1  91</name>
    <tag></tag>
-   <elementGuidId>14b29d37-62c9-4b39-af63-3207e85d6bf2</elementGuidId>
+   <elementGuidId>e94a40d8-e2da-485e-88c1-03de6290d084</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div</value>
+         <value>//div[@id='cdk-overlay-1']/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>mat-select-trigger.ng-tns-c121-2.ng-star-inserted > div.ng-star-inserted</value>
+         <value>div.mat-select-panel-wrap.ng-tns-c121-2.ng-trigger.ng-trigger-transformPanelWrap.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,78 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>08b87458-4dd0-40d0-81a4-fb477878e863</webElementGuid>
+      <webElementGuid>1a4275b7-53b0-4750-99fa-d597a08d6753</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-star-inserted</value>
-      <webElementGuid>f21eeaae-bf23-45c4-9f24-57d61ba6dbea</webElementGuid>
+      <value>mat-select-panel-wrap ng-tns-c121-2 ng-trigger ng-trigger-transformPanelWrap ng-star-inserted</value>
+      <webElementGuid>c7ccc0a0-b6b2-489f-8a8c-a8a082c39961</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +1 </value>
-      <webElementGuid>ed0c085e-d989-440c-a708-faad5179f0ca</webElementGuid>
+      <value> +1  +91 </value>
+      <webElementGuid>be3a8c09-b4c0-47c2-9072-69a2a2e97c21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-2 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-2 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]</value>
-      <webElementGuid>eff7619b-3016-44ca-9bda-5682f7ae977f</webElementGuid>
+      <value>id(&quot;cdk-overlay-1&quot;)/div[@class=&quot;mat-select-panel-wrap ng-tns-c121-2 ng-trigger ng-trigger-transformPanelWrap ng-star-inserted&quot;]</value>
+      <webElementGuid>9230a07a-12d7-4974-8ec5-24d2c1727fc5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div</value>
-      <webElementGuid>0ac59783-0c79-49df-aa75-5b00fd8cbfe0</webElementGuid>
+      <value>//div[@id='cdk-overlay-1']/div</value>
+      <webElementGuid>fbbb27dd-02ca-4309-b980-26a1777c2d59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[16]</value>
-      <webElementGuid>3cbe8ba2-e0b3-406d-b6dc-ee4d421dc7a6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::div[10]</value>
+      <webElementGuid>efa5c1a9-8e8b-4a0d-a79e-0458443e2bd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[8]</value>
-      <webElementGuid>789d8a20-af55-4bfe-b89f-119021d16116</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[12]</value>
+      <webElementGuid>89bfb292-b065-416e-b651-a7151c6ea174</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='+1']/parent::*</value>
-      <webElementGuid>0c30e022-35ab-413e-b238-b88ca0fd0b33</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::div[4]</value>
+      <webElementGuid>1f50abd8-d118-4977-8571-12dd77e96e7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-select-trigger/div</value>
-      <webElementGuid>5f362b59-f560-4dd8-9de1-3b2b175f2e0e</webElementGuid>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>2d188464-b9e4-44b2-ad72-74a2656978dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = ' +1 ' or . = ' +1 ')]</value>
-      <webElementGuid>b9f63d60-7c84-44a1-872f-b639c096cdbf</webElementGuid>
+      <value>//div[(text() = ' +1  +91 ' or . = ' +1  +91 ')]</value>
+      <webElementGuid>884aaed8-9e69-4b68-9dc2-fa8be40210a5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

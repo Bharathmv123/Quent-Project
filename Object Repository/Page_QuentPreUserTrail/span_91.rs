@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>40900461-cdf8-47c5-aa48-16f69b0f3ab9</webElementGuid>
+      <webElementGuid>e10df5a7-e39d-4b12-8446-84f28aeb2eae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option-text</value>
-      <webElementGuid>79bf2322-1878-43b5-bfbe-24151ba0b05a</webElementGuid>
+      <webElementGuid>4c34a762-656f-4725-b250-5c326713699e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> +91 </value>
-      <webElementGuid>ecbb9e44-317d-4cdb-8df9-d115897f177e</webElementGuid>
+      <webElementGuid>005226c6-99bc-4915-8456-0b69ab9a87e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>feb599ad-2880-41cb-aa78-883ab63fa2f4</webElementGuid>
+      <webElementGuid>8d6e110b-5f07-404a-a3fc-439de5090efc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>7919358f-dd03-4028-8653-8312164e596f</webElementGuid>
+      <webElementGuid>917ed9cc-93e7-4fda-b2bf-d94f613d3095</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>0920474c-e8ea-491c-8ac0-d0d1b8d84509</webElementGuid>
+      <webElementGuid>035d6a65-e91d-4971-9360-bdad56d93e6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>0ae7679e-2495-4f1a-81b9-4a27b87911f9</webElementGuid>
+      <webElementGuid>f1ec541e-8fb2-4a33-8d56-7886c9dd68d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>d578630c-41d1-4980-8f37-a34e1df50b56</webElementGuid>
+      <webElementGuid>09f2df01-5fcc-4d01-8de1-9b1c819a780f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>2e0ddbbe-71ad-4c1b-8e17-48f3663473a9</webElementGuid>
+      <webElementGuid>767cdf16-ba7b-49e8-859a-c8e8eaadd39a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[2]/span</value>
-      <webElementGuid>0117707c-de15-4dac-8ff0-3396a73f1ecf</webElementGuid>
+      <webElementGuid>532c3c12-7ae8-4d53-ae42-a8cdd56d562a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>d54aa789-75c1-406a-b288-e7d1423cf4c2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::span[4]</value>
-      <webElementGuid>5b166773-9a73-4f9f-bbcf-0763453b6741</webElementGuid>
+      <webElementGuid>3dfa6065-1ef9-4699-a6e6-7baeaa3124b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
