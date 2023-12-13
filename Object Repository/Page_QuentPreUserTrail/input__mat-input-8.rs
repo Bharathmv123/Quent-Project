@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__login-password</name>
+   <name>input__mat-input-8</name>
    <tag></tag>
-   <elementGuidId>5605861a-0feb-46b2-8ea6-590e50e76f5d</elementGuidId>
+   <elementGuidId>07ddf454-c9e9-4a41-8457-6a4068a4b238</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='login-password']</value>
+         <value>//input[@id='mat-input-8']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#login-password</value>
+         <value>#mat-input-8</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,47 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4e00eda9-5eae-4d31-92b2-bd626b49bfa9</webElementGuid>
+      <webElementGuid>6ea63aa9-ad99-4d5c-a148-31d74e6853a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>formcontrolname</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>632596cf-d6db-4c43-a284-1be0865dac9e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>login-password</value>
-      <webElementGuid>b44f258b-8d7a-4e80-9571-3671d5e7e279</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>b61b4b01-0e68-4f12-a147-3b985d47677a</webElementGuid>
+      <value>manufacturerName</value>
+      <webElementGuid>e532bb37-0d0a-4390-8a79-5d7997f9c72d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-input-element mat-form-field-autofill-control ng-tns-c113-3 ng-untouched ng-pristine ng-invalid cdk-text-field-autofill-monitored</value>
-      <webElementGuid>aba4e06a-1002-47f0-abfe-15e9744c0c76</webElementGuid>
+      <value>mat-input-element mat-form-field-autofill-control ng-tns-c113-27 ng-untouched ng-pristine ng-invalid cdk-text-field-autofill-monitored</value>
+      <webElementGuid>16d452b1-e110-4d0b-a81c-4cfecd9227d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>3695a20e-b7b7-456a-bfd1-7f6594bcb9ae</webElementGuid>
+      <value>mat-input-8</value>
+      <webElementGuid>2696a43b-2398-4bc2-b6c6-91dd9d4286be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,46 +54,54 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>43ca22e7-b3f7-48d1-8b0b-602a574f12eb</webElementGuid>
+      <webElementGuid>4d884644-7b33-4dee-b6e0-eaf5c7785eb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-required</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>4e6b1233-2d41-4a1e-8908-b14a705eedca</webElementGuid>
+      <value>false</value>
+      <webElementGuid>cb7c850d-782e-4871-b8f0-c84813615f6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login-password&quot;)</value>
-      <webElementGuid>057f811c-ac0f-4886-bebd-24560c2a85da</webElementGuid>
+      <value>id(&quot;mat-input-8&quot;)</value>
+      <webElementGuid>d96d4e99-190d-4067-9780-ddcc532526d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='login-password']</value>
-      <webElementGuid>f1983cc0-7362-4ea6-b5de-634c96de9eb6</webElementGuid>
+      <value>//input[@id='mat-input-8']</value>
+      <webElementGuid>42f1f8a0-332e-4768-b1a4-caebc9a26307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div/fieldset[2]/div/div/mat-form-field/div/div/div[3]/input</value>
+      <webElementGuid>dd0f7903-57d9-40b1-9b1f-44a0af22fe9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
-      <webElementGuid>ceee52bd-0f67-4e1e-b558-4a5f3de8b40e</webElementGuid>
+      <value>//fieldset[2]/div/div/mat-form-field/div/div/div[3]/input</value>
+      <webElementGuid>ff47b5eb-ef09-45a9-a2f6-11c6d050eb46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'login-password' and @type = 'password']</value>
-      <webElementGuid>19d7a586-0452-4c0f-816b-d2552614f3ec</webElementGuid>
+      <value>//input[@id = 'mat-input-8']</value>
+      <webElementGuid>e0627e75-b796-4e33-9954-115ca348efa1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

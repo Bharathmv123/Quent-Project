@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__login-phonenumber</name>
+   <name>input__login-password</name>
    <tag></tag>
-   <elementGuidId>aae3f6e6-d6d7-42b7-98d2-6a493a4d8d5a</elementGuidId>
+   <elementGuidId>81280fe4-c456-4039-925f-c954d5613d42</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='login-phonenumber']</value>
+         <value>//input[@id='login-password']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#login-phonenumber</value>
+         <value>#login-password</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1963a56e-d38a-4ebf-9458-a190771b3edb</webElementGuid>
+      <webElementGuid>bb6fd7e1-a0be-4296-841b-f89b5ae465cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>formcontrolname</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>c94209a1-31e4-474c-baae-a94a2ddb4365</webElementGuid>
+      <value>password</value>
+      <webElementGuid>570fde62-0a4c-4e5f-a587-55ca3a9383e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>login-phonenumber</value>
-      <webElementGuid>da8227af-7aab-4f65-aee6-89babb67c400</webElementGuid>
+      <value>login-password</value>
+      <webElementGuid>2e1ddf11-54bd-4ee1-a96b-a95e9e0c4b57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,31 +46,23 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>6c1de773-2aa1-4965-81e3-a9e40f24f3ac</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>10</value>
-      <webElementGuid>ed6dfa09-d821-478e-80d9-a4ef8266719c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>minlength</name>
-      <type>Main</type>
-      <value>10</value>
-      <webElementGuid>aae2ce90-ad8a-4570-9b1d-4c1ab5c088cc</webElementGuid>
+      <webElementGuid>40891abd-af3b-41ee-9491-129acc3047f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-input-element mat-form-field-autofill-control p-b5 ng-pristine ng-invalid cdk-text-field-autofill-monitored ng-touched</value>
-      <webElementGuid>31cafd67-914d-4b05-9f89-8676076838ff</webElementGuid>
+      <value>mat-input-element mat-form-field-autofill-control ng-tns-c113-3 ng-untouched cdk-text-field-autofill-monitored ng-dirty ng-valid</value>
+      <webElementGuid>4dbd373d-41ba-4478-929a-fc5f9c29f665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>754e7359-7a8d-48c4-98e3-137c8070d6c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,54 +70,46 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8ab68313-341f-463c-915f-c0544c72ae11</webElementGuid>
+      <webElementGuid>950ebb96-a3d6-4461-aded-c661cae42b85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-required</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>b5961b05-ea95-4f01-83f3-ce0562cf4a08</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-describedby</name>
-      <type>Main</type>
-      <value>mat-error-0</value>
-      <webElementGuid>d307551a-fe60-4f31-8a69-77e6ac337464</webElementGuid>
+      <value>true</value>
+      <webElementGuid>31498960-89ca-479a-b941-5142dcad4546</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login-phonenumber&quot;)</value>
-      <webElementGuid>f7212159-1433-4403-88e5-37e571fc3121</webElementGuid>
+      <value>id(&quot;login-password&quot;)</value>
+      <webElementGuid>f9e1eb3d-d994-42b9-b271-9ca142652a85</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='login-phonenumber']</value>
-      <webElementGuid>90105217-3223-45b1-97e7-8ad00f78c4d4</webElementGuid>
+      <value>//input[@id='login-password']</value>
+      <webElementGuid>e6704fb3-f23a-4cef-b4b3-e5298c18ff63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>6e5c3888-c6c3-44a7-ac89-e859529da1e3</webElementGuid>
+      <value>//div[3]/input</value>
+      <webElementGuid>926eb283-efb1-4a77-bd68-25b5f6329d0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'login-phonenumber']</value>
-      <webElementGuid>ca017bd3-9254-4827-93e2-f6fe43c5ea76</webElementGuid>
+      <value>//input[@id = 'login-password' and @type = 'password']</value>
+      <webElementGuid>c6da04e4-b717-454e-b543-fe909aa1562a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

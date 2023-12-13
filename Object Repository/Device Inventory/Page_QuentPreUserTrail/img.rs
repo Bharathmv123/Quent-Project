@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_1</name>
+   <name>img</name>
    <tag></tag>
-   <elementGuidId>90f654f8-1d68-49b1-9010-d6b915c0760b</elementGuidId>
+   <elementGuidId>3e9c58e6-8a87-476c-b09f-d1c6288122eb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-dialog-container[@id='mat-dialog-0']/form/div/div[2]/img</value>
+         <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div:nth-of-type(2) > img</value>
+         <value>div.ng-star-inserted > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,46 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>23d6526c-81bd-466b-ad71-1c4a474245d9</webElementGuid>
+      <webElementGuid>0454b171-2a75-4841-9283-ff86f159d003</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>./assets/icons/svg/close-circle.svg</value>
-      <webElementGuid>b4d9f891-ba03-4cb2-8b00-06eb4304b6a0</webElementGuid>
+      <value>./assets/icons/svg/usa.svg</value>
+      <webElementGuid>123a51fc-1869-4e77-921d-01c42852cc23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;deviceform ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;panel-header&quot;]/div[2]/img[1]</value>
-      <webElementGuid>2d9d904e-1767-4f7d-bc40-0037b3b86f8c</webElementGuid>
+      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-value-text ng-tns-c121-2 ng-star-inserted&quot;]/mat-select-trigger[@class=&quot;ng-tns-c121-2 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/img[1]</value>
+      <webElementGuid>3a3e952f-0561-4625-a8ea-9a3d57c60ab2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-dialog-container[@id='mat-dialog-0']/form/div/div[2]/img</value>
-      <webElementGuid>e5fe3c54-3698-4b9c-9b93-98653aba70cc</webElementGuid>
+      <value>//div[@id='mat-select-value-1']/span/mat-select-trigger/div/img</value>
+      <webElementGuid>2d8f7df4-c21d-41c5-a170-5d80c20b80f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/img</value>
-      <webElementGuid>ee1abd43-aed7-4a71-9c09-5020289a0932</webElementGuid>
+      <value>//mat-select-trigger/div/img</value>
+      <webElementGuid>6711f311-d869-4265-9a10-e4d21e3a58a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = './assets/icons/svg/close-circle.svg']</value>
-      <webElementGuid>73d39c66-6803-44b6-b888-692e19f689f6</webElementGuid>
+      <value>//img[@src = './assets/icons/svg/usa.svg']</value>
+      <webElementGuid>3ca4b6e1-8fa0-46b1-b98f-4d730730f644</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

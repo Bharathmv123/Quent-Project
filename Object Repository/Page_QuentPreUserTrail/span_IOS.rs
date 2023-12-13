@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_1</name>
+   <name>span_IOS</name>
    <tag></tag>
-   <elementGuidId>14b29d37-62c9-4b39-af63-3207e85d6bf2</elementGuidId>
+   <elementGuidId>14ef61a0-ea87-4dff-ad5a-0c2faeaae10f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mat-select-value-1']</value>
+         <value>//mat-option[@id='mat-option-36']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#mat-select-value-1</value>
+         <value>#mat-option-36 > span.mat-option-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>208a4238-1a13-4afb-9b9a-e020aaf63227</webElementGuid>
+      <value>span</value>
+      <webElementGuid>730ecc09-ce65-4287-8ee3-e40c56394f1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-select-value ng-tns-c121-2</value>
-      <webElementGuid>16880ffd-0b49-4bab-9846-e18239e03a56</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>mat-select-value-1</value>
-      <webElementGuid>4a60b01e-9c7e-495c-b562-104c0b52002a</webElementGuid>
+      <value>mat-option-text</value>
+      <webElementGuid>62db3b0a-ac20-47ca-842a-5037fce84583</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +1 </value>
-      <webElementGuid>2c3ced9a-8c66-4b4c-8b63-c2599d308d52</webElementGuid>
+      <value>IOS</value>
+      <webElementGuid>70d455b5-d64d-4229-bfe3-6b646e28c6ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-select-value-1&quot;)</value>
-      <webElementGuid>b18731bd-7c06-4868-95a3-f8299bdf5557</webElementGuid>
+      <value>id(&quot;mat-option-36&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>90563e9b-8159-4b8f-a1ac-94ff022ee892</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//div[@id='mat-select-value-1']</value>
-      <webElementGuid>3cbc023d-05a8-4b27-8dc8-c10d9aaaa056</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-select[@id='logincountrycode']/div/div</value>
-      <webElementGuid>84805cf9-f8c4-4392-9eea-9efdf36f5d1e</webElementGuid>
+      <value>//mat-option[@id='mat-option-36']/span</value>
+      <webElementGuid>1e7afdd5-e19c-4ece-b9f1-dc16e6232163</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[15]</value>
-      <webElementGuid>1688876b-b225-42d3-8bed-2c40af386b0d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Select--'])[2]/following::span[1]</value>
+      <webElementGuid>ee2295cd-4b6f-4488-ba89-8d128759b154</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[9]</value>
-      <webElementGuid>65fb1fb3-7f39-4533-9e07-b2a84f877f3a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[4]</value>
+      <webElementGuid>fedb6409-e325-430d-bb5b-7cb7b057211a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Android'])[5]/preceding::span[1]</value>
+      <webElementGuid>950fcd2e-d3f3-4e3c-81b9-28c4697202b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diksha D'])[2]/preceding::span[2]</value>
+      <webElementGuid>6350b52c-b086-4c40-b538-67561d3670f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-select/div/div</value>
-      <webElementGuid>210f18a6-38f9-43f7-9339-66dfc9eb81b5</webElementGuid>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>ffff1808-67b2-4079-944a-152b308c8f0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'mat-select-value-1' and (text() = ' +1 ' or . = ' +1 ')]</value>
-      <webElementGuid>712750e7-ecfa-4fcd-bfea-08baa9bc9628</webElementGuid>
+      <value>//span[(text() = 'IOS' or . = 'IOS')]</value>
+      <webElementGuid>0e6a8f0c-a207-4695-b616-d9764178c1f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

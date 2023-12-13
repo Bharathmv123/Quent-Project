@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_1</name>
+   <name>img_1 (1)</name>
    <tag></tag>
-   <elementGuidId>90f654f8-1d68-49b1-9010-d6b915c0760b</elementGuidId>
+   <elementGuidId>7977cfea-8670-4d52-9d79-46ecc4dd259b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>23d6526c-81bd-466b-ad71-1c4a474245d9</webElementGuid>
+      <webElementGuid>8aea8fd9-7d23-4315-b69e-1361a2719614</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/svg/close-circle.svg</value>
-      <webElementGuid>b4d9f891-ba03-4cb2-8b00-06eb4304b6a0</webElementGuid>
+      <webElementGuid>9b9f1c9e-9141-47c3-909a-5fee08741ba0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;deviceform ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;panel-header&quot;]/div[2]/img[1]</value>
-      <webElementGuid>2d9d904e-1767-4f7d-bc40-0037b3b86f8c</webElementGuid>
+      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;deviceform ng-star-inserted ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;panel-header&quot;]/div[2]/img[1]</value>
+      <webElementGuid>55930f18-07d6-4418-ac85-d3addd1d15fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/form/div/div[2]/img</value>
-      <webElementGuid>e5fe3c54-3698-4b9c-9b93-98653aba70cc</webElementGuid>
+      <webElementGuid>94f75390-72b8-4c8b-a11f-05b6ea23bcf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/img</value>
-      <webElementGuid>ee1abd43-aed7-4a71-9c09-5020289a0932</webElementGuid>
+      <webElementGuid>42b50968-c12f-4801-9c7d-8664c3f2e9a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/svg/close-circle.svg']</value>
-      <webElementGuid>73d39c66-6803-44b6-b888-692e19f689f6</webElementGuid>
+      <webElementGuid>8e2d3444-a8a4-4a53-bd84-d2681670d8f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
