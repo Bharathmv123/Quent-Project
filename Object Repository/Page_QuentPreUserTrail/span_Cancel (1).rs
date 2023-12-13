@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_91</name>
+   <name>span_Cancel (1)</name>
    <tag></tag>
-   <elementGuidId>f5bd6426-824b-4560-b357-8f9974dca3c8</elementGuidId>
+   <elementGuidId>0ff9c647-3f13-41b8-bfc2-60a6c34f95e4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-1 > span.mat-option-text</value>
+         <value>button.mat-focus-indicator.mat-stroked-button.mat-button-base.cdk-focused.cdk-program-focused > span.mat-button-wrapper</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-1']/span</value>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/form/div[2]/div/button/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>88e1ce5a-a9f6-4133-a58a-3c1d29e9e17c</webElementGuid>
+      <webElementGuid>6d6b92fa-39f4-4002-9116-1ae8d4cd4c7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>373dfaeb-52ab-49ad-9f88-531099e753fc</webElementGuid>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>7a62588e-087c-42da-bb1c-ecf17be1443b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +91 </value>
-      <webElementGuid>aeee0191-bb82-4a84-a7bc-1b17f8fe1f56</webElementGuid>
+      <value> Cancel </value>
+      <webElementGuid>997af443-3bce-4aeb-8ad4-bc9bd614dd09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>1907a786-8391-4682-a00e-9e13f4d1034f</webElementGuid>
+      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;deviceform ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;save-btn&quot;]/div[1]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base cdk-focused cdk-program-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>40fcb137-e4b7-4af1-a8e9-de34b96fce47</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>88eb95cc-2a5b-4a4a-b394-c1fa17381559</webElementGuid>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/form/div[2]/div/button/span</value>
+      <webElementGuid>e985a69a-406f-4a74-9abd-26268d6cd8b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>1dc17b9e-8ca2-4662-aece-67adac6a2975</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::span[3]</value>
+      <webElementGuid>60a0c6c4-7af5-44c8-a036-5081a1582422</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>8d401ed5-4dda-4e6c-a10f-cd64de2657eb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[3]</value>
+      <webElementGuid>6cce4dd9-fe69-4a1e-9ef5-37fc4c0a36a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>07552331-ddd8-4081-a1ff-340189962603</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diksha D'])[2]/preceding::span[6]</value>
+      <webElementGuid>be1becb1-64c4-42ed-820a-152d83263751</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>d1fb7564-d3ad-4c40-a5af-4212cfeb7509</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>af4d003a-179e-449d-800d-3ba6f3c98f56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[2]/span</value>
-      <webElementGuid>a975a080-568e-4927-b2eb-21d5ea9e03aa</webElementGuid>
+      <value>//form/div[2]/div/button/span</value>
+      <webElementGuid>cb44b6d9-8590-4d95-9dd1-8f7ffeedb068</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>b84b5a26-34b4-43cc-94cd-f742094a021a</webElementGuid>
+      <value>//span[(text() = ' Cancel ' or . = ' Cancel ')]</value>
+      <webElementGuid>ca1d7773-bcd6-4acd-a372-7aefa05ffd95</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

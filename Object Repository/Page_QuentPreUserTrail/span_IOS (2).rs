@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_91</name>
+   <name>span_IOS (2)</name>
    <tag></tag>
-   <elementGuidId>f5bd6426-824b-4560-b357-8f9974dca3c8</elementGuidId>
+   <elementGuidId>4b3ce85e-9229-4509-9134-529d931167e4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-1 > span.mat-option-text</value>
+         <value>#mat-option-36 > span.mat-option-text</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-1']/span</value>
+         <value>//mat-option[@id='mat-option-36']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>88e1ce5a-a9f6-4133-a58a-3c1d29e9e17c</webElementGuid>
+      <webElementGuid>d12408ec-e606-43a7-98ff-6db11945f451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,63 +30,63 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option-text</value>
-      <webElementGuid>373dfaeb-52ab-49ad-9f88-531099e753fc</webElementGuid>
+      <webElementGuid>71214f4f-071c-42c2-903d-52f06f5ee79e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +91 </value>
-      <webElementGuid>aeee0191-bb82-4a84-a7bc-1b17f8fe1f56</webElementGuid>
+      <value>IOS</value>
+      <webElementGuid>3e9da93a-e30a-486a-958f-b5a2332d2223</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>1907a786-8391-4682-a00e-9e13f4d1034f</webElementGuid>
+      <value>id(&quot;mat-option-36&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>917567bc-03ef-4c0e-bfea-4491ca469df8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>88eb95cc-2a5b-4a4a-b394-c1fa17381559</webElementGuid>
+      <value>//mat-option[@id='mat-option-36']/span</value>
+      <webElementGuid>68ac9bd1-450f-4292-9533-319781c3c08f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>1dc17b9e-8ca2-4662-aece-67adac6a2975</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Select--'])[2]/following::span[1]</value>
+      <webElementGuid>3c5ebfef-70e8-4eac-a60e-a21131485971</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>8d401ed5-4dda-4e6c-a10f-cd64de2657eb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[4]</value>
+      <webElementGuid>280d17c1-a5cb-485e-a723-f147b51f9fec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>07552331-ddd8-4081-a1ff-340189962603</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Android'])[5]/preceding::span[1]</value>
+      <webElementGuid>80de5441-88c0-407c-ac3a-6907e519f04a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>d1fb7564-d3ad-4c40-a5af-4212cfeb7509</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diksha D'])[2]/preceding::span[2]</value>
+      <webElementGuid>3a2cda3d-b0cf-463e-9ea2-fe73896fff6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[2]/span</value>
-      <webElementGuid>a975a080-568e-4927-b2eb-21d5ea9e03aa</webElementGuid>
+      <webElementGuid>b5b1a094-537f-4b4c-bb27-55b8ae8f78cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>b84b5a26-34b4-43cc-94cd-f742094a021a</webElementGuid>
+      <value>//span[(text() = 'IOS' or . = 'IOS')]</value>
+      <webElementGuid>f7818296-0954-43b3-b9a8-854ef0fd8fda</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

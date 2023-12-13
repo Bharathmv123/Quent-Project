@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When user click on save button without entering any feilds the error message should be displayed for all the mandatory fields.</description>
+   <name>Without entering any fileds click on save button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d3cf0e0-e8bd-4843-a92d-3100377d0429</testCaseGuid>
+</TestCaseEntity>

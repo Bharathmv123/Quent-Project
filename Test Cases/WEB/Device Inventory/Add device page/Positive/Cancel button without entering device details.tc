@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cancel button without entering device details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5559253-e375-4323-9a0f-650eae41ac9e</testCaseGuid>
+</TestCaseEntity>

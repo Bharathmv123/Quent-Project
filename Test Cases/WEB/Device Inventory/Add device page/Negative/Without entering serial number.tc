@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Error message should be diplayed for the serial number field.</description>
+   <name>Without entering serial number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a570fa8b-a580-4f03-8c20-1671abfc2888</testCaseGuid>
+</TestCaseEntity>

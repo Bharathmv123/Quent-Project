@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_91</name>
+   <name>button_No (1)</name>
    <tag></tag>
-   <elementGuidId>f5bd6426-824b-4560-b357-8f9974dca3c8</elementGuidId>
+   <elementGuidId>773e73eb-2b7f-4028-a422-0ce77f24697c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-1 > span.mat-option-text</value>
+         <value>#alertdialog-no</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-1']/span</value>
+         <value>//button[@id='alertdialog-no']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>88e1ce5a-a9f6-4133-a58a-3c1d29e9e17c</webElementGuid>
+      <value>button</value>
+      <webElementGuid>5cf33481-60f6-461f-9eee-e785e835fabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>alertdialog-no</value>
+      <webElementGuid>76565575-ef40-4f82-b491-b8a7193ed486</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>373dfaeb-52ab-49ad-9f88-531099e753fc</webElementGuid>
+      <value>mat-focus-indicator mat-stroked-button mat-button-base cdk-focused cdk-program-focused</value>
+      <webElementGuid>9749f37b-1ef2-43d6-87a1-c1c59c097e35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> +91 </value>
-      <webElementGuid>aeee0191-bb82-4a84-a7bc-1b17f8fe1f56</webElementGuid>
+      <value> No</value>
+      <webElementGuid>d304d3a9-b6a5-4422-8c79-a0e40fa05a39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>1907a786-8391-4682-a00e-9e13f4d1034f</webElementGuid>
+      <value>id(&quot;alertdialog-no&quot;)</value>
+      <webElementGuid>5166421a-079b-4cde-8937-cddc2bef982f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='alertdialog-no']</value>
+      <webElementGuid>da74fd47-c18f-4f01-80fd-9d16b9aec07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-1']/span</value>
-      <webElementGuid>88eb95cc-2a5b-4a4a-b394-c1fa17381559</webElementGuid>
+      <value>//mat-dialog-container[@id='mat-dialog-1']/n2-platform-alert-dialog/mat-dialog-content/div/div[2]/div[3]/div/button</value>
+      <webElementGuid>6b85e641-2056-4c54-b27f-40def06ed6b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-1', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[2]</value>
-      <webElementGuid>1dc17b9e-8ca2-4662-aece-67adac6a2975</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Changes you made may not be saved.'])[1]/following::button[1]</value>
+      <webElementGuid>7a4af8de-74c6-44e0-9b27-8a6e0f6983fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright 2022 Quent. All rights reserved.'])[1]/following::span[2]</value>
-      <webElementGuid>8d401ed5-4dda-4e6c-a10f-cd64de2657eb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure?'])[1]/following::button[1]</value>
+      <webElementGuid>1d64efa8-cecb-4b84-b4ef-e416089d8b56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[1]</value>
-      <webElementGuid>07552331-ddd8-4081-a1ff-340189962603</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='+91']/parent::*</value>
-      <webElementGuid>d1fb7564-d3ad-4c40-a5af-4212cfeb7509</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::button[1]</value>
+      <webElementGuid>55c056c8-fa1a-42fe-83cc-a79d25485b10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[2]/span</value>
-      <webElementGuid>a975a080-568e-4927-b2eb-21d5ea9e03aa</webElementGuid>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>31dd7d69-a238-4a29-9929-6b561c79f184</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' +91 ' or . = ' +91 ')]</value>
-      <webElementGuid>b84b5a26-34b4-43cc-94cd-f742094a021a</webElementGuid>
+      <value>//button[@id = 'alertdialog-no' and (text() = ' No' or . = ' No')]</value>
+      <webElementGuid>a9fd97bc-aa28-4a5f-b5a7-73534216fc06</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

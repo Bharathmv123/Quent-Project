@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__login-phonenumber</name>
+   <name>input_BLE MAC ID_mat-input-13 (2)</name>
    <tag></tag>
-   <elementGuidId>aae3f6e6-d6d7-42b7-98d2-6a493a4d8d5a</elementGuidId>
+   <elementGuidId>3e049f34-a9fb-4348-8b44-7411027fb5c9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#login-phonenumber</value>
+         <value>#mat-input-13</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='login-phonenumber']</value>
+         <value>//input[@id='mat-input-13']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ec81b054-1641-4613-ad8e-818df3f2267b</webElementGuid>
+      <webElementGuid>8c9019d7-cc6d-4a0e-bfcd-139f9d780641</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>formcontrolname</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>82abbd3d-7a8a-43f8-b20c-291749dae93b</webElementGuid>
+      <value>wifiMacId</value>
+      <webElementGuid>8afdda55-9243-4bb8-a9ee-9d4c569b3009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>login-phonenumber</value>
-      <webElementGuid>069478a6-e556-4ae9-9270-e350f201cca0</webElementGuid>
+      <value>mat-input-element mat-form-field-autofill-control ng-tns-c113-34 ng-untouched ng-pristine ng-invalid cdk-text-field-autofill-monitored</value>
+      <webElementGuid>eb756a37-603d-4bc3-9bd8-8b733b5020fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,31 +46,23 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>87435d38-5924-46a8-9ea5-7a928905daa8</webElementGuid>
+      <webElementGuid>8a973f1c-d815-470f-b6eb-d6f2903d042e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-input-13</value>
+      <webElementGuid>436816f2-69d0-422d-8e26-2c361e65f135</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>data-placeholder</name>
       <type>Main</type>
-      <value>10</value>
-      <webElementGuid>e1fe2d0c-cfdd-44ac-874c-a57e75ff1e1e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>minlength</name>
-      <type>Main</type>
-      <value>10</value>
-      <webElementGuid>05466e36-05af-4e92-b178-2017dec87692</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>mat-input-element mat-form-field-autofill-control p-b5 ng-pristine ng-invalid cdk-text-field-autofill-monitored ng-touched</value>
-      <webElementGuid>7830488d-e0e4-4eeb-96b6-76aa0d246396</webElementGuid>
+      <value>__ : __ : __ : __ : __ : __</value>
+      <webElementGuid>09b26ba5-7204-4d9a-b610-e5dc99a39023</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +70,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c3f18536-f9eb-4b29-8075-49dc4c97d74a</webElementGuid>
+      <webElementGuid>aae104db-598f-4380-87a1-061500401f48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,46 +78,54 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bf4be732-da40-44b2-b26b-3f3a2661909c</webElementGuid>
+      <webElementGuid>cede04be-ac78-429b-828f-24cd784ab750</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-describedby</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>mat-error-0</value>
-      <webElementGuid>594d9f1b-55ee-4890-a9ca-efd1ec67e940</webElementGuid>
+      <value>__ : __ : __ : __ : __ : __</value>
+      <webElementGuid>e6e9f13b-6f85-46da-ac7b-72aeb6f3f91b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login-phonenumber&quot;)</value>
-      <webElementGuid>36c41cee-2ea9-4fd2-b4c9-73cb71a1d25c</webElementGuid>
+      <value>id(&quot;mat-input-13&quot;)</value>
+      <webElementGuid>b2f97187-b7c3-4666-984b-7c427b842de5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='login-phonenumber']</value>
-      <webElementGuid>5ec18b6f-822e-4758-93af-0be9fbb8ba78</webElementGuid>
+      <value>//input[@id='mat-input-13']</value>
+      <webElementGuid>59622307-fd8f-437f-bf80-45b66be35cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div/fieldset/div/div/div[3]/fieldset/div/div[2]/mat-form-field/div/div/div[3]/input</value>
+      <webElementGuid>ed4fe835-60e3-4f51-bea6-b7fb5b8477d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>9b8dd155-3cf1-4cc0-92ad-40f26b1bf5e9</webElementGuid>
+      <value>//div[2]/mat-form-field/div/div/div[3]/input</value>
+      <webElementGuid>068d587b-76a9-492b-b7a8-b240f3d58af2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'login-phonenumber']</value>
-      <webElementGuid>0aa61f50-785d-4652-a292-9cbfd3d6ab2a</webElementGuid>
+      <value>//input[@id = 'mat-input-13' and @placeholder = '__ : __ : __ : __ : __ : __']</value>
+      <webElementGuid>a3421d38-9b33-471a-a53a-bcfb87cc20bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

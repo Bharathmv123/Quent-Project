@@ -21,31 +21,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://ec2-34-194-6-57.compute-1.amazonaws.com/quent-pre-user-trail/#/auth-flow/auth/login')
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_1'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_91'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_91 (2)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_QuentPreUserTrail/input__login-phonenumber'), '8217603935')
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div__mat-form-field-infix ng-tns-c113-1'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_QuentPreUserTrail/input__login-password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
+WebUI.setText(findTestObject('Object Repository/Page_QuentPreUserTrail/input__login-phonenumber (2)'), '9022351287')
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_Login'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_QuentPreUserTrail/input__login-password (2)'), 'cvW8qx4B2o3F4VwP/kNsqA==')
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_Start Date'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_Login (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/p_Device Inventory (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_8'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_Add Device (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div__mat-form-field-infix ng-tns-c113-3'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_Cancel'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_10'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img_1 (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_search'))
-
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img'))
-
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_Logout'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_Logout (2)'))
 
 WebUI.closeBrowser()
 

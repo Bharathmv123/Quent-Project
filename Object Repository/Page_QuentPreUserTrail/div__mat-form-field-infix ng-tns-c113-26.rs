@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__mat-form-field-infix ng-tns-c113-26</name>
+   <tag></tag>
+   <elementGuidId>312a7f7d-bc27-4341-b5d3-db8cfabd4a43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c113-26</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div/fieldset/div/div/div[5]/mat-form-field/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f258eb92-d9bc-41d3-9239-b24b9ea45a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c113-26</value>
+      <webElementGuid>6dec771e-a328-4571-a067-850b07832d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;deviceform ng-star-inserted ng-invalid ng-touched ng-dirty&quot;]/mat-dialog-content[@class=&quot;mat-dialog-content mat-typography&quot;]/div[@class=&quot;p-b2&quot;]/fieldset[@class=&quot;border1px&quot;]/div[1]/div[1]/div[5]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-26 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-26&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-26&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c113-26&quot;]</value>
+      <webElementGuid>ca31a487-004d-4e11-87e2-54afd42f7a9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div/fieldset/div/div/div[5]/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>e8174024-47a6-4da0-84d8-5de9e53ad3a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::div[11]</value>
+      <webElementGuid>8c9ea74c-35f8-4222-b352-daac39df10bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::div[4]</value>
+      <webElementGuid>a0c879ec-8f8c-4380-accd-4b3a7265253c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>5ee85a26-1ef7-4155-bfab-245ecd3a53e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

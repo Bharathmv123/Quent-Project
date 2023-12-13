@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The erroe message should be displayed to the user on BLE/ MAC ID feild.</description>
+   <name>Without entering BLE Mac ID feild click on save button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>494b1fd7-11c2-4d05-916b-e065702de0b3</testCaseGuid>
+</TestCaseEntity>
