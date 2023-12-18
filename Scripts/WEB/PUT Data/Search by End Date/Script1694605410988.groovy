@@ -25,21 +25,27 @@ WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_91'))
 
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div__mat-form-field-infix ng-tns-c113-1'))
+
 WebUI.setText(findTestObject('Object Repository/Page_QuentPreUserTrail/input__login-phonenumber'), '8217603935')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_QuentPreUserTrail/input__login-password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
 
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_Start Date'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img_Start Date_date-picker ng-tns-c113-7'))
 
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_QT Interval_mat-focus-indicator mat-_25192e'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_8'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/td_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div__mat-form-field-infix ng-tns-c113-3'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_End Date'))
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_10'))
+WebUI.delay(5)
+
+//WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/img_Start Date_date-picker ng-tns-c113-7'))
+
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_1_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/button_search'))
 

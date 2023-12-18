@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The add filed agent pop up should be closed.</description>
+   <name>Click on Cancel icon without entering the any fields deatails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>379b133d-34ad-4abc-8aaf-60759aab206b</testCaseGuid>
+</TestCaseEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>92cab452-673b-44a3-998e-6235171b3732</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.mat-focus-indicator.mat-calendar-previous-button.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cfbe1d5d-4bf0-4679-8ed1-64efb84fada3</webElementGuid>
+      <webElementGuid>3e3a0750-5601-4c4f-b40e-598aff5714f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f3f64ece-c814-4434-a99d-58098d686900</webElementGuid>
+      <webElementGuid>c3a87509-0c4d-4a25-ae3c-ce2469454484</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-focus-indicator mat-calendar-previous-button mat-icon-button mat-button-base cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>6451212d-b429-484b-a56f-9a76f17263b9</webElementGuid>
+      <webElementGuid>df621029-fcc8-4b2f-aecc-815cd5d5d6de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Previous month</value>
-      <webElementGuid>fd6bb3e6-4181-4763-a2ad-558110326b11</webElementGuid>
+      <webElementGuid>dde2e91e-84f1-4cd6-acc6-9a25dd07fb3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-datepicker-0&quot;)/mat-calendar-header[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-calendar-header&quot;]/div[@class=&quot;mat-calendar-controls&quot;]/button[@class=&quot;mat-focus-indicator mat-calendar-previous-button mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>c04abb82-6d16-41a8-90a9-3e37fdb988b9</webElementGuid>
+      <webElementGuid>6748980e-c698-49c8-8fe7-afcb69e4d1e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>7b025729-1518-453f-ba0b-ddf9ce87ef0a</webElementGuid>
+      <webElementGuid>56473993-b5a0-4007-92c4-0fcbb9e02430</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-calendar[@id='mat-datepicker-0']/mat-calendar-header/div/div/button[2]</value>
-      <webElementGuid>a464ee32-174a-4b2a-8bf9-4d817126aa9a</webElementGuid>
+      <webElementGuid>779ec3dd-dd80-4102-a69b-63fdc788aed0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='QT Interval:'])[1]/following::button[2]</value>
-      <webElementGuid>b59ce565-6ca1-4374-b7fe-01d0e1e51fec</webElementGuid>
+      <webElementGuid>ec89e601-c003-4a16-a81f-74aa7d1e6a16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='QRS Duration:'])[1]/following::button[2]</value>
-      <webElementGuid>e2fbf747-1be8-4926-8caa-9245058b3de5</webElementGuid>
+      <webElementGuid>ebb463ba-1c52-40a9-aea2-ca5ff33c9700</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/preceding::button[2]</value>
-      <webElementGuid>3157fb55-794c-4ba2-8250-6a5214a6995d</webElementGuid>
+      <webElementGuid>d0633421-de7b-44ea-a1b5-3ddd9a1c362b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/preceding::button[2]</value>
-      <webElementGuid>3f6d869f-c228-43fb-956f-12f888157404</webElementGuid>
+      <webElementGuid>e5d343f7-76dd-49cc-a712-7db16966397d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-calendar-header/div/div/button[2]</value>
-      <webElementGuid>afb5f20d-51c5-4c60-9d3d-a8d2b37eeebf</webElementGuid>
+      <webElementGuid>fe0c36a4-541d-453f-9e4f-cd16057abcee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>1410c8d7-eafc-47b5-9946-a9d08d4be8c2</webElementGuid>
+      <webElementGuid>9eb40d87-0ad9-486a-988d-bc745efcc708</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

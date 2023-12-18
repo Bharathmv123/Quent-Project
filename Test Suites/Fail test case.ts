@@ -12,10 +12,10 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>cc297d16-d277-4c62-b97b-5875cbfccaad</testSuiteGuid>
    <testCaseLink>
-      <guid>6b5035d7-24d7-4f91-ab04-f61bbd2bb9b5</guid>
+      <guid>0463053f-3863-4e26-960a-3c80987a3369</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/Login/Login Invalid Number(N)</testCaseId>
+      <testCaseId>Test Cases/WEB/PUT Data/Search by End Date</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
