@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Fieldagent (5)</name>
+   <tag></tag>
+   <elementGuidId>2d63ca44-02e9-4f2a-a8ae-93a5cb253636</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.panel-btn.mat-button.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d62fd963-b8c9-4a07-986d-75ca60b13cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d612d680-1075-4148-bbf0-d943454fa1ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator panel-btn mat-button mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>67496629-55d4-4d6a-ab0e-127422a06c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Fieldagent </value>
+      <webElementGuid>25b5961e-0c70-41f0-b8b9-024efb87dee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-useragent[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]/div[1]/div[@class=&quot;text-right&quot;]/button[@class=&quot;mat-focus-indicator panel-btn mat-button mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>d3dc2bf5-3788-42e4-9319-a8f10241a6fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>769b65d0-c85c-4fd4-a1a4-a0e75038d743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field Agent'])[2]/following::button[1]</value>
+      <webElementGuid>8d24ed62-28b9-412f-9a97-f94191a064a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diksha D'])[1]/following::button[8]</value>
+      <webElementGuid>eb703161-75d4-4713-a305-f1200a851c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::button[1]</value>
+      <webElementGuid>2e6949e3-8d31-4816-9a9e-540ee892583d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>9e3e2585-8ff8-4b36-b2b0-595c8a49568b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Add Fieldagent ' or . = ' Add Fieldagent ')]</value>
+      <webElementGuid>7626e76d-a6e2-4300-80a4-4a3eff1bea10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
