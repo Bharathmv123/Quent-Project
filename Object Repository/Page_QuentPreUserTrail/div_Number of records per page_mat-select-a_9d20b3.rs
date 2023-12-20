@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Number of records per page_mat-select-a_9d20b3</name>
+   <tag></tag>
+   <elementGuidId>bf18bbf2-d76a-462f-9640-e5a4ed933461</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-arrow-wrapper.ng-tns-c121-22</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='mat-select-14']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>20dae1fd-661a-4485-98a0-bc3d9992d93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-arrow-wrapper ng-tns-c121-22</value>
+      <webElementGuid>2684ea5a-0332-485d-a3d6-2ac0a102842e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-14&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c121-22&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c121-22&quot;]</value>
+      <webElementGuid>a2c97337-e997-4492-a46c-a3b76e6d2334</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-14']/div/div[2]</value>
+      <webElementGuid>7660f5cb-50cc-42fc-a9f4-c0cbf9d0defe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of records per page'])[1]/following::div[4]</value>
+      <webElementGuid>8cfb5259-46ce-4fd9-9b7f-5b86547c0f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 10 of 25 items'])[1]/following::div[6]</value>
+      <webElementGuid>07f8f924-ae29-4301-859d-849ac096f070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='page'])[1]/preceding::div[2]</value>
+      <webElementGuid>82777abf-df0d-472f-ae2d-e9a2fa9b9a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/mat-select/div/div[2]</value>
+      <webElementGuid>08d8dab8-8fff-47d8-af11-26e955587367</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
