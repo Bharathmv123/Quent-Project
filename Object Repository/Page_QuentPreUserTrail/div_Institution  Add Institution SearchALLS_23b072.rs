@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Institution  Add Institution SearchALLS_23b072</name>
+   <tag></tag>
+   <elementGuidId>dd2231b8-e042-4e46-a635-a19d02b05299</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.usertrail-list-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f8efe37-bcf6-410c-b5a4-8ea344d6f8bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>df040c49-96fd-444d-8108-46c508d80bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>usertrail-list-container</value>
+      <webElementGuid>71a647ac-9ae4-4e4d-b088-48ce81ce8494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Institution  Add Institution SearchALLSelect CountrySelect StateSelect City Search  Clear  No Records Found </value>
+      <webElementGuid>1667c031-0997-4a42-b4ce-dc3321a5bc49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;default-dashboard-container&quot;]/div[@class=&quot;wearer-menu&quot;]/div[@class=&quot;content-container&quot;]/n2-platform-main-content[1]/n2-platform-main-content-item[1]/app-institute[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;usertrail-list-container&quot;]</value>
+      <webElementGuid>c053d2ea-315b-4d06-8967-40de7d37e704</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[1]</value>
+      <webElementGuid>45997883-a604-47ac-930f-1e073e16d5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No institution are available'])[1]/following::div[1]</value>
+      <webElementGuid>b7f6358c-d4d8-4aa8-a876-7a0922a4b16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-institute/div</value>
+      <webElementGuid>6712651f-21d3-4c9d-9236-18bc3ba2fab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Institution  Add Institution SearchALLSelect CountrySelect StateSelect City Search  Clear  No Records Found ' or . = ' Institution  Add Institution SearchALLSelect CountrySelect StateSelect City Search  Clear  No Records Found ')]</value>
+      <webElementGuid>c83099be-8400-401f-b454-741c222e02fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>8caa47c5-6fb0-4c4a-b705-084829c55c39</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.mat-tooltip-trigger.ng-star-inserted</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//mat-icon/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.mat-tooltip-trigger.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>727fbcf0-c4cf-48b4-85b6-7674f7cd625b</webElementGuid>
+      <webElementGuid>a193d7f1-b6a5-40cb-b286-691305a76031</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>./assets/icons/outline_visibility.png</value>
-      <webElementGuid>22896785-50de-41b4-89a1-b2944fa2d25d</webElementGuid>
+      <webElementGuid>c82531fc-221f-4d05-8a86-b90319733f8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-tooltip-trigger ng-star-inserted</value>
-      <webElementGuid>05467123-0f3c-4649-9456-899007e8e701</webElementGuid>
+      <webElementGuid>accc73d7-d318-40e9-9cd6-e775756a390d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>cdk-describedby-message-0</value>
-      <webElementGuid>770f48cd-f00e-40c8-8a2d-0a8da79f11bc</webElementGuid>
+      <webElementGuid>7affcac1-bd7e-4005-beab-8fadc2cbe947</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;regflow-panel&quot;]/app-root[1]/app-auth-flow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;auth-contents&quot;]/div[1]/main[1]/section[1]/app-common[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;signin-user&quot;]/div[1]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;right-panel-body&quot;]/div[@class=&quot;panel-right fixed p-r3 p-t7&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[1]/div[1]/div[@class=&quot;common-margin&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;common-signup&quot;]/div[5]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-3 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-3&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-3&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c113-3 ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons-outlined cursor-pointer material-icons mat-icon-no-color ng-tns-c113-3&quot;]/img[@class=&quot;mat-tooltip-trigger ng-star-inserted&quot;]</value>
-      <webElementGuid>29dfb83b-6efd-4ca9-94ef-c46c2f9caeca</webElementGuid>
+      <value>/html[1]/body[@class=&quot;regflow-panel&quot;]/app-root[1]/app-auth-flow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;auth-contents&quot;]/div[1]/main[1]/section[1]/app-common[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;signin-user&quot;]/div[1]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;right-panel-body&quot;]/div[@class=&quot;panel-right fixed p-r3 p-t7&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[1]/div[1]/div[@class=&quot;common-margin&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;common-signup&quot;]/div[5]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-3 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-touched mat-form-field-should-float ng-dirty ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-3&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-3&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c113-3 ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons-outlined cursor-pointer material-icons mat-icon-no-color ng-tns-c113-3&quot;]/img[@class=&quot;mat-tooltip-trigger ng-star-inserted&quot;]</value>
+      <webElementGuid>622df73e-a002-49b6-8f4f-8e05b3ce9b31</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-icon/img</value>
-      <webElementGuid>12dabd31-296e-4149-abad-168c19ee18f5</webElementGuid>
+      <webElementGuid>5d66940a-2f97-4234-b053-7cbd4f5e55da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './assets/icons/outline_visibility.png']</value>
-      <webElementGuid>54481279-98f4-424d-88de-695e4c0a7301</webElementGuid>
+      <webElementGuid>699d0b79-8a6a-4d18-affd-99d1c64d4c5d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

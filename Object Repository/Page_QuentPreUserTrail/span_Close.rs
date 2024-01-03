@@ -6,12 +6,12 @@
    <elementGuidId>94bf70b2-8ebb-4993-b6a3-80a717b55c57</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#alertdialog-close > span.mat-button-wrapper</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='alertdialog-close']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#alertdialog-close > span.mat-button-wrapper</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>efadbece-3cb2-49a7-bc68-b0fec8f73346</webElementGuid>
+      <webElementGuid>521a3ddf-581a-4e05-b543-ca563e996fd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>37ddae33-9d43-4d3f-9242-57e629828e68</webElementGuid>
+      <webElementGuid>51d7253a-09b8-42d7-9d88-e3994f6767fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>a7a9525f-4fef-49b6-babc-864e0b9ed821</webElementGuid>
+      <webElementGuid>07290db9-2e89-40d8-b3e9-35f20db6faaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;alertdialog-close&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>a5612331-219e-40aa-9de7-4a00696eac89</webElementGuid>
+      <webElementGuid>e7ece3bb-8139-4c53-9f86-9dd68b31a771</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,15 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='alertdialog-close']/span</value>
-      <webElementGuid>3c0ed0b4-7a5c-42bb-a1e5-8b94650a499e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please contact customer support.'])[1]/following::span[1]</value>
-      <webElementGuid>158cac32-bee6-4a41-9fab-c98e34e72860</webElementGuid>
+      <webElementGuid>72a12a23-4142-42c5-ae40-ea470e22a243</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +62,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::span[1]</value>
-      <webElementGuid>34dacbbf-e972-4fc8-b548-3aa2b73878d3</webElementGuid>
+      <webElementGuid>cb1e307a-030a-47da-8552-5f30d70395fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'alertdialog-close', '&quot;', ')/span[@class=', '&quot;', 'mat-button-wrapper', '&quot;', ']')])[1]/following::span[1]</value>
+      <webElementGuid>030defd6-c5b1-4955-a2c8-21a45f5c74ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View password'])[1]/preceding::span[3]</value>
-      <webElementGuid>01c9f203-5e43-4760-af28-ed9fd4782123</webElementGuid>
+      <webElementGuid>8cc527c9-a054-4a64-9f39-ec19d2cdf0d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
-      <webElementGuid>3f4a72b6-689c-4127-962a-5af593ed1a47</webElementGuid>
+      <webElementGuid>b2aac49b-31f5-40a7-bbc8-058dddaa1dc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button/span</value>
-      <webElementGuid>589c977d-c961-4241-8b8f-8866792b3981</webElementGuid>
+      <webElementGuid>4ca73caf-11a1-498a-91a4-808c67845695</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>11f1f947-3834-4287-8d94-629f4ab5b5d3</webElementGuid>
+      <webElementGuid>acab7143-af1b-4663-b714-4eeac2724757</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

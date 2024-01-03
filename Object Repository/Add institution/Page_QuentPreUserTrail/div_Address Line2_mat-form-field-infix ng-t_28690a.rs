@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Address Line2_mat-form-field-infix ng-t_28690a</name>
+   <tag></tag>
+   <elementGuidId>d7c32056-a495-4ab3-b168-877474d0324a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div/div[2]/div[4]/div[2]/mat-form-field/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c113-39</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>20e2cc4c-8375-46b1-b325-b781ca02dade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c113-39</value>
+      <webElementGuid>53e171bd-9cb4-427b-a197-d0499b532e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/form[@class=&quot;deviceform ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/mat-dialog-content[@class=&quot;mat-dialog-content mat-typography&quot;]/div[1]/div[2]/div[4]/div[2]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-39 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-39&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-39&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c113-39&quot;]</value>
+      <webElementGuid>8e35f5ff-a83b-4049-8407-69eff1e35b5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/form/mat-dialog-content/div/div[2]/div[4]/div[2]/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>a88e5fee-6019-4fb9-90c6-154e0dfa8961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Line2'])[2]/following::div[11]</value>
+      <webElementGuid>b60d970e-928e-4ef5-a994-84a7fc773169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::div[26]</value>
+      <webElementGuid>1a366a67-5c5a-4398-b457-e23151ce1ea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/preceding::div[4]</value>
+      <webElementGuid>616af9ca-89cc-4a59-a6f5-6d9000b8baf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>258dab4d-3670-4ba6-9c28-75e00bee7f31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

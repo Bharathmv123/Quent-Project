@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_--Select--_mat-select-arrow-wrapper ng-_36f9cc</name>
+   <name>div_Number of records per page_mat-select-a_9d20b3 (1)</name>
    <tag></tag>
-   <elementGuidId>7e67b2ce-5197-4c64-bddb-7589083f326d</elementGuidId>
+   <elementGuidId>6c6cfd31-d8ce-4c30-8319-98cf851c8667</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.mat-select-arrow-wrapper.ng-tns-c121-32</value>
+         <value>div.mat-select-arrow-wrapper.ng-tns-c121-22</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-select[@id='mat-select-16']/div/div[2]</value>
+         <value>//mat-select[@id='mat-select-14']/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,62 +22,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e1dd579a-4522-40ae-9bea-6a6b4cac66f4</webElementGuid>
+      <webElementGuid>3eec1ac8-e95a-4927-a8f2-a273af1e17a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-select-arrow-wrapper ng-tns-c121-32</value>
-      <webElementGuid>f74ab541-c94a-4cf5-82a4-30eb893e8a32</webElementGuid>
+      <value>mat-select-arrow-wrapper ng-tns-c121-22</value>
+      <webElementGuid>4506bb6c-dfb9-4435-b782-bbfb522e11c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-select-16&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c121-32&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c121-32&quot;]</value>
-      <webElementGuid>2d83e9e4-a49c-498c-8508-b9a0064f5b93</webElementGuid>
+      <value>id(&quot;mat-select-14&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c121-22&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c121-22&quot;]</value>
+      <webElementGuid>4ba18bcd-ec27-47e1-b48b-a1bcf05f9005</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-select[@id='mat-select-16']/div/div[2]</value>
-      <webElementGuid>a20cc570-7f87-42ff-9f5a-f72ce6c39d7f</webElementGuid>
+      <value>//mat-select[@id='mat-select-14']/div/div[2]</value>
+      <webElementGuid>74a04c94-a6b1-4443-af3a-7616ba5b8b90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='--Select--'])[1]/following::div[1]</value>
-      <webElementGuid>7ac8d00d-d022-4359-a5db-6f88d90ea45f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of records per page'])[1]/following::div[4]</value>
+      <webElementGuid>72bd3597-fbc6-4f00-9f7e-051a71896540</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operating System'])[1]/following::div[14]</value>
-      <webElementGuid>858a564a-61cb-4184-867c-295904d1d65e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 3 of 3 items'])[1]/following::div[6]</value>
+      <webElementGuid>43c1d96f-65e2-460d-ad24-d1d18c1d728e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MQTT Flag'])[2]/preceding::div[5]</value>
-      <webElementGuid>535ac60c-3bfe-4a68-acee-1ea7eccd286f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='page'])[1]/preceding::div[2]</value>
+      <webElementGuid>93a0b29b-5223-4c46-a68f-bf22c4adc71e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/mat-form-field/div/div/div[3]/mat-select/div/div[2]</value>
-      <webElementGuid>bcce49b7-cae0-4030-9a96-f6361047f4ad</webElementGuid>
+      <value>//div[2]/mat-select/div/div[2]</value>
+      <webElementGuid>455c11ee-088e-40af-ba14-98a5a0571221</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

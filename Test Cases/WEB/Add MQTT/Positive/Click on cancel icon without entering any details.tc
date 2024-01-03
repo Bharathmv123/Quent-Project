@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click on cancel icon without entering any details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bec0f35e-822f-45a9-b334-99a0fcb544b4</testCaseGuid>
+</TestCaseEntity>

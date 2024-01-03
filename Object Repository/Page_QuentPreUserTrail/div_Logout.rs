@@ -6,12 +6,12 @@
    <elementGuidId>f8ee3b83-92e0-4fa4-b64e-31ecaf237128</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.profile-menu-button</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='logout']/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.profile-menu-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d9dfb367-e5c2-46bb-a5a5-ecedb9ce7ea3</webElementGuid>
+      <webElementGuid>baf338b3-d80e-4487-8790-6ff007c8bc33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>profile-menu-button</value>
-      <webElementGuid>0c6ef0c8-49c9-4b6d-b93b-e2bc8bd37ace</webElementGuid>
+      <webElementGuid>66edcd57-d115-4c62-b22e-99f0d2186a8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
 
 Logout</value>
-      <webElementGuid>d8dc3743-093d-438c-886c-fc74df96c05d</webElementGuid>
+      <webElementGuid>dec2c586-35e3-43df-9604-65cabf279ffb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@ Logout</value>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;logout&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/div[@class=&quot;profile-menu-button&quot;]</value>
-      <webElementGuid>067a6ffe-f383-4703-92ef-79de37b2ed1d</webElementGuid>
+      <webElementGuid>7e82b693-ec04-4c38-a240-5c7c01bc3b67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@ Logout</value>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='logout']/span/div</value>
-      <webElementGuid>d4719ed4-4d7d-47d5-8e03-6bae3e6fed84</webElementGuid>
+      <webElementGuid>7004bedd-9498-497d-aec6-6f6872cb5d8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@ Logout</value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::div[5]</value>
-      <webElementGuid>39815984-f784-4c56-bdfa-6b2154178e20</webElementGuid>
+      <webElementGuid>0d760d19-741a-4e33-9b6d-13d0ca47b40a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@ Logout</value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha'])[1]/following::div[7]</value>
-      <webElementGuid>e5b112f4-8ed5-4c35-8f5c-85dfeae3f395</webElementGuid>
+      <webElementGuid>03a110fd-9ddd-4e59-b61e-fea443d80862</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,15 +80,15 @@ Logout</value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sirisha S'])[2]/preceding::div[9]</value>
-      <webElementGuid>3add0790-80d4-4a8f-9986-99c5c9424290</webElementGuid>
+      <webElementGuid>dcf92f05-00e0-4d29-af9f-673d05d38300</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-list-item/div/button/span/div</value>
-      <webElementGuid>54460bc3-d182-496f-8b84-ec989628f4e0</webElementGuid>
+      <value>//span/div</value>
+      <webElementGuid>346f175b-c183-4d12-bb0a-26d10d60aea5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,6 +100,6 @@ Logout</value>
 Logout' or . = '
 
 Logout')]</value>
-      <webElementGuid>2ebd3f18-460e-42d0-b340-e7fe6110db12</webElementGuid>
+      <webElementGuid>b4266222-6e91-4c1a-8613-d11eaf32ebd8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

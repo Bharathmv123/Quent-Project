@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Save_mat-select-search-input mat-inpu_64ffd2</name>
+   <tag></tag>
+   <elementGuidId>30e14c24-44c9-419a-85e8-68f502c3e3d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.mat-select-search-input.mat-input-element.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>828921a2-a7f3-463d-90c0-5cc13a4c235d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>c871042b-5a2e-48fc-94a3-65900b52c23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-search-input mat-input-element ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>62a0584a-531b-46d2-b30f-c8fadacad339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a44c0f7d-2f38-4217-8cd2-422920d62554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Country</value>
+      <webElementGuid>1d3a15fd-22d8-4314-8d21-87afe98f597b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>dropdown search</value>
+      <webElementGuid>195b00ae-9a4b-431e-8ae5-cd6eaee78382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-292&quot;)/span[@class=&quot;mat-option-text&quot;]/ngx-mat-select-search[@class=&quot;mat-select-search-inside-mat-option ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;mat-select-search-inner mat-typography mat-datepicker-content mat-tab-header&quot;]/input[@class=&quot;mat-select-search-input mat-input-element ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>15b9b061-3379-4ba8-96d6-397ab49df004</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>39c996f9-78f3-4852-b4b1-fae3762de7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-292']/span/ngx-mat-select-search/div/input</value>
+      <webElementGuid>e9d9bd29-b905-4fe8-81a0-c70dd8142ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-mat-select-search/div/input</value>
+      <webElementGuid>f2add652-f592-4688-b348-536aab333d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search Country']</value>
+      <webElementGuid>ebce6dfb-bde3-43df-80e8-47cd822a1398</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

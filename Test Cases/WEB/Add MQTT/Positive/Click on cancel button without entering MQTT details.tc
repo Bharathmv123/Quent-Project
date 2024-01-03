@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click on cancel button without entering MQTT details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ace8fd8b-0228-43c7-896a-f04ae0bbdf8c</testCaseGuid>
+</TestCaseEntity>

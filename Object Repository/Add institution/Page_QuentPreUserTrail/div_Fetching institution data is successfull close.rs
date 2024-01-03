@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fetching institution data is successfull close</name>
+   <tag></tag>
+   <elementGuidId>30d2ea42-1e5d-402e-a48f-4042953a9ebb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cdk-overlay-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16b77654-176e-4bd8-88ef-79b59fc5eb2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cdk-overlay-2</value>
+      <webElementGuid>9227b684-cccd-4b76-a56f-cba78d7b16ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-overlay-pane</value>
+      <webElementGuid>66f785fb-ca62-44c3-b9d6-cf6f1b457a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Fetching institution data is successfull close</value>
+      <webElementGuid>4b7e21f8-1aa5-405a-bc49-4de040612d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-2&quot;)</value>
+      <webElementGuid>515e63fd-f9d5-4b6b-bd69-34e4160e490a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-2']</value>
+      <webElementGuid>597575b3-b3d8-4f2a-8593-4e490e4e095d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'cdk-overlay-2', '&quot;', ')')])[1]/following::div[5]</value>
+      <webElementGuid>cc5a7113-c480-4493-ae32-a8602aafc1ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='page'])[2]/following::div[8]</value>
+      <webElementGuid>289e55e9-407e-4ae2-929a-cc8f83778d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diksha D'])[2]/preceding::div[11]</value>
+      <webElementGuid>10858e6c-1b79-46be-b68b-f3fd42a22ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>5b2b35fc-fad2-495c-b8b9-a23867c303b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cdk-overlay-2' and (text() = '   Fetching institution data is successfull close' or . = '   Fetching institution data is successfull close')]</value>
+      <webElementGuid>46cb17e5-2f2d-4bb8-a660-dc201574229d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

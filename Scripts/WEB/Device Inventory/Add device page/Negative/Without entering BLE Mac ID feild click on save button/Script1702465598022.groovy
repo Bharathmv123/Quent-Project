@@ -51,7 +51,7 @@ WebUI.setText(findTestObject('Object Repository/Page_QuentPreUserTrail/input__ma
 
 WebUI.setText(findTestObject('Object Repository/Page_QuentPreUserTrail/input_Software App Version_mat-input-11 (2)'), '1.1.94')
 
-WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div_--Select--_mat-select-arrow-wrapper ng-_36f9cc'))
+WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/div__mat-select-arrow-wrapper ng-tns-c121-48'))
 
 WebUI.click(findTestObject('Object Repository/Page_QuentPreUserTrail/span_IOS (2)'))
 

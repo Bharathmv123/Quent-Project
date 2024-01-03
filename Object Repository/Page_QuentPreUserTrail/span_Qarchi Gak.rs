@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Qarchi Gak</name>
+   <tag></tag>
+   <elementGuidId>9dbb4e57-dc54-484e-a7b9-5a69ccf21bd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-622']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-622 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f7e1d3ed-0c4d-4ec3-adb5-38eacfb514d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>caf4b53b-fcaa-4b0c-b1f3-83566f1aa267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Qarchi Gak </value>
+      <webElementGuid>1d416dc7-4792-40f2-a2bb-8519e5c338cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-622&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>c4a57d48-9aa3-4dd3-8c8f-55fc75f24aa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-622']/span</value>
+      <webElementGuid>abab2709-52dc-459d-bad6-c653e7c75737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mazar-e Sharif'])[1]/following::span[1]</value>
+      <webElementGuid>185717f0-9ae2-494e-bf7a-041f65043218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dawlatabad'])[1]/following::span[2]</value>
+      <webElementGuid>596c36c4-c1e9-4771-80aa-6a8f53b9c65d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shulgara'])[1]/preceding::span[1]</value>
+      <webElementGuid>1e7108a2-c356-4fe1-baad-d6aa9cb84a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tash Gozar'])[1]/preceding::span[2]</value>
+      <webElementGuid>ab828943-1a21-4f9e-921c-5994eecc782c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Qarchi Gak']/parent::*</value>
+      <webElementGuid>125a4383-3a4c-4df1-a131-b74609b6869e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[5]/span</value>
+      <webElementGuid>c1a95977-5fb5-4180-a2d1-e40c19ea1300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Qarchi Gak ' or . = ' Qarchi Gak ')]</value>
+      <webElementGuid>310bffc1-0d22-4067-8586-b23b20eeb5ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
