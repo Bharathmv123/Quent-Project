@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Failed test run user info Negative</name>
+   <name>Failed test run user info Positive</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -12,24 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>a21d0cd7-7eb6-401a-a8db-12d1cd52f757</testSuiteGuid>
    <testCaseLink>
-      <guid>d1f4345e-9014-4325-aa45-6891bba36767</guid>
+      <guid>675ef36f-b104-4509-acc1-d03092ed34a3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/User Trial Screen Negative/User Trial without entering Weight</testCaseId>
+      <testCaseId>Test Cases/User Trial Screen Positive/User Trial DOB Field</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c8648685-a188-46ad-9bcb-116d3842e76c</guid>
+      <guid>61c16f9f-cb48-44ec-8077-7711726b4eae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/User Trial Screen Negative/User trail without entering Height</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f1e78868-af83-4324-bae5-13f9ece443d3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/User Trial Screen Negative/User Trial without selecting Blood Group</testCaseId>
+      <testCaseId>Test Cases/User Trial Screen Positive/User Trial Select Wrist Observation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

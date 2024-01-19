@@ -18,7 +18,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/apple/Downloads/Quent_V2023.21 V1.1.100_191020230921_staging.apk', true)
+Mobile.startApplication(GlobalVariable.url, true)
 
 
 Mobile.tap(findTestObject('Object Repository/User Trial Scan User Reference ID/android.widget.CheckBox - User Trial'), 0)
@@ -50,7 +50,7 @@ Mobile.sendKeys(findTestObject('Object Repository/User Trial without entering Us
 Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.ImageButton'),
 	0)
 
-Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.TextView - 2005'),
+Mobile.tap(findTestObject('Object Repository/User Trial without entering User Reference ID/android.widget.TextView - 2006'),
 	0)
 
 Mobile.scrollToText('1997')
